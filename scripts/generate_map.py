@@ -29,12 +29,11 @@ for item in data:
         if item.get("category") == "Hotel"
         else "blue"
     )
+    
     popup = f"""
     <b>{item['name']}</b><br>
-    🌍 {item.get('country', '')}<br>
-    🏷️ {item.get('category', '')}<br><br>
     {item['url']}
-    🔗 Eintrag öffnen
+    Eintrag öffnen
     </a>
     """
 
