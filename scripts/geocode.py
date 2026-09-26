@@ -5,46 +5,45 @@ import requests
 INPUT_FILE = "data/restaurants_hotels_enriched.json"
 OUTPUT_FILE = "data/restaurants_hotels_geo.json"
 
+with open(INPUT_FILE,"r",encoding="utf-8") as f:
+    data = json.load(f)
+
 session = requests.Session()
 
 session.headers.update({
-    "User-Agent": "360EatGuideMap/1.0"
+    "User-Agent":"360EatGuideMap"
 })
-
-with open(INPUT_FILE, "r", encoding="utf-8") as f:
-    entries = json.load(f)
 
 results = []
 
-for idx, item in enumerate(entries, start=1):
+for item in data:
 
-    print(
-        f"[{idx}/{len(entries)}] {item['name']}"
+    query = (
+        f"{item['name']} "
+        f"{item['country']}"
     )
-
-    query = f"{item['name']} {item['country']}"
 
     lat = None
     lon = None
 
     try:
 
-        response = session.get(
+        r = session.get(
             "https://nominatim.openstreetmap.org/search",
             params={
                 "q": query,
-                "format": "jsonv2",
-                "limit": 1
+                "format":"jsonv2",
+                "limit":1
             },
-            timeout=60
+            timeout=30
         )
 
-        data = response.json()
+        hits = r.json()
 
-        if data:
+        if hits:
 
-            lat = float(data[0]["lat"])
-            lon = float(data[0]["lon"])
+            lat = float(hits[0]["lat"])
+            lon = float(hits[0]["lon"])
 
         time.sleep(1)
 
