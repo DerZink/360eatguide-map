@@ -11,7 +11,9 @@ with open(INPUT_FILE, "r", encoding="utf-8") as f:
 
 markers = []
 
-count = 0
+total_entries = len(data)
+mapped_entries = 0
+missing_entries = 0
 
 for item in data:
 
@@ -19,6 +21,7 @@ for item in data:
     lon = item.get("lon")
 
     if lat is None or lon is None:
+        missing_entries += 1
         continue
 
     color = (
@@ -29,16 +32,16 @@ for item in data:
 
     popup = f"""
     <b>{item['name']}</b><br>
-    {item['country']}<br>
-    {item['category']}<br>
-    <a href="{item['url']}" target="_blank">
-      Eintrag öffnen
+    {item.get('country', '')}<br>
+    {item.get('category', '')}<br>
+    {item['url']}
+        Eintrag öffnen
     </a>
     """
 
     markers.append(
         f"""
-        L.circleMarker(
+        const marker{mapped_entries} = L.circleMarker(
             [{lat}, {lon}],
             {{
                 color: "{color}",
@@ -49,10 +52,12 @@ for item in data:
         )
         .addTo(map)
         .bindPopup({json.dumps(popup)});
+
+        bounds.push([{lat}, {lon}]);
         """
     )
 
-    count += 1
+    mapped_entries += 1
 
 html = f"""
 <!DOCTYPE html>
@@ -62,7 +67,7 @@ html = f"""
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>360EatGuide Map</title>
+<title>360°Eat Guide Map</title>
 
 <link
  rel="stylesheet"
@@ -74,19 +79,26 @@ html = f"""
 html,
 body,
 #map {{
-    height:100%;
-    margin:0;
+    height: 100%;
+    margin: 0;
 }}
 
 .info {{
-    position:absolute;
-    top:10px;
-    left:10px;
-    z-index:1000;
-    background:white;
-    padding:10px;
-    border-radius:6px;
-    box-shadow:0 0 5px rgba(0,0,0,.3);
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+
+    background: white;
+    padding: 12px;
+
+    border-radius: 8px;
+
+    box-shadow: 0 0 10px rgba(0,0,0,.25);
+
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
 }}
 
 </style>
@@ -96,18 +108,21 @@ body,
 <body>
 
 <div class="info">
-<b>360EatGuide</b><br>
-Marker: {count}
+<b>360°Eat Guide</b><br>
+Datensätze: {total_entries}<br>
+Kartiert: {mapped_entries}<br>
+Ohne Koordinaten: {missing_entries}
 </div>
 
 <div id="map"></div>
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">\</script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/script>
 
 <script>
 
-const map = L.map("map")
-.setView([47.0, 8.0], 5);
+const map = L.map("map");
+
+const bounds = [];
 
 L.tileLayer(
     "https://tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png",
@@ -117,6 +132,12 @@ L.tileLayer(
 ).addTo(map);
 
 {''.join(markers)}
+
+if (bounds.length > 0) {{
+    map.fitBounds(bounds);
+}} else {{
+    map.setView([47.0, 8.0], 5);
+}}
 
 </script>
 
@@ -131,4 +152,10 @@ with open(
 ) as f:
     f.write(html)
 
-print(f"Map created with {count} markers")
+print()
+print("=" * 50)
+print(f"Total datasets: {total_entries}")
+print(f"Mapped: {mapped_entries}")
+print(f"Missing coordinates: {missing_entries}")
+print("=" * 50)
+print("Map created")
