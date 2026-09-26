@@ -1,7 +1,10 @@
-name: Debug 360EatGuide
+name: Scrape 360EatGuide
 
 on:
   workflow_dispatch:
+
+  schedule:
+    - cron: "0 3 * * 1"
 
 permissions:
   contents: write
@@ -12,9 +15,11 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    timeout-minutes: 30
+
     steps:
 
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -22,11 +27,12 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install packages
+      - name: Install dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      - name: Create folders
+      - name: Create data folder
         run: |
           mkdir -p data
 
@@ -39,22 +45,24 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: debug-pages
-          path: debug_page_*.html
+          path: |
+            debug_page_*.html
 
-      - name: Upload json
+      - name: Upload generated json
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: restaurants-json
-          path: data/restaurants_hotels.json
+          name: restaurants-hotels-json
+          path: |
+            data/restaurants_hotels.json
 
-      - name: Commit data
+      - name: Commit changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
 
           git add data/restaurants_hotels.json
 
-          git diff --cached --quiet || git commit -m "Update data"
+          git diff --cached --quiet || git commit -m "Update restaurant data"
 
           git push
