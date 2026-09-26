@@ -32,7 +32,7 @@ for item in data:
     
     popup = f"""
     <b>{item['name']}</b><br>
-    {item['url']}
+    <a href="{item['url']}" target="_blank">
     Eintrag öffnen
     </a>
     """
