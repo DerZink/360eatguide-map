@@ -5,8 +5,8 @@ on:
   workflow_dispatch:
 
   schedule:
-    # täglich um 03:00 UTC
-    - cron: "0 3 * * *"
+    # wöchtl um 03:00 UTC
+    - cron: "0 3 * * 1"
 
 permissions:
   contents: write
