@@ -33,7 +33,7 @@ for item in data:
     popup = f"""
     <b>{item['name']}</b><br>
     {item.get('country', '')}<br>
-    {item.get('category', '')}<br>
+    {item.get('category', '')}<br><br>
     {item['url']}
         Eintrag öffnen
     </a>
@@ -100,7 +100,7 @@ body,
     font-size: 14px;
     line-height: 1.5;
 
-    min-width: 180px;
+    min-width: 220px;
 }}
 
 .info hr {{
@@ -159,7 +159,7 @@ body,
 
 <div id="map"></div>
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">\</script>
 
 <script>
 
