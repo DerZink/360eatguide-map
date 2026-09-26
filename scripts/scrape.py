@@ -1,69 +1,98 @@
 import json
+import re
 import requests
 from bs4 import BeautifulSoup
 
-URL = "https://360eatguide.com/restaurants/"
+BASE_URL = "https://360eatguide.com/restaurants/"
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/127.0 Safari/537.36"
+HEADERS = {
+    "User-Agent": "Mozilla/5.0"
 }
 
-print("Lade:", URL)
+all_entries = []
 
-response = requests.get(URL, headers=headers, timeout=60)
+for page in range(1, 7):
 
-print("Status Code:", response.status_code)
-print("Content Length:", len(response.text))
+    if page == 1:
+        url = BASE_URL
+    else:
+        url = f"{BASE_URL}?jpage={page}"
 
-# HTML speichern
-with open("debug.html", "w", encoding="utf-8") as f:
-    f.write(response.text)
+    print(f"Scraping: {url}")
 
-soup = BeautifulSoup(response.text, "html.parser")
-
-# Alle Links sammeln
-links = []
-
-for a in soup.find_all("a", href=True):
-    links.append({
-        "text": a.get_text(strip=True),
-        "href": a["href"]
-    })
-
-# Links speichern
-with open("debug_links.json", "w", encoding="utf-8") as f:
-    json.dump(
-        links,
-        f,
-        indent=2,
-        ensure_ascii=False
+    response = requests.get(
+        url,
+        headers=HEADERS,
+        timeout=60
     )
 
-# Nur Restaurant-Links filtern
-restaurant_links = []
+    response.raise_for_status()
 
-for link in links:
+    soup = BeautifulSoup(
+        response.text,
+        "html.parser"
+    )
 
-    href = link["href"]
+    rows = soup.select(
+        "tr.wp-block-j360-blocks-restaurant-list-row"
+    )
 
-    if "/restaurants/" not in href:
-        continue
+    print(f"Rows found: {len(rows)}")
 
-    if href.endswith("/restaurants/"):
-        continue
+    for row in rows:
 
-    restaurant_links.append(link)
+        onclick = row.get("onclick", "")
+
+        match = re.search(
+            r"window\\.location=.*?'(.*?)'",
+            onclick
+        )
+
+        if not match:
+            continue
+
+        detail_url = match.group(1)
+
+        cells = row.find_all("td")
+
+        if len(cells) < 3:
+            continue
+
+        name = cells[0].get_text(
+            " ",
+            strip=True
+        )
+
+        country = cells[1].get_text(
+            " ",
+            strip=True
+        )
+
+        category = cells[2].get_text(
+            " ",
+            strip=True
+        )
+
+        all_entries.append({
+            "name": name,
+            "country": country,
+            "category": category,
+            "url": detail_url
+        })
+
+print(
+    f"Total entries: {len(all_entries)}"
+)
 
 with open(
     "data/restaurants_hotels.json",
     "w",
     encoding="utf-8"
 ) as f:
+
     json.dump(
-        restaurant_links,
+        all_entries,
         f,
         indent=2,
         ensure_ascii=False
     )
-
-print("Gefundene Links:", len(restaurant_links))
