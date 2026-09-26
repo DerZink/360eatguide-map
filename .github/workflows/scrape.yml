@@ -1,6 +1,9 @@
-name: Scrape 360EatGuide
+# .github/workflows/scrape.yml
+
+name: 360EatGuide Scraper
 
 on:
+
   workflow_dispatch:
 
   schedule:
@@ -15,7 +18,7 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    timeout-minutes: 30
+    timeout-minutes: 60
 
     steps:
 
@@ -32,15 +35,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      - name: Create data folder
+      - name: Create folders
         run: |
           mkdir -p data
 
-      - name: Run scraper
+      - name: Run restaurant scraper
         run: |
           python scripts/scrape.py
 
-      - name: Upload debug pages
+      - name: Run detail scraper
+        run: |
+          python scripts/enrich.py
+
+      - name: Upload debug html pages
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -48,7 +55,7 @@ jobs:
           path: |
             debug_page_*.html
 
-      - name: Upload generated json
+      - name: Upload raw json
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -56,13 +63,25 @@ jobs:
           path: |
             data/restaurants_hotels.json
 
-      - name: Commit changes
+      - name: Upload enriched json
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: restaurants-hotels-enriched
+          path: |
+            data/restaurants_hotels_enriched.json
+
+      - name: Commit updates
         run: |
+
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add data/restaurants_hotels.json
+          git add data/*.json
 
-          git diff --cached --quiet || git commit -m "Update restaurant data"
-
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes detected"
+          else
+            git commit -m "Update 360EatGuide data"
+            git push
+          fi
