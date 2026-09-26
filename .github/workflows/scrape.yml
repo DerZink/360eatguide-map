@@ -1,7 +1,12 @@
 name: 360EatGuide Pipeline
 
 on:
+
   workflow_dispatch:
+
+  schedule:
+    # täglich um 03:00 UTC
+    - cron: "0 3 * * *"
 
 permissions:
   contents: write
@@ -38,15 +43,15 @@ jobs:
           mkdir -p data
           mkdir -p docs
 
-      - name: Run Scraper
+      - name: Scrape Restaurant List
         run: |
           python scripts/scrape.py
 
-      - name: Run Enrichment
+      - name: Enrich Detail Pages
         run: |
           python scripts/enrich.py
 
-      - name: Run Geocoding
+      - name: Geocode Locations
         run: |
           python scripts/geocode.py
 
@@ -83,6 +88,6 @@ jobs:
           then
             echo "No changes detected"
           else
-            git commit -m "Update 360EatGuide map data"
+            git commit -m "Automatic daily update"
             git push origin main
           fi
