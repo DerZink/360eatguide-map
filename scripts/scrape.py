@@ -1,121 +1,58 @@
 import json
-import re
-import time
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
 
-BASE_URL = "https://360eatguide.com"
+URL = "https://360eatguide.com/restaurants/"
 
-session = requests.Session()
-session.headers.update({
-    "User-Agent": "Mozilla/5.0"
-})
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/127.0 Safari/537.36"
+}
 
-entries = []
-visited_pages = set()
-visited_detail_urls = set()
+print("Lade:", URL)
 
-def clean(text):
-    return re.sub(r"\s+", " ", text).strip()
+response = requests.get(URL, headers=headers, timeout=60)
 
-def scrape_detail(url):
-    print("  Detail:", url)
+print("Status Code:", response.status_code)
+print("Content Length:", len(response.text))
 
-    try:
-        html = session.get(url, timeout=30).text
-        soup = BeautifulSoup(html, "html.parser")
+# HTML speichern
+with open("debug.html", "w", encoding="utf-8") as f:
+    f.write(response.text)
 
-        title = ""
+soup = BeautifulSoup(response.text, "html.parser")
 
-        h1 = soup.find("h1")
-        if h1:
-            title = clean(h1.get_text())
+# Alle Links sammeln
+links = []
 
-        text = clean(soup.get_text(" "))
+for a in soup.find_all("a", href=True):
+    links.append({
+        "text": a.get_text(strip=True),
+        "href": a["href"]
+    })
 
-        country = ""
-        category = ""
+# Links speichern
+with open("debug_links.json", "w", encoding="utf-8") as f:
+    json.dump(
+        links,
+        f,
+        indent=2,
+        ensure_ascii=False
+    )
 
-        countries = [
-            "Austria","Belgium","Denmark","Estonia","Finland",
-            "France","Germany","Italy","Netherlands","Norway",
-            "Portugal","Spain","Sweden","Switzerland",
-            "United Kingdom"
-        ]
+# Nur Restaurant-Links filtern
+restaurant_links = []
 
-        for c in countries:
-            if c in text:
-                country = c
-                break
+for link in links:
 
-        if "Hotel" in text:
-            category = "Hotel"
+    href = link["href"]
 
-        if "Restaurant" in text:
-            category = "Restaurant"
+    if "/restaurants/" not in href:
+        continue
 
-        return {
-            "name": title,
-            "category": category,
-            "country": country,
-            "url": url
-        }
+    if href.endswith("/restaurants/"):
+        continue
 
-    except Exception as ex:
-        print(ex)
-        return None
-
-
-next_page = f"{BASE_URL}/restaurants/"
-
-while next_page:
-
-    if next_page in visited_pages:
-        break
-
-    visited_pages.add(next_page)
-
-    print("Page:", next_page)
-
-    html = session.get(next_page).text
-    soup = BeautifulSoup(html, "html.parser")
-
-    for link in soup.find_all("a", href=True):
-
-        href = link["href"]
-
-        if "/restaurants/" not in href:
-            continue
-
-        full_url = urljoin(BASE_URL, href)
-
-        if full_url.endswith("/restaurants/"):
-            continue
-
-        if full_url in visited_detail_urls:
-            continue
-
-        visited_detail_urls.add(full_url)
-
-        item = scrape_detail(full_url)
-
-        if item:
-            entries.append(item)
-
-        time.sleep(0.5)
-
-    next_link = None
-
-    for a in soup.find_all("a", href=True):
-
-        label = clean(a.get_text()).lower()
-
-        if "next" in label:
-            next_link = urljoin(BASE_URL, a["href"])
-            break
-
-    next_page = next_link
+    restaurant_links.append(link)
 
 with open(
     "data/restaurants_hotels.json",
@@ -123,10 +60,10 @@ with open(
     encoding="utf-8"
 ) as f:
     json.dump(
-        sorted(entries, key=lambda x: x["name"]),
+        restaurant_links,
         f,
         indent=2,
         ensure_ascii=False
     )
 
-print(f"Gespeichert: {len(entries)} Einträge")
+print("Gefundene Links:", len(restaurant_links))
