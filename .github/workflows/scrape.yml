@@ -1,13 +1,8 @@
-# .github/workflows/scrape.yml
-
 name: 360EatGuide Pipeline
 
 on:
 
   workflow_dispatch:
-
-  schedule:
-    - cron: "0 3 * * 1"
 
 permissions:
   contents: write
@@ -18,55 +13,46 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    timeout-minutes: 90
-
     steps:
 
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
+      - run: |
+          pip install requests beautifulsoup4
 
-          pip install \
-            requests \
-            beautifulsoup4
-
-      - name: Create folders
-        run: |
+      - run: |
           mkdir -p data
           mkdir -p docs
 
-      - name: Scrape restaurant list
+      - name: Scrape
         run: |
           python scripts/scrape.py
 
-      - name: Enrich detail pages
+      - name: Enrich
         run: |
           python scripts/enrich.py
 
-      - name: Geocode locations
+      - name: Geocode
         run: |
           python scripts/geocode.py
 
-      - name: Generate GeoJSON
+      - name: Build map
         run: |
           python scripts/generate_map.py
 
-      - name: Upload debug pages
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: debug-pages
-          path: |
-            debug_page_*.html
+      - name: Commit
+        run: |
 
-      - name: Upload restaurants json
-        if: always()
-        uses: actions/upload-artifact@v
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          git add .
+
+          git diff --cached --quiet || \
+          git commit -m "Update map"
+
+          git push
