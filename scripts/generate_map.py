@@ -41,7 +41,7 @@ for item in data:
 
     markers.append(
         f"""
-        const marker{mapped_entries} = L.circleMarker(
+        L.circleMarker(
             [{lat}, {lon}],
             {{
                 color: "{color}",
@@ -69,10 +69,8 @@ html = f"""
 
 <title>360°Eat Guide Map</title>
 
-<link
- rel="stylesheet"
- href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-/>
+<link rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 
 <style>
 
@@ -87,9 +85,11 @@ body,
     position: absolute;
     top: 10px;
     right: 10px;
+
     z-index: 1000;
 
     background: white;
+
     padding: 12px;
 
     border-radius: 8px;
@@ -99,6 +99,34 @@ body,
     font-family: Arial, sans-serif;
     font-size: 14px;
     line-height: 1.5;
+
+    min-width: 180px;
+}}
+
+.info hr {{
+    margin: 8px 0;
+}}
+
+.legend-item {{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 5px;
+}}
+
+.legend-dot {{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+}}
+
+.restaurant {{
+    background: blue;
+}}
+
+.hotel {{
+    background: red;
 }}
 
 </style>
@@ -108,10 +136,25 @@ body,
 <body>
 
 <div class="info">
-<b>360°Eat Guide</b><br>
-Datensätze: {total_entries}<br>
-Kartiert: {mapped_entries}<br>
-Ohne Koordinaten: {missing_entries}
+
+    <b>360°Eat Guide</b><br>
+
+    Datensätze: {total_entries}<br>
+    Kartiert: {mapped_entries}<br>
+    Ohne Koordinaten: {missing_entries}
+
+    <hr>
+
+    <div class="legend-item">
+        <span class="legend-dot restaurant"></span>
+        Restaurant
+    </div>
+
+    <div class="legend-item">
+        <span class="legend-dot hotel"></span>
+        Hotel
+    </div>
+
 </div>
 
 <div id="map"></div>
