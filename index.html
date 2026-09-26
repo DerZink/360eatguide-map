@@ -1,22 +1,18 @@
 <!DOCTYPE html>
-<html lang="de">
+<html>
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <title>Test</title>
 
-    <title>360°Eat Guide Test</title>
+  <link rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 
-    <link
-        rel="stylesheet"
-        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-    />
-
-    <style>
-        html, body, #map {
-            height: 100%;
-            margin: 0;
-        }
-    </style>
+  <style>
+    html, body, #map {
+      height: 100%;
+      margin: 0;
+    }
+  </style>
 </head>
 <body>
 
@@ -25,46 +21,18 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/script>
 
 <script>
-const map = L.map("map").setView([47.37, 8.54], 6);
+  var map = L.map('map').setView([47.3769, 8.5417], 6);
 
-L.tileLayer(
-    "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  L.tileLayer(
+    'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
     {
-        attribution: "© OpenStreetMap"
+      attribution: '© OpenStreetMap'
     }
-).addTo(map);
+  ).addTo(map);
 
-// Restaurant (blau)
-L.circleMarker(
-    [47.3769, 8.5417],
-    {
-        radius: 8,
-        color: "blue",
-        fillColor: "blue",
-        fillOpacity: 0.8
-    }
-)
-.addTo(map)
-.bindPopup(
-    '<b>Test Restaurant</b><br>' +
-    '<a href="https://360eatguide.com/" target="_blank">Eintrag öffnen</a>'
-);
-
-// Hotel (rot)
-L.circleMarker(
-    [46.8182, 8.2275],
-    {
-        radius: 8,
-        color: "red",
-        fillColor: "red",
-        fillOpacity: 0.8
-    }
-)
-.addTo(map)
-.bindPopup(
-    '<b>Test Hotel</b><br>' +
-    '<a href="https://360eatguide.com/" target="_blank">Eintrag öffnen</a>'
-);
+  L.marker([47.3769, 8.5417])
+    .addTo(map)
+    .bindPopup('Hallo von GitHub Pages');
 </script>
 
 </body>
