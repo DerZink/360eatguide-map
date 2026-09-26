@@ -1,0 +1,1208 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>360EatGuide Map</title>
+
+<link
+ rel="stylesheet"
+ href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+/>
+
+<style>
+
+html,
+body,
+#map {
+    height:100%;
+    margin:0;
+}
+
+.info {
+    position:absolute;
+    top:10px;
+    left:10px;
+    z-index:1000;
+    background:white;
+    padding:10px;
+    border-radius:6px;
+    box-shadow:0 0 5px rgba(0,0,0,.3);
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="info">
+<b>360EatGuide</b><br>
+Marker: 95
+</div>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">\</script>
+
+<script>
+
+const map = L.map("map")
+.setView([47.0, 8.0], 5);
+
+L.tileLayer(
+    "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    {
+        attribution: "© OpenStreetMap"
+    }
+).addTo(map);
+
+
+        L.circleMarker(
+            [47.9228925, 8.6464881],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>1280 Krone</b><br>\n    Germany<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/1280-krone/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [52.4869546, 13.3735664],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Aerde</b><br>\n    Germany<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/aerde-restaurants-germany/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [46.2504569, 20.1473537],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Alkimista Kulin\u00e1ris M\u0171hely</b><br>\n    Hungary<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/alkimista-kulinaris-muhely/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.3716984, 8.5197963],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>AMEO</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/ameo/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [48.1442287, 11.7880919],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Bader Hotel</b><br>\n    Germany<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/bader-hotel/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [42.8942266, -2.1726309],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Bakea</b><br>\n    Spain<br>\n    <br>\n    <a href=\"https://360eatguide.com/restaurants/bakea-restaurant-mungia/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [42.5210289, -8.6394501],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Barro</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/barro-restaurant-avila/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [41.396421, 2.1565457],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Berbena</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/berbena/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [46.1918257, 6.1444585],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Bombar</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/bombar/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [46.0191989, 7.7474889],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Brasserie Uno</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/restaurants-switzerland-brasserieuno/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.4923156, 19.0631469],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Brody House</b><br>\n    Hungary<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/brody-house/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.4948153, 19.056324],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Cabrio</b><br>\n    Hungary<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/cabrio/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [52.153461, 9.9544957],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Caf\u00e9 Frieda</b><br>\n    Germany<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/cafe-frieda-restaurants-germany/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [40.8031332, 0.3431101],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Caro</b><br>\n    Spain<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/caro-hotel/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [39.7201826, 2.9119006],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Celler Tonet</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/celler-tonet/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [46.4288267, 9.7637152],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Chesa Marchetta</b><br>\n    Switzerland<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/chesa-marchetta/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [52.5176892, 13.3859349],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Ch\u00e2teau Royal</b><br>\n    Germany<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/chateau-royal/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [48.1275871, 11.5443335],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Cocoon Theresienwiese</b><br>\n    Germany<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/cocoon-theresienwiese/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [46.955503, 8.3694364],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Culinarium Alpinum</b><br>\n    Switzerland<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/culinarium-alpinum/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [42.4753586, -8.8958855],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Culler de Pau</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/culler-de-pau/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [39.7001963, 3.005026],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Daica</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/daica/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [48.770056, 9.1791419],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Das Edith</b><br>\n    Germany<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/das-edith/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.5559597, 7.5867425],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Der Teufelhof</b><br>\n    Switzerland<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/der-teufelhof/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [53.8731927, 10.6882839],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Die Reederin</b><br>\n    Germany<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/die-reederin/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [41.3814374, 2.1720836],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Direkte</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/direkte-restaurant-barcelona/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [38.3546103, -7.1183617],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>El Invernadero</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/el-invernadero-restaurant-madrid/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [42.4065312, 2.9614324],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>El Ventador</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/el-ventador/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.3778609, 8.5211491],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>EquiTable</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/restaurants-equitable-switzerland/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.4972538, 19.0384966],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Esca</b><br>\n    Hungary<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/esca/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [46.4348766, 7.8545552],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Fafleralp</b><br>\n    Switzerland<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/fafleralp-hotel/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [42.0904593, -1.5543448],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Franca</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/franca/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.5474597, 7.5911179],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Gaia Hotel</b><br>\n    Switzerland<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/gaia-hotel/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.2738838, 7.8524924],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Gamper</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/restaurants-switzerland-gamper/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.5025402, 19.0533372],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Goli</b><br>\n    Hungary<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/goli/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [46.735426, 8.0232916],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Grandhotel Giessbach</b><br>\n    Switzerland<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/grandhotel-giessbach/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [53.5801271, 9.9477006],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Heimatjuwel</b><br>\n    Germany<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/heimatjuwel-restaurant-hamburg/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [53.5433371, 10.0081133],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Hobenk\u00f6\u00f6k</b><br>\n    Germany<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/hobenkook-restaurant-hamburg/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [52.4963757, 13.4208114],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Horv\u00e1th</b><br>\n    Germany<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/horvath-restaurant-germany/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [41.8696138, 2.1136566],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Hostal Grau</b><br>\n    Spain<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/hostal-grau/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [49.4536743, 11.0757371],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Hotel Karl August</b><br>\n    Germany<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/hotel-karl-august/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.4904145, 19.0591373],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Hotel Rum</b><br>\n    Hungary<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/hotel-rum/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.3768257, 8.5393966],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Hotel Schweizerhof</b><br>\n    Switzerland<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/hotel-schweizerhof/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [41.3796588, 2.1425262],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Hotel Torre</b><br>\n    Spain<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/hotel-torre/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [48.1562928, 20.4945983],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Iszkor</b><br>\n    Hungary<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/iszkor/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [52.6179977, 6.9797177],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Julius Ernst</b><br>\n    Germany<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/julius-ernst/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.5832841, 8.8658328],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Kartause</b><br>\n    Switzerland<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/kartause-hotel-switzerland/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.3715304, 8.5209454],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>KLE</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/restaurants-switzerland-kle/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [40.4091632, -3.7114633],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>L&H La Latina</b><br>\n    Spain<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/la-latina/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [41.7467821, 0.9145441],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>La Farm</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/la-farm/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.375902, 7.7875126],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Lauch</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/lauch/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [52.503404, 13.3662568],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Lulu Guldsmeden</b><br>\n    Germany<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/lulu-guldsmeden/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [41.9991609, 0.7644004],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Macot</b><br>\n    Spain<br>\n    <br>\n    <a href=\"https://360eatguide.com/restaurants/macot-restaurant-barcelona/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.017396, 8.6659025],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Magdalena</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/magdalena/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.3787172, 8.5233543],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Marktk\u00fcche</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/restaurants-switzerland-marktkuche/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [46.1949054, 6.1471829],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Mati\u00e8re</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/matiere-restaurants-switzerlan/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [52.4896898, 13.4339846],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Merold</b><br>\n    Germany<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/merold-restaurant-berlin/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [38.8833082, -4.4715434],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Mesa Lobo</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/mesa-lobo/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [49.9782637, 9.1570759],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Michelberger</b><br>\n    Germany<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/michelberger/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [46.9484657, 7.4536634],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Moment</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/moment-restaurants-schweiz/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [43.47005, -3.82918],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Monte</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/monte-restaurant-san-feliz/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.8166078, 18.9050628],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Natura Hill</b><br>\n    Hungary<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/natura-hill/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [46.2037777, 6.1379502],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Nat\u00fcrlich</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/naturlich-restaurants-switzerland/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.3720697, 8.5403664],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Neue Taverne</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/restaurants-switzerland-neue-taverne/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [51.5029011, 11.9658447],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Otto</b><br>\n    Germany<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/otto/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.4987682, 19.0645288],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Pajta</b><br>\n    Hungary<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/pajta/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [48.3984818, 21.0552741],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Papi</b><br>\n    Hungary<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/papi/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [40.5778038, -1.5238668],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Piedra</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/piedra/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [52.4957427, 13.3087693],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Provocateur</b><br>\n    Germany<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/provocateur/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.2097861, 8.6341326],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Rechberg 1837</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/rechberg-1837/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [50.1142552, 8.6742508],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Restaurant Bidlabu</b><br>\n    Germany<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/bidlabu-restaurant-frankfurt/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [46.7210058, 9.44615],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Restaurant OZ</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/restaurants-switzerland-restaurant-oz/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [46.8175768, 9.2651088],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Riders Hotel</b><br>\n    Switzerland<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/riders-hotel/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.3663601, 8.5570448],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Roots</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/roots/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [52.522047, 13.3267901],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Rosso</b><br>\n    Germany<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/rosso/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [41.3806751, 2.146079],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Safo</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/safo/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.5003472, 19.0503576],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Salt</b><br>\n    Hungary<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/salt/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.4621412, 11.1864855],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Schloss Elmau</b><br>\n    Germany<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/schloss-elmau/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.3715144, 8.5245483],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Silex</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/silex-restaurants-switzerland/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [39.1108344, 1.5078208],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Six Senses</b><br>\n    Spain<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/six-senses/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [40.4175384, -3.6732615],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Suru</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/suru-restaurant-barcelona/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.4981214, 19.0691053],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Tati</b><br>\n    Hungary<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/tati/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.3935843, 8.5296761],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>The Artisan</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/the-artisan/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [40.4142787, -3.7070796],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>The Hat</b><br>\n    Spain<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/the-hat/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [51.731476, 10.6037994],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>The Hearts Hotel</b><br>\n    Germany<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/the-hearts-hotel/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [40.4101214, -3.7005712],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>The Loft House</b><br>\n    Spain<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/the-loft-house/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [46.7490908, 9.557539],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Valbella Resort</b><br>\n    Switzerland<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/valbella-resort/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [38.9911727, -1.8769392],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Vereda</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/vereda-bar-restaurant-barcelona/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.3722779, 8.5487676],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Villa Florhof</b><br>\n    Switzerland<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/villa-florhof/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [46.7920632, 17.4419254],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Villa Kabala</b><br>\n    Hungary<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/villa-kabala/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.3724404, 8.5398562],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Widder Hotel</b><br>\n    Switzerland<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/widder-hotel/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [52.5074621, 13.2973266],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Wilmina</b><br>\n    Germany<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/wilmina/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [47.3405767, 8.5381016],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>W\u00f6schi</b><br>\n    Switzerland<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/restaurants-switzerland-woschi/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [41.4038042, 2.1568269],
+            {
+                color: "red",
+                fillColor: "red",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Yours</b><br>\n    Spain<br>\n    Hotel<br>\n    <a href=\"https://360eatguide.com/restaurants/yours/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [53.5889417, 10.0016891],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>Zeik</b><br>\n    Germany<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/zeik-restaurant-hamburg/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+        L.circleMarker(
+            [37.185314, -2.2053671],
+            {
+                color: "blue",
+                fillColor: "blue",
+                fillOpacity: 0.8,
+                radius: 7
+            }
+        )
+        .addTo(map)
+        .bindPopup("\n    <b>\u00e2me</b><br>\n    Spain<br>\n    Restaurant<br>\n    <a href=\"https://360eatguide.com/restaurants/ame-restaurant-barcelona/\" target=\"_blank\">\n      Eintrag \u00f6ffnen\n    </a>\n    ");
+        
+
+</script>
+
+</body>
+</html>
