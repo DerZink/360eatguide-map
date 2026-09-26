@@ -1,182 +1,125 @@
 import json
 import re
 import time
-from pathlib import Path
-from urllib.parse import urljoin
-
 import requests
 from bs4 import BeautifulSoup
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
 
-
-BASE_URL = "https://360eatguide.com"
-
-DATA_DIR = Path("data")
-DATA_DIR.mkdir(exist_ok=True)
-
-OUTPUT = DATA_DIR / "locations.json"
-
-HEADERS = {
-    "User-Agent":
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/127.0 Safari/537.36"
-}
-
-
-# -----------------------------
-# Session mit Retry
-# -----------------------------
+INPUT_FILE = "data/restaurants_hotels.json"
+OUTPUT_FILE = "data/restaurants_hotels_enriched.json"
 
 session = requests.Session()
 
-retry = Retry(
-    total=5,
-    connect=5,
-    read=5,
-    backoff_factor=2,
-    status_forcelist=[429, 500, 502, 503, 504],
-)
-
-session.mount("https://", HTTPAdapter(max_retries=retry))
-session.mount("http://", HTTPAdapter(max_retries=retry))
-
-session.headers.update(HEADERS)
-
-
-# -----------------------------
-# Geocoding Cache
-# -----------------------------
-
-CACHE_FILE = DATA_DIR / "geocode_cache.json"
-
-if CACHE_FILE.exists():
-    geocode_cache = json.loads(
-        CACHE_FILE.read_text(encoding="utf-8")
+session.headers.update({
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/127.0.0.0 Safari/537.36"
     )
-else:
-    geocode_cache = {}
+})
 
+with open(
+    INPUT_FILE,
+    "r",
+    encoding="utf-8"
+) as f:
+    entries = json.load(f)
 
-def save_cache():
-    CACHE_FILE.write_text(
-        json.dumps(
-            geocode_cache,
-            ensure_ascii=False,
-            indent=2
-        ),
-        encoding="utf-8"
+enriched = []
+
+for idx, item in enumerate(entries, start=1):
+
+    print(
+        f"[{idx}/{len(entries)}] {item['name']}"
     )
-
-
-# -----------------------------
-# Nominatim Geocoder
-# -----------------------------
-
-def geocode(query):
-
-    if not query:
-        return None, None
-
-    if query in geocode_cache:
-        return (
-            geocode_cache[query]["lat"],
-            geocode_cache[query]["lng"]
-        )
-
-    print("Geocoding:", query)
 
     try:
-        r = session.get(
-            "https://nominatim.openstreetmap.org/search",
-            params={
-                "q": query,
-                "format": "json",
-                "limit": 1
-            },
-            headers={
-                "User-Agent": HEADERS["User-Agent"]
-            },
-            timeout=30
+
+        response = session.get(
+            item["url"],
+            timeout=60
         )
 
-        data = r.json()
-
-        if data:
-
-            lat = float(data[0]["lat"])
-            lng = float(data[0]["lon"])
-
-            geocode_cache[query] = {
-                "lat": lat,
-                "lng": lng
-            }
-
-            save_cache()
-
-            time.sleep(1)
-
-            return lat, lng
-
-    except Exception as e:
-        print("Geocode error:", e)
-
-    return None, None
-
-
-# -----------------------------
-# Listen scrape
-# -----------------------------
-
-def scrape_list_pages():
-
-    results = []
-
-    for page in range(1, 7):
-
-        if page == 1:
-            url = f"{BASE_URL}/restaurants/"
-        else:
-            url = f"{BASE_URL}/restaurants/?jpage={page}"
-
-        print("LIST:", url)
-
-        html = session.get(
-            url,
-            timeout=30
-        ).text
-
-        soup = BeautifulSoup(html, "html.parser")
-
-        rows = soup.select(
-            "tr.wp-block-j360-blocks-restaurant-list-row"
+        soup = BeautifulSoup(
+            response.text,
+            "html.parser"
         )
 
-        for row in rows:
+        text_blocks = []
 
-            onclick = row.get("onclick", "")
+        for p in soup.find_all("p"):
 
-            match = re.search(
-                r"'(https://[^']+)'",
-                onclick
-            )
-
-            if not match:
-                continue
-
-            entry_url = match.group(1)
-
-            cols = row.find_all("td")
-
-            if len(cols) < 3:
-                continue
-
-            name = cols[0].get_text(
+            txt = p.get_text(
                 " ",
                 strip=True
             )
 
-            country = cols[1].get_text(
-                " ",
-                strip=True
+            if len(txt) > 40:
+                text_blocks.append(txt)
+
+        description = " ".join(
+            text_blocks[:8]
+        )
+
+        image = ""
+
+        meta_image = soup.find(
+            "meta",
+            property="og:image"
+        )
+
+        if meta_image:
+            image = meta_image.get(
+                "content",
+                ""
+            )
+
+        enriched.append({
+            "name": item["name"],
+            "country": item["country"],
+            "category": item["category"],
+            "url": item["url"],
+            "description": description,
+            "image": image,
+            "address": "",
+            "city": "",
+            "lat": None,
+            "lon": None
+        })
+
+        if idx % 10 == 0:
+
+            with open(
+                OUTPUT_FILE,
+                "w",
+                encoding="utf-8"
+            ) as f:
+
+                json.dump(
+                    enriched,
+                    f,
+                    indent=2,
+                    ensure_ascii=False
+                )
+
+        time.sleep(1)
+
+    except Exception as ex:
+
+        print(ex)
+
+with open(
+    OUTPUT_FILE,
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        enriched,
+        f,
+        indent=2,
+        ensure_ascii=False
+    )
+
+print(
+    f"Saved {len(enriched)} records"
+)
