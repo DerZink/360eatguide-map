@@ -9,7 +9,9 @@
     "address": "",
     "city": "",
     "lat": 47.9228925,
-    "lon": 8.6464881
+    "lon": 8.6464881,
+    "geocode_query": "1280 Krone Germany",
+    "geocode_display_name": "1280 Die Krone, 33, Hauptstraße, Kirchen, Geisingen, GVV Immendingen-Geisingen, Landkreis Tuttlingen, Baden-Württemberg, 78187, Deutschland"
   },
   {
     "name": "Aerde",
@@ -21,7 +23,9 @@
     "address": "",
     "city": "",
     "lat": 52.4869546,
-    "lon": 13.3735664
+    "lon": 13.3735664,
+    "geocode_query": "Aerde Germany",
+    "geocode_display_name": "aerde restaurant, 6, Am Lokdepot, Monumentenkiez, Rote Insel, Schöneberg, Tempelhof-Schöneberg, Berlin, 10965, Deutschland"
   },
   {
     "name": "Alkimista Kulináris Műhely",
@@ -33,7 +37,9 @@
     "address": "",
     "city": "",
     "lat": 46.2504569,
-    "lon": 20.1473537
+    "lon": 20.1473537,
+    "geocode_query": "Alkimista Kulináris Műhely Hungary",
+    "geocode_display_name": "Alkimista Kulináris Műhely, Somogyi utca, Belváros, Szeged, Szegedi járás, Csongrád-Csanád vármegye, Dél-Alföld, Alföld és Észak, 6720, Magyarország"
   },
   {
     "name": "AMEO",
@@ -45,7 +51,9 @@
     "address": "",
     "city": "",
     "lat": 47.3716984,
-    "lon": 8.5197963
+    "lon": 8.5197963,
+    "geocode_query": "AMEO Switzerland",
+    "geocode_display_name": "Ameo, Zentralstrasse, Sihlfeld, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8003, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Bader Hotel",
@@ -57,7 +65,9 @@
     "address": "",
     "city": "",
     "lat": 48.1442287,
-    "lon": 11.7880919
+    "lon": 11.7880919,
+    "geocode_query": "Bader Hotel Germany",
+    "geocode_display_name": "Bader Hotel, 12, Heimstettener Straße, Gewerbegebiet Am Lerchenfeld, Parsdorf, Vaterstetten, Landkreis Ebersberg, Bayern, 85599, Deutschland"
   },
   {
     "name": "Bakea",
@@ -68,8 +78,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2025/07/platos_02.1800x0.jpg",
     "address": "",
     "city": "",
-    "lat": 42.8942266,
-    "lon": -2.1726309
+    "lat": 42.8936855,
+    "lon": -2.1730032,
+    "geocode_query": "Bakea Spain",
+    "geocode_display_name": "Bakea, Altsasu / Alsasua, Sakana, Navarra, Navarra / Nafarroa, 31800, España"
   },
   {
     "name": "Barro",
@@ -81,7 +93,9 @@
     "address": "",
     "city": "",
     "lat": 42.5210289,
-    "lon": -8.6394501
+    "lon": -8.6394501,
+    "geocode_query": "Barro Spain",
+    "geocode_display_name": "Barro, Pontevedra, Galicia, 36194, España"
   },
   {
     "name": "Berbena",
@@ -93,7 +107,9 @@
     "address": "",
     "city": "",
     "lat": 41.396421,
-    "lon": 2.1565457
+    "lon": 2.1565457,
+    "geocode_query": "Berbena Spain",
+    "geocode_display_name": "Berbena, 6, Carrer de Minerva, la Vila de Gràcia, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, 08008, España"
   },
   {
     "name": "Bombar",
@@ -105,7 +121,9 @@
     "address": "",
     "city": "",
     "lat": 46.1918257,
-    "lon": 6.1444585
+    "lon": 6.1444585,
+    "geocode_query": "Bombar Switzerland",
+    "geocode_display_name": "Bombar, Place des Augustins, La Roseraie, Plainpalais, Genève, 1205, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Brasserie Uno",
@@ -117,7 +135,9 @@
     "address": "",
     "city": "",
     "lat": 46.0191989,
-    "lon": 7.7474889
+    "lon": 7.7474889,
+    "geocode_query": "Brasserie Uno Switzerland",
+    "geocode_display_name": "Brasserie Uno, 38, Kirchstrasse, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Brody House",
@@ -129,7 +149,9 @@
     "address": "",
     "city": "",
     "lat": 47.4923156,
-    "lon": 19.0631469
+    "lon": 19.0631469,
+    "geocode_query": "Brody House Hungary",
+    "geocode_display_name": "Brody House, 10, Bródy Sándor utca, Palotanegyed, VIII. kerület, Budapest, Közép-Magyarország, 1088, Magyarország"
   },
   {
     "name": "Cabrio",
@@ -141,7 +163,9 @@
     "address": "",
     "city": "",
     "lat": 47.4948153,
-    "lon": 19.056324
+    "lon": 19.056324,
+    "geocode_query": "Cabrio Hungary",
+    "geocode_display_name": "Cabrio, Kamermayer Károly tér, Pest, Belváros, V. kerület, Budapest, Közép-Magyarország, 1052, Magyarország"
   },
   {
     "name": "Café Frieda",
@@ -153,7 +177,9 @@
     "address": "",
     "city": "",
     "lat": 52.153461,
-    "lon": 9.9544957
+    "lon": 9.9544957,
+    "geocode_query": "Café Frieda Germany",
+    "geocode_display_name": "Café Frieda, Jakobistraße, Jakobiviertel, Stadtmitte, Stadtmitte/Neustadt, Hildesheim, Landkreis Hildesheim, Niedersachsen, 31134, Deutschland"
   },
   {
     "name": "Caro",
@@ -165,7 +191,9 @@
     "address": "",
     "city": "",
     "lat": 40.8031332,
-    "lon": 0.3431101
+    "lon": 0.3431101,
+    "geocode_query": "Caro Spain",
+    "geocode_display_name": "Caro, Roquetes, Baix Ebre, Tarragona, Catalunya, 43520, España"
   },
   {
     "name": "Celler Tonet",
@@ -177,7 +205,9 @@
     "address": "",
     "city": "",
     "lat": 39.7201826,
-    "lon": 2.9119006
+    "lon": 2.9119006,
+    "geocode_query": "Celler Tonet Spain",
+    "geocode_display_name": "Celler Tonet, Carrer del Rector Rayó, Centre històric, Inca, Raiguer, Illes Balears, 07300, España"
   },
   {
     "name": "CERVO Mountain Resort",
@@ -188,8 +218,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-11-kl.-16.40.47.png",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 46.0218826,
+    "lon": 7.7544018,
+    "geocode_query": "CERVO Mountain Switzerland",
+    "geocode_display_name": "Mountain Ashram Spa by CERVO, 156, Riedweg, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Chesa Marchetta",
@@ -201,7 +233,9 @@
     "address": "",
     "city": "",
     "lat": 46.4288267,
-    "lon": 9.7637152
+    "lon": 9.7637152,
+    "geocode_query": "Chesa Marchetta Switzerland",
+    "geocode_display_name": "Chesa Marchetta, 86, Via da Marias, Suot Crastas, Sils Maria, Sils im Engadin/Segl, Maloja, Graubünden/Grischun/Grigioni, 7514, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Château Royal",
@@ -213,7 +247,9 @@
     "address": "",
     "city": "",
     "lat": 52.5176892,
-    "lon": 13.3859349
+    "lon": 13.3859349,
+    "geocode_query": "Château Royal Germany",
+    "geocode_display_name": "Château Royal, 3, Mittelstraße, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland"
   },
   {
     "name": "Cocoon Theresienwiese",
@@ -225,7 +261,9 @@
     "address": "",
     "city": "",
     "lat": 48.1275871,
-    "lon": 11.5443335
+    "lon": 11.5443335,
+    "geocode_query": "Cocoon Theresienwiese Germany",
+    "geocode_display_name": "Cocoon Theresienwiese, 40, Theresienhöhe, Schwanthalerhöhe, München, Bayern, 80339, Deutschland"
   },
   {
     "name": "Culinarium Alpinum",
@@ -237,7 +275,9 @@
     "address": "",
     "city": "",
     "lat": 46.9554421,
-    "lon": 8.3693747
+    "lon": 8.3693747,
+    "geocode_query": "Culinarium Alpinum Switzerland",
+    "geocode_display_name": "Culinarium Alpinum, 18, Mürgstrasse, Stans, Nidwalden, 6370, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Culler de Pau",
@@ -249,7 +289,9 @@
     "address": "",
     "city": "",
     "lat": 42.4753586,
-    "lon": -8.8958855
+    "lon": -8.8958855,
+    "geocode_query": "Culler de Pau Spain",
+    "geocode_display_name": "Culler de Pau, 73, Estrada O Grove - Igrexa de San Vicente, A Tafona, San Vicente do Grove, O Grove, O Salnés, Pontevedra, Galicia, 36980, España"
   },
   {
     "name": "Daica",
@@ -261,7 +303,9 @@
     "address": "",
     "city": "",
     "lat": 39.7001963,
-    "lon": 3.005026
+    "lon": 3.005026,
+    "geocode_query": "Daica Spain",
+    "geocode_display_name": "Daica, carrer de la Farinera, Llubí, Pla de Mallorca, Illes Balears, 07430, España"
   },
   {
     "name": "Das Edith",
@@ -273,7 +317,9 @@
     "address": "",
     "city": "",
     "lat": 48.770056,
-    "lon": 9.1791419
+    "lon": 9.1791419,
+    "geocode_query": "Das Edith Germany",
+    "geocode_display_name": "Das Edith, 34, Heusteigstraße, Heusteigviertel, Stuttgart-Mitte, Stuttgart, Baden-Württemberg, 70180, Deutschland"
   },
   {
     "name": "Der Teufelhof",
@@ -285,7 +331,9 @@
     "address": "",
     "city": "",
     "lat": 47.5559597,
-    "lon": 7.5867425
+    "lon": 7.5867425,
+    "geocode_query": "Der Teufelhof Switzerland",
+    "geocode_display_name": "Der Teufelhof Basel, 49, Leonhardsgraben, Altstadt Grossbasel, Grossbasel, Basel, Basel-Stadt, 4051, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Die Reederin",
@@ -297,7 +345,9 @@
     "address": "",
     "city": "",
     "lat": 53.8731927,
-    "lon": 10.6882839
+    "lon": 10.6882839,
+    "geocode_query": "Die Reederin Germany",
+    "geocode_display_name": "Die Reederin, 23, Große Altefähre, Innenstadt, Lübeck, Schleswig-Holstein, 23552, Deutschland"
   },
   {
     "name": "Direkte",
@@ -309,7 +359,9 @@
     "address": "",
     "city": "",
     "lat": 41.3814374,
-    "lon": 2.1720836
+    "lon": 2.1720836,
+    "geocode_query": "Direkte Spain",
+    "geocode_display_name": "Direkte, 13, Carrer de les Cabres, el Raval, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España"
   },
   {
     "name": "Eco Hotel El Agua",
@@ -320,8 +372,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/s3-8-1200.webp",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 40.4375132,
+    "lon": -3.6316788,
+    "geocode_query": "Eco Hotel Spain",
+    "geocode_display_name": "Hotel Eco Alcala Suites, 24, Calle de Santa Leonor, Polígono Industrial Julián Camarillo, Simancas, San Blas - Canillejas, Madrid, Comunidad de Madrid, 28037, España"
   },
   {
     "name": "El Invernadero",
@@ -333,7 +387,9 @@
     "address": "",
     "city": "",
     "lat": 38.3546103,
-    "lon": -7.1183617
+    "lon": -7.1183617,
+    "geocode_query": "El Invernadero Spain",
+    "geocode_display_name": "El Invernadero, Villanueva del Fresno, Badajoz, Extremadura, 06110, España"
   },
   {
     "name": "El Ventador",
@@ -345,7 +401,9 @@
     "address": "",
     "city": "",
     "lat": 42.4065312,
-    "lon": 2.9614324
+    "lon": 2.9614324,
+    "geocode_query": "El Ventador Spain",
+    "geocode_display_name": "el Ventador, Sant Climent Sescebes, Alt Empordà, Girona, Catalunya, 17708, España"
   },
   {
     "name": "EquiTable",
@@ -357,7 +415,9 @@
     "address": "",
     "city": "",
     "lat": 47.3778609,
-    "lon": 8.5211491
+    "lon": 8.5211491,
+    "geocode_query": "EquiTable Switzerland",
+    "geocode_display_name": "EquiTable, 163, Stauffacherstrasse, Langstrasse, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Esca",
@@ -369,7 +429,9 @@
     "address": "",
     "city": "",
     "lat": 47.4972538,
-    "lon": 19.0384966
+    "lon": 19.0384966,
+    "geocode_query": "Esca Hungary",
+    "geocode_display_name": "Habsburg lépcső, Vár, I. kerület, Budapest, Közép-Magyarország, 1013, Magyarország"
   },
   {
     "name": "Fafleralp",
@@ -381,7 +443,9 @@
     "address": "",
     "city": "",
     "lat": 46.4348766,
-    "lon": 7.8545552
+    "lon": 7.8545552,
+    "geocode_query": "Fafleralp Switzerland",
+    "geocode_display_name": "Fafleralp, Blatten, Westlich Raron, Oberwallis, Valais/Wallis, 3919, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Fishølogy",
@@ -393,7 +457,9 @@
     "address": "",
     "city": "",
     "lat": null,
-    "lon": null
+    "lon": null,
+    "geocode_query": null,
+    "geocode_display_name": null
   },
   {
     "name": "Franca",
@@ -405,7 +471,9 @@
     "address": "",
     "city": "",
     "lat": 42.0904593,
-    "lon": -1.5543448
+    "lon": -1.5543448,
+    "geocode_query": "Franca Spain",
+    "geocode_display_name": "Franca, Tudela, Ribera / Erribera, Navarra, Navarra / Nafarroa, 31500, España"
   },
   {
     "name": "Gaia Hotel",
@@ -417,7 +485,9 @@
     "address": "",
     "city": "",
     "lat": 47.5474597,
-    "lon": 7.5911179
+    "lon": 7.5911179,
+    "geocode_query": "Gaia Hotel Switzerland",
+    "geocode_display_name": "Gaia, 13-15, Centralbahnstrasse, St. Alban, Grossbasel, Basel, Basel-Stadt, 4002, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Gamper",
@@ -429,7 +499,9 @@
     "address": "",
     "city": "",
     "lat": 47.2738838,
-    "lon": 7.8524924
+    "lon": 7.8524924,
+    "geocode_query": "Gamper Switzerland",
+    "geocode_display_name": "Gamper, Riken AG, Murgenthal, Bezirk Zofingen, Aargau, 4853, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Goli",
@@ -441,7 +513,9 @@
     "address": "",
     "city": "",
     "lat": 47.5025402,
-    "lon": 19.0533372
+    "lon": 19.0533372,
+    "geocode_query": "Goli Hungary",
+    "geocode_display_name": "Goli, 32, Arany János utca, Lipótváros, V. kerület, Budapest, Közép-Magyarország, 1051, Magyarország"
   },
   {
     "name": "Grandhotel Giessbach",
@@ -453,7 +527,9 @@
     "address": "",
     "city": "",
     "lat": 46.735426,
-    "lon": 8.0232916
+    "lon": 8.0232916,
+    "geocode_query": "Grandhotel Giessbach Switzerland",
+    "geocode_display_name": "Grandhotel Giessbach, 1201, Giessbach, Axalp, Brienz (BE), Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne, 3855, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Heimatjuwel",
@@ -465,7 +541,9 @@
     "address": "",
     "city": "",
     "lat": 53.5801271,
-    "lon": 9.9477006
+    "lon": 9.9477006,
+    "geocode_query": "Heimatjuwel Germany",
+    "geocode_display_name": "Heimatjuwel, 47, Stellinger Weg, Eimsbüttel, Hamburg, 20255, Deutschland"
   },
   {
     "name": "Hobenköök",
@@ -477,7 +555,9 @@
     "address": "",
     "city": "",
     "lat": 53.5433371,
-    "lon": 10.0081133
+    "lon": 10.0081133,
+    "geocode_query": "Hobenköök Germany",
+    "geocode_display_name": "Hobenköök, 43, Stockmeyerstraße, Quartier Am Lohsepark, HafenCity, Hamburg-Mitte, Hamburg, 20457, Deutschland"
   },
   {
     "name": "Horváth",
@@ -489,7 +569,9 @@
     "address": "",
     "city": "",
     "lat": 52.4963757,
-    "lon": 13.4208114
+    "lon": 13.4208114,
+    "geocode_query": "Horváth Germany",
+    "geocode_display_name": "Horváth, 44a, Paul-Lincke-Ufer, Reichenberger kiez, Luisenstadt, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10999, Deutschland"
   },
   {
     "name": "Hostal Grau",
@@ -501,7 +583,9 @@
     "address": "",
     "city": "",
     "lat": 41.8696138,
-    "lon": 2.1136566
+    "lon": 2.1136566,
+    "geocode_query": "Hostal Grau Spain",
+    "geocode_display_name": "Hostal Grau, 6, Carrer de Verdaguer, l'Estany, Moianès, Barcelona, Catalunya, 08148, España"
   },
   {
     "name": "Hotel Casa Treviño",
@@ -512,8 +596,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/hotel-casa-trevino-zonas-comunes-14-480.webp",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 41.388904,
+    "lon": 2.1776473,
+    "geocode_query": "Hotel Casa Spain",
+    "geocode_display_name": "Casa, 62, Carrer de Sant Pere Més Alt, Sant Pere, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España"
   },
   {
     "name": "Hotel Karl August",
@@ -525,7 +611,9 @@
     "address": "",
     "city": "",
     "lat": 49.4536743,
-    "lon": 11.0757371
+    "lon": 11.0757371,
+    "geocode_query": "Hotel Karl August Germany",
+    "geocode_display_name": "Karl August, 1, Augustinerhof, Altstadt, St. Sebald, Altstadt und engere Innenstadt, Nürnberg, Bayern, 90403, Deutschland"
   },
   {
     "name": "Hotel La Bionda",
@@ -536,8 +624,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-22-kl.-17.14.03-811x1024.png",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 40.4071972,
+    "lon": -3.6999962,
+    "geocode_query": "Hotel Spain",
+    "geocode_display_name": "Hotel, 11, Calle de Valencia, Lavapiés, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España"
   },
   {
     "name": "Hotel MontRubí 1771",
@@ -548,8 +638,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/CHALET-HORIZONTAL-II-1920x1280.jpg.webp",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 40.4071972,
+    "lon": -3.6999962,
+    "geocode_query": "Hotel Spain",
+    "geocode_display_name": "Hotel, 11, Calle de Valencia, Lavapiés, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España"
   },
   {
     "name": "Hotel Rum",
@@ -561,7 +653,9 @@
     "address": "",
     "city": "",
     "lat": 47.4904145,
-    "lon": 19.0591373
+    "lon": 19.0591373,
+    "geocode_query": "Hotel Rum Hungary",
+    "geocode_display_name": "Hotel Rum, 4, Királyi Pál utca, Pest, Belváros, V. kerület, Budapest, Közép-Magyarország, 1053, Magyarország"
   },
   {
     "name": "Hotel Schweizerhof",
@@ -573,7 +667,9 @@
     "address": "",
     "city": "",
     "lat": 47.3768257,
-    "lon": 8.5393966
+    "lon": 8.5393966,
+    "geocode_query": "Hotel Schweizerhof Switzerland",
+    "geocode_display_name": "Hotel Schweizerhof, Lintheschergasse, City, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Hotel Torre",
@@ -585,7 +681,9 @@
     "address": "",
     "city": "",
     "lat": 41.3796588,
-    "lon": 2.1425262
+    "lon": 2.1425262,
+    "geocode_query": "Hotel Torre Spain",
+    "geocode_display_name": "Nobu Hotel Barcelona, 2, Avinguda de Roma, la Nova Esquerra de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08014, España"
   },
   {
     "name": "Iszkor",
@@ -597,7 +695,9 @@
     "address": "",
     "city": "",
     "lat": 48.1562928,
-    "lon": 20.4945983
+    "lon": 20.4945983,
+    "geocode_query": "Iszkor Hungary",
+    "geocode_display_name": "Iszkor, 2-4, Lillafüredi utca, Mályinka, Kazincbarcikai járás, Borsod-Abaúj-Zemplén vármegye, Észak-Magyarország, Alföld és Észak, 3645, Magyarország"
   },
   {
     "name": "Julius Ernst",
@@ -609,7 +709,9 @@
     "address": "",
     "city": "",
     "lat": 52.6179977,
-    "lon": 6.9797177
+    "lon": 6.9797177,
+    "geocode_query": "Julius Ernst Germany",
+    "geocode_display_name": "Ernst-Julius-Straße, Alexisdorf, Neugnadenfeld, Ringe, Samtgemeinde Emlichheim, Landkreis Grafschaft Bentheim, Niedersachsen, 49824, Deutschland"
   },
   {
     "name": "Kartause",
@@ -621,7 +723,9 @@
     "address": "",
     "city": "",
     "lat": 47.5832841,
-    "lon": 8.8658328
+    "lon": 8.8658328,
+    "geocode_query": "Kartause Switzerland",
+    "geocode_display_name": "Kartause Ittingen, Warth, Warth-Weiningen, Neunforn, Bezirk Frauenfeld, Thurgau, 8532, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "KLE",
@@ -633,7 +737,9 @@
     "address": "",
     "city": "",
     "lat": 47.3715304,
-    "lon": 8.5209454
+    "lon": 8.5209454,
+    "geocode_query": "KLE Switzerland",
+    "geocode_display_name": "Kle, 114, Zweierstrasse, Sihlfeld, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8003, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Kástu by Pajta",
@@ -644,8 +750,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/1761977992-MATE_BALAZS_KASTU_231007-BAL-PHO-Pajta-_-Etlap-_-Kastu-_-02-Kastu-_-536.jpg",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 46.848903,
+    "lon": 16.4042734,
+    "geocode_query": "Kástu Hungary",
+    "geocode_display_name": "Rigó Vendégház - Kástu, Templomszer, Őriszentpéter, Körmendi járás, Vas vármegye, Nyugat-Dunántúl, Dunántúl, 9941, Magyarország"
   },
   {
     "name": "L&H La Latina",
@@ -657,7 +765,9 @@
     "address": "",
     "city": "",
     "lat": 40.4091632,
-    "lon": -3.7114633
+    "lon": -3.7114633,
+    "geocode_query": "L&H La Latina Spain",
+    "geocode_display_name": "L & H, 17, Calle de Calatrava, Barrio de la Latina, Palacio, Centro, Madrid, Comunidad de Madrid, 28005, España"
   },
   {
     "name": "La Farm",
@@ -669,7 +779,9 @@
     "address": "",
     "city": "",
     "lat": 41.7467821,
-    "lon": 0.9145441
+    "lon": 0.9145441,
+    "geocode_query": "La Farm Spain",
+    "geocode_display_name": "La Farm, Camí de Filella, Urbanització d'Antoni Gaudí, Bellcaire d'Urgell, Noguera, Lleida, Catalunya, 25337, España"
   },
   {
     "name": "Lauch",
@@ -681,7 +793,9 @@
     "address": "",
     "city": "",
     "lat": 47.375902,
-    "lon": 7.7875126
+    "lon": 7.7875126,
+    "geocode_query": "Lauch Switzerland",
+    "geocode_display_name": "Lauch, Langenbruck, Bezirk Waldenburg, Basel-Landschaft, 4438, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Lokal at the Lake",
@@ -692,8 +806,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-24-kl.-12.06.53.png",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 47.4903887,
+    "lon": 19.0608834,
+    "geocode_query": "Lokal Hungary",
+    "geocode_display_name": "Lokal, 52, Magyar utca, Pest, Belváros, V. kerület, Budapest, Közép-Magyarország, 1053, Magyarország"
   },
   {
     "name": "Lulu Guldsmeden",
@@ -705,7 +821,9 @@
     "address": "",
     "city": "",
     "lat": 52.503404,
-    "lon": 13.3662568
+    "lon": 13.3662568,
+    "geocode_query": "Lulu Guldsmeden Germany",
+    "geocode_display_name": "Lulu Guldsmeden, 67, Potsdamer Straße, Tiergarten, Mitte, Berlin, 10785, Deutschland"
   },
   {
     "name": "Macot",
@@ -717,7 +835,9 @@
     "address": "",
     "city": "",
     "lat": 41.9991609,
-    "lon": 0.7644004
+    "lon": 0.7644004,
+    "geocode_query": "Macot Spain",
+    "geocode_display_name": "Carrer de Macot, Camí de l'Atmella, Àger, Noguera, Lleida, Catalunya, 25691, España"
   },
   {
     "name": "Magdalena",
@@ -729,7 +849,9 @@
     "address": "",
     "city": "",
     "lat": 47.017396,
-    "lon": 8.6659025
+    "lon": 8.6659025,
+    "geocode_query": "Magdalena Switzerland",
+    "geocode_display_name": "Magdalena, Rickenbach bei Schwyz, Schwyz, 6432, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Margot House",
@@ -740,8 +862,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/margot_hotel_habitaciones_y_banos_4.jpg",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 37.3886984,
+    "lon": -6.0008569,
+    "geocode_query": "Margot Spain",
+    "geocode_display_name": "Margot, 38, Calle Marqués de Paradas, Museo, Casco Antiguo, Sevilla, Andalucía, 41001, España"
   },
   {
     "name": "Marktküche",
@@ -753,7 +877,9 @@
     "address": "",
     "city": "",
     "lat": 47.3787172,
-    "lon": 8.5233543
+    "lon": 8.5233543,
+    "geocode_query": "Marktküche Switzerland",
+    "geocode_display_name": "marktküche, 98, Feldstrasse, Langstrasse, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Matière",
@@ -765,7 +891,9 @@
     "address": "",
     "city": "",
     "lat": 46.1949054,
-    "lon": 6.1471829
+    "lon": 6.1471829,
+    "geocode_query": "Matière Switzerland",
+    "geocode_display_name": "Matière, 12, Rue Micheli-du-Crest, La Cluse, Plainpalais, Genève, 1205, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Merold",
@@ -777,7 +905,9 @@
     "address": "",
     "city": "",
     "lat": 52.4896898,
-    "lon": 13.4339846
+    "lon": 13.4339846,
+    "geocode_query": "Merold Germany",
+    "geocode_display_name": "Merold, 24, Pannierstraße, Reuterkiez, Neukölln, Berlin, 12047, Deutschland"
   },
   {
     "name": "Mesa Lobo",
@@ -789,7 +919,9 @@
     "address": "",
     "city": "",
     "lat": 38.8833082,
-    "lon": -4.4715434
+    "lon": -4.4715434,
+    "geocode_query": "Mesa Lobo Spain",
+    "geocode_display_name": "Mesa del Lobo, Abenójar, Ciudad Real, Castilla-La Mancha, España"
   },
   {
     "name": "Michelberger",
@@ -801,7 +933,9 @@
     "address": "",
     "city": "",
     "lat": 49.9782637,
-    "lon": 9.1570759
+    "lon": 9.1570759,
+    "geocode_query": "Michelberger Germany",
+    "geocode_display_name": "Michelberger, 1, Königsberger Straße, Herz-Jesu-Viertel, Stadtmitte, Aschaffenburg, Bayern, 63739, Deutschland"
   },
   {
     "name": "Miiro Borneta",
@@ -813,7 +947,9 @@
     "address": "",
     "city": "",
     "lat": null,
-    "lon": null
+    "lon": null,
+    "geocode_query": null,
+    "geocode_display_name": null
   },
   {
     "name": "Moment",
@@ -825,7 +961,9 @@
     "address": "",
     "city": "",
     "lat": 46.9484657,
-    "lon": 7.4536634
+    "lon": 7.4536634,
+    "geocode_query": "Moment Switzerland",
+    "geocode_display_name": "moment, Antoniergässchen, Weisses Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3011, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Monte",
@@ -837,7 +975,9 @@
     "address": "",
     "city": "",
     "lat": 43.47005,
-    "lon": -3.82918
+    "lon": -3.82918,
+    "geocode_query": "Monte Spain",
+    "geocode_display_name": "Monte, Santander, Cantabria, 39012, España"
   },
   {
     "name": "Natura Hill",
@@ -849,7 +989,9 @@
     "address": "",
     "city": "",
     "lat": 47.8166078,
-    "lon": 18.9050628
+    "lon": 18.9050628,
+    "geocode_query": "Natura Hill Hungary",
+    "geocode_display_name": "Natura Hill Vendégház és Étterem, 0157/84, Farkas út, Verbic-völgy, Zebegény, Szobi járás, Pest vármegye, Közép-Magyarország, 2627, Magyarország"
   },
   {
     "name": "Natürlich",
@@ -861,7 +1003,9 @@
     "address": "",
     "city": "",
     "lat": 46.2037777,
-    "lon": 6.1379502
+    "lon": 6.1379502,
+    "geocode_query": "Natürlich Switzerland",
+    "geocode_display_name": "Natürlich, 38, Rue de la Coulouvrenière, Jonction, Coulouvrenière, Genève, 1204, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Neue Taverne",
@@ -873,7 +1017,9 @@
     "address": "",
     "city": "",
     "lat": 47.3720697,
-    "lon": 8.5403664
+    "lon": 8.5403664,
+    "geocode_query": "Neue Taverne Switzerland",
+    "geocode_display_name": "Neue Taverne, 8, Glockengasse, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "O Secadeiro",
@@ -884,8 +1030,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2025/07/Secadeiro-Moira-17.jpeg",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 38.911806,
+    "lon": -6.7654128,
+    "geocode_query": "Secadeiro Spain",
+    "geocode_display_name": "Secadero, Camino de la Barca, Pueblonuevo del Guadiana, Badajoz, Extremadura, 06184, España"
   },
   {
     "name": "Otto",
@@ -897,7 +1045,9 @@
     "address": "",
     "city": "",
     "lat": 51.5029011,
-    "lon": 11.9658447
+    "lon": 11.9658447,
+    "geocode_query": "Otto Germany",
+    "geocode_display_name": "Otto Czech, Röderberg, Giebichenstein, Halle (Saale), Sachsen-Anhalt, 06114, Deutschland"
   },
   {
     "name": "Pajta",
@@ -909,7 +1059,9 @@
     "address": "",
     "city": "",
     "lat": 47.4987682,
-    "lon": 19.0645288
+    "lon": 19.0645288,
+    "geocode_query": "Pajta Hungary",
+    "geocode_display_name": "Pajta, 34, Nyár utca, Erzsébetváros, VII. kerület, Budapest, Közép-Magyarország, 1072, Magyarország"
   },
   {
     "name": "Papi",
@@ -921,7 +1073,9 @@
     "address": "",
     "city": "",
     "lat": 48.3984818,
-    "lon": 21.0552741
+    "lon": 21.0552741,
+    "geocode_query": "Papi Hungary",
+    "geocode_display_name": "Papi, Fáj, Encsi járás, Borsod-Abaúj-Zemplén vármegye, Észak-Magyarország, Alföld és Észak, 3865, Magyarország"
   },
   {
     "name": "Petit Bois Füred",
@@ -932,8 +1086,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/petit-bois-gallery-building-1-scaled.webp",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 47.501958,
+    "lon": 19.059009,
+    "geocode_query": "Petit Hungary",
+    "geocode_display_name": "Le Petit Beefbar, 25, Andrássy út, Terézváros, VI. kerület, Budapest, Közép-Magyarország, 1061, Magyarország"
   },
   {
     "name": "Piedra",
@@ -945,7 +1101,9 @@
     "address": "",
     "city": "",
     "lat": 40.5778038,
-    "lon": -1.5238668
+    "lon": -1.5238668,
+    "geocode_query": "Piedra Spain",
+    "geocode_display_name": "Piedra, Albarracín, Sierra de Albarracín, Teruel, Aragón, España"
   },
   {
     "name": "Provocateur",
@@ -957,7 +1115,9 @@
     "address": "",
     "city": "",
     "lat": 52.4957427,
-    "lon": 13.3087693
+    "lon": 13.3087693,
+    "geocode_query": "Provocateur Germany",
+    "geocode_display_name": "Provocateur, 21, Brandenburgische Straße, Fasanenkiez, Wilmersdorf, Charlottenburg-Wilmersdorf, Berlin, 10707, Deutschland"
   },
   {
     "name": "Préselő Pincészet és Vendégház",
@@ -968,8 +1128,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-24-kl.-16.39.10-1019x1024.png",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 48.2660788,
+    "lon": 21.3550335,
+    "geocode_query": "Préselő Hungary",
+    "geocode_display_name": "Préselő, 23, Kossuth Lajos utca, Erdőbénye, Tokaji járás, Borsod-Abaúj-Zemplén vármegye, Észak-Magyarország, Alföld és Észak, 3932, Magyarország"
   },
   {
     "name": "Rechberg 1837",
@@ -981,7 +1143,9 @@
     "address": "",
     "city": "",
     "lat": 47.2097861,
-    "lon": 8.6341326
+    "lon": 8.6341326,
+    "geocode_query": "Rechberg 1837 Switzerland",
+    "geocode_display_name": "Rechberg, Schönenberg, Wädenswil, Bezirk Horgen, Zürich, 8820, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Restaurant Bidlabu",
@@ -993,7 +1157,9 @@
     "address": "",
     "city": "",
     "lat": 50.1142552,
-    "lon": 8.6742508
+    "lon": 8.6742508,
+    "geocode_query": "Restaurant Bidlabu Germany",
+    "geocode_display_name": "Bidlabu, 14, Kleine Bockenheimer Straße, Innenstadt, Innenstadt 1, Frankfurt am Main, Hessen, 60313, Deutschland"
   },
   {
     "name": "Restaurant OZ",
@@ -1005,7 +1171,9 @@
     "address": "",
     "city": "",
     "lat": 46.7210058,
-    "lon": 9.44615
+    "lon": 9.44615,
+    "geocode_query": "Restaurant OZ Switzerland",
+    "geocode_display_name": "Vegi Restaurant Oz, 77, Obergass, Fürstenaubruck, Fürstenau, Region Viamala, Graubünden/Grischun/Grigioni, 7414, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Riders Hotel",
@@ -1017,7 +1185,9 @@
     "address": "",
     "city": "",
     "lat": 46.8175768,
-    "lon": 9.2651088
+    "lon": 9.2651088,
+    "geocode_query": "Riders Hotel Switzerland",
+    "geocode_display_name": "Riders Hotel, 1, Via Murschetg, Murschetg, Laax, Surselva, Graubünden/Grischun/Grigioni, 7032, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Roots",
@@ -1029,7 +1199,9 @@
     "address": "",
     "city": "",
     "lat": 47.3873149,
-    "lon": 8.5171254
+    "lon": 8.5171254,
+    "geocode_query": "Roots Switzerland",
+    "geocode_display_name": "roots, 8, Maschinenstrasse, Maag Areal / Swiss Prime Site, Escher Wyss, Industriequartier, Zürich, Bezirk Zürich, Zürich, 8005, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Rosso",
@@ -1041,7 +1213,9 @@
     "address": "",
     "city": "",
     "lat": 52.522047,
-    "lon": 13.3267901
+    "lon": 13.3267901,
+    "geocode_query": "Rosso Germany",
+    "geocode_display_name": "Rosso, 24, Helmholtzstraße, Spreestadt Charlottenburg, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10587, Deutschland"
   },
   {
     "name": "Révcsárda",
@@ -1053,7 +1227,9 @@
     "address": "",
     "city": "",
     "lat": null,
-    "lon": null
+    "lon": null,
+    "geocode_query": null,
+    "geocode_display_name": null
   },
   {
     "name": "Safo",
@@ -1065,7 +1241,9 @@
     "address": "",
     "city": "",
     "lat": 41.3806751,
-    "lon": 2.146079
+    "lon": 2.146079,
+    "geocode_query": "Safo Spain",
+    "geocode_display_name": "Jardins de Safo, 20, la Nova Esquerra de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, España"
   },
   {
     "name": "Salt",
@@ -1077,7 +1255,9 @@
     "address": "",
     "city": "",
     "lat": 47.5003472,
-    "lon": 19.0503576
+    "lon": 19.0503576,
+    "geocode_query": "Salt Hungary",
+    "geocode_display_name": "Salt, 9, Zrínyi utca, Lipótváros, V. kerület, Budapest, Közép-Magyarország, 1051, Magyarország"
   },
   {
     "name": "Schloss Elmau",
@@ -1089,7 +1269,9 @@
     "address": "",
     "city": "",
     "lat": 47.4621412,
-    "lon": 11.1864855
+    "lon": 11.1864855,
+    "geocode_query": "Schloss Elmau Germany",
+    "geocode_display_name": "Schloss Elmau, 2, In Elmau, Elmau, Krün, Landkreis Garmisch-Partenkirchen, Bayern, 82493, Deutschland"
   },
   {
     "name": "Silex",
@@ -1101,7 +1283,9 @@
     "address": "",
     "city": "",
     "lat": 47.3715144,
-    "lon": 8.5245483
+    "lon": 8.5245483,
+    "geocode_query": "Silex Switzerland",
+    "geocode_display_name": "Silex, 3, Freyastrasse, Werd, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Six Senses",
@@ -1113,7 +1297,9 @@
     "address": "",
     "city": "",
     "lat": 39.1108344,
-    "lon": 1.5078208
+    "lon": 1.5078208,
+    "geocode_query": "Six Senses Spain",
+    "geocode_display_name": "Six Senses Ibiza, 71, Carrer de Camí de sa Torre, Portinatx, Sant Joan de Labritja, Eivissa, Illes Balears, 07810, España"
   },
   {
     "name": "Stilwerk Heimhude",
@@ -1124,8 +1310,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-18-kl.-14.18.30.png",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 53.5448133,
+    "lon": 9.9491812,
+    "geocode_query": "Stilwerk Germany",
+    "geocode_display_name": "stilwerk, Große Elbstraße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
   },
   {
     "name": "Suru",
@@ -1137,7 +1325,9 @@
     "address": "",
     "city": "",
     "lat": 40.4175384,
-    "lon": -3.6732615
+    "lon": -3.6732615,
+    "geocode_query": "Suru Spain",
+    "geocode_display_name": "Suru Alfajores, 50, Calle de Máiquez, Ibiza, Retiro, Madrid, Comunidad de Madrid, 28009, España"
   },
   {
     "name": "Tati",
@@ -1149,7 +1339,9 @@
     "address": "",
     "city": "",
     "lat": 47.4981214,
-    "lon": 19.0691053
+    "lon": 19.0691053,
+    "geocode_query": "Tati Hungary",
+    "geocode_display_name": "TATI, Dohány utca, Erzsébetváros, VII. kerület, Budapest, Közép-Magyarország, 1072, Magyarország"
   },
   {
     "name": "The Artisan",
@@ -1161,7 +1353,9 @@
     "address": "",
     "city": "",
     "lat": 47.3935843,
-    "lon": 8.5296761
+    "lon": 8.5296761,
+    "geocode_query": "The Artisan Switzerland",
+    "geocode_display_name": "The Artisan, 4, Nordbrücke, Wipkingen, Kreis 10, Zürich, Bezirk Zürich, Zürich, 8037, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "The Central House Lavapiés",
@@ -1172,8 +1366,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/doble1-5583f396eae36a80dec70366e56fa521-ec29b922f6f7ea1ef82109af07cadc09.webp",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 41.3873584,
+    "lon": 2.1777089,
+    "geocode_query": "The Central Spain",
+    "geocode_display_name": "The central Barber shop, 40, Carrer de Sant Pere Més Baix, Sant Pere, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España"
   },
   {
     "name": "The Dean",
@@ -1184,8 +1380,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-18-kl.-15.15.42.png",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 50.8409521,
+    "lon": 8.3004781,
+    "geocode_query": "The Germany",
+    "geocode_display_name": "Theologische Hochschule Ewersbach, 53, Jahnstraße, Neuhütte, Straßebersbach, Ewersbach, Dietzhölztal, Lahn-Dill-Kreis, Hessen, 35716, Deutschland"
   },
   {
     "name": "The Hat",
@@ -1197,7 +1395,9 @@
     "address": "",
     "city": "",
     "lat": 40.4142787,
-    "lon": -3.7070796
+    "lon": -3.7070796,
+    "geocode_query": "The Hat Spain",
+    "geocode_display_name": "The Hat, 9, Calle Imperial, Barrio de los Austrias, Sol, Centro, Madrid, Comunidad de Madrid, 28012, España"
   },
   {
     "name": "The Hearts Hotel",
@@ -1209,7 +1409,9 @@
     "address": "",
     "city": "",
     "lat": 51.731476,
-    "lon": 10.6037994
+    "lon": 10.6037994,
+    "geocode_query": "The Hearts Hotel Germany",
+    "geocode_display_name": "The Hearts Hotel, Unter den Buchen, Villenviertel, Braunlage, Landkreis Goslar, Niedersachsen, 38700, Deutschland"
   },
   {
     "name": "The Loft House",
@@ -1221,7 +1423,9 @@
     "address": "",
     "city": "",
     "lat": 40.4101214,
-    "lon": -3.7005712
+    "lon": -3.7005712,
+    "geocode_query": "The Loft House Spain",
+    "geocode_display_name": "The Loft House, Calle de la Esperanza, Lavapiés, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España"
   },
   {
     "name": "Valbella Resort",
@@ -1233,7 +1437,9 @@
     "address": "",
     "city": "",
     "lat": 46.7490908,
-    "lon": 9.557539
+    "lon": 9.557539,
+    "geocode_query": "Valbella Resort Switzerland",
+    "geocode_display_name": "Valbella Resort, 4, Voa Selva, Valbella, Vaz/Obervaz, Albula/Alvra, Graubünden/Grischun/Grigioni, 7077, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Vereda",
@@ -1245,7 +1451,9 @@
     "address": "",
     "city": "",
     "lat": 38.9911727,
-    "lon": -1.8769392
+    "lon": -1.8769392,
+    "geocode_query": "Vereda Spain",
+    "geocode_display_name": "Vereda, Distrito 2, Albacete, Castilla-La Mancha, 02006, España"
   },
   {
     "name": "Villa Florhof",
@@ -1257,7 +1465,9 @@
     "address": "",
     "city": "",
     "lat": 47.3722779,
-    "lon": 8.5487676
+    "lon": 8.5487676,
+    "geocode_query": "Villa Florhof Switzerland",
+    "geocode_display_name": "Villa Florhof, 4, Florhofgasse, Hochschulen, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Villa Kabala",
@@ -1269,7 +1479,9 @@
     "address": "",
     "city": "",
     "lat": 46.7920632,
-    "lon": 17.4419254
+    "lon": 17.4419254,
+    "geocode_query": "Villa Kabala Hungary",
+    "geocode_display_name": "Villa Kabala, 40, Kamonkői út, Belsőhegy, Szigliget, Tapolcai járás, Veszprém vármegye, Közép-Dunántúl, Dunántúl, 8264, Magyarország"
   },
   {
     "name": "We Boutique Hotel",
@@ -1280,8 +1492,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/j4ffwr0awkxbebcjojid.webp",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null
+    "lat": 41.6601014,
+    "lon": -4.7345428,
+    "geocode_query": "Boutique Hotel Spain",
+    "geocode_display_name": "Soho Boutique La Harinera, Avenida de Salamanca, Villa del Prado, Huerta del Rey, Valladolid, Castilla y León, 47003, España"
   },
   {
     "name": "Widder Hotel",
@@ -1293,7 +1507,9 @@
     "address": "",
     "city": "",
     "lat": 47.3724404,
-    "lon": 8.5398562
+    "lon": 8.5398562,
+    "geocode_query": "Widder Hotel Switzerland",
+    "geocode_display_name": "Widder, 7, Rennweg, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Wilmina",
@@ -1305,7 +1521,9 @@
     "address": "",
     "city": "",
     "lat": 52.5074621,
-    "lon": 13.2973266
+    "lon": 13.2973266,
+    "geocode_query": "Wilmina Germany",
+    "geocode_display_name": "Wilmina, 79, Kantstraße, Witzleben, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10627, Deutschland"
   },
   {
     "name": "Wöschi",
@@ -1317,7 +1535,9 @@
     "address": "",
     "city": "",
     "lat": 47.3405767,
-    "lon": 8.5381016
+    "lon": 8.5381016,
+    "geocode_query": "Wöschi Switzerland",
+    "geocode_display_name": "Wöschi, Forellenweg, Wollishofen, Kreis 2, Zürich, Bezirk Zürich, Zürich, 8038, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Yours",
@@ -1329,7 +1549,9 @@
     "address": "",
     "city": "",
     "lat": 41.4038042,
-    "lon": 2.1568269
+    "lon": 2.1568269,
+    "geocode_query": "Yours Spain",
+    "geocode_display_name": "all yours, 29, Carrer de Verdi, la Vila de Gràcia, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, 08012, España"
   },
   {
     "name": "Zeik",
@@ -1341,7 +1563,9 @@
     "address": "",
     "city": "",
     "lat": 53.5889417,
-    "lon": 10.0016891
+    "lon": 10.0016891,
+    "geocode_query": "Zeik Germany",
+    "geocode_display_name": "Zeik, 112, Sierichstraße, Winterhude, Hamburg-Nord, Hamburg, 22299, Deutschland"
   },
   {
     "name": "âme",
@@ -1353,6 +1577,8 @@
     "address": "",
     "city": "",
     "lat": 37.185314,
-    "lon": -2.2053671
+    "lon": -2.2053671,
+    "geocode_query": "âme Spain",
+    "geocode_display_name": "Ame, Calle Juan Soledad, La Canal, Uleila del Campo, Almería, Andalucía, 04279, España"
   }
 ]
