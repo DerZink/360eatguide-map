@@ -1,63 +1,70 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>360°Eat Guide Test</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+    <title>360°Eat Guide Test</title>
 
-<style>
-html,body,#map{
-    height:100%;
-    margin:0;
-}
-</style>
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+
+    <style>
+        html, body, #map {
+            height: 100%;
+            margin: 0;
+        }
+    </style>
 </head>
-
 <body>
 
 <div id="map"></div>
 
-https://unpkg.com/leaflet@1.9.4/dist/leaflet.jsscript>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/script>
 
 <script>
 const map = L.map("map").setView([47.37, 8.54], 6);
 
 L.tileLayer(
-  "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
-  {
-    attribution: "© OpenStreetMap"
-  }
+    "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    {
+        attribution: "© OpenStreetMap"
+    }
 ).addTo(map);
 
+// Restaurant (blau)
 L.circleMarker(
-    [47.3769,8.5417],
+    [47.3769, 8.5417],
     {
-        radius:8,
-        color:"blue",
-        fillColor:"blue",
-        fillOpacity:0.8
+        radius: 8,
+        color: "blue",
+        fillColor: "blue",
+        fillOpacity: 0.8
     }
-).addTo(map)
- .bindPopup(
+)
+.addTo(map)
+.bindPopup(
     '<b>Test Restaurant</b><br>' +
     '<a href="https://360eatguide.com/" target="_blank">Eintrag öffnen</a>'
- );
+);
 
+// Hotel (rot)
 L.circleMarker(
-    [46.8182,8.2275],
+    [46.8182, 8.2275],
     {
-        radius:8,
-        color:"red",
-        fillColor:"red",
-        fillOpacity:0.8
+        radius: 8,
+        color: "red",
+        fillColor: "red",
+        fillOpacity: 0.8
     }
-).addTo(map)
- .bindPopup(
+)
+.addTo(map)
+.bindPopup(
     '<b>Test Hotel</b><br>' +
     '<a href="https://360eatguide.com/" target="_blank">Eintrag öffnen</a>'
- );
+);
 </script>
 
 </body>
