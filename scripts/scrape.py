@@ -1,38 +1,89 @@
 import json
+import re
 import time
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
 BASE_URL = "https://360eatguide.com"
-START_URL = f"{BASE_URL}/restaurants/"
 
 session = requests.Session()
 session.headers.update({
     "User-Agent": "Mozilla/5.0"
 })
 
-results = []
-visited = set()
+entries = []
+visited_pages = set()
+visited_detail_urls = set()
 
-url = START_URL
+def clean(text):
+    return re.sub(r"\s+", " ", text).strip()
 
-while url and url not in visited:
-    print("Scraping", url)
+def scrape_detail(url):
+    print("  Detail:", url)
 
-    visited.add(url)
+    try:
+        html = session.get(url, timeout=30).text
+        soup = BeautifulSoup(html, "html.parser")
 
-    html = session.get(url, timeout=30).text
+        title = ""
+
+        h1 = soup.find("h1")
+        if h1:
+            title = clean(h1.get_text())
+
+        text = clean(soup.get_text(" "))
+
+        country = ""
+        category = ""
+
+        countries = [
+            "Austria","Belgium","Denmark","Estonia","Finland",
+            "France","Germany","Italy","Netherlands","Norway",
+            "Portugal","Spain","Sweden","Switzerland",
+            "United Kingdom"
+        ]
+
+        for c in countries:
+            if c in text:
+                country = c
+                break
+
+        if "Hotel" in text:
+            category = "Hotel"
+
+        if "Restaurant" in text:
+            category = "Restaurant"
+
+        return {
+            "name": title,
+            "category": category,
+            "country": country,
+            "url": url
+        }
+
+    except Exception as ex:
+        print(ex)
+        return None
+
+
+next_page = f"{BASE_URL}/restaurants/"
+
+while next_page:
+
+    if next_page in visited_pages:
+        break
+
+    visited_pages.add(next_page)
+
+    print("Page:", next_page)
+
+    html = session.get(next_page).text
     soup = BeautifulSoup(html, "html.parser")
 
-    cards = soup.select("a[href*='/restaurants/']")
+    for link in soup.find_all("a", href=True):
 
-    for card in cards:
-        href = card.get("href")
-        text = card.get_text(" ", strip=True)
-
-        if not href:
-            continue
+        href = link["href"]
 
         if "/restaurants/" not in href:
             continue
@@ -42,34 +93,40 @@ while url and url not in visited:
         if full_url.endswith("/restaurants/"):
             continue
 
-        results.append({
-            "name": text,
-            "url": full_url
-        })
+        if full_url in visited_detail_urls:
+            continue
+
+        visited_detail_urls.add(full_url)
+
+        item = scrape_detail(full_url)
+
+        if item:
+            entries.append(item)
+
+        time.sleep(0.5)
 
     next_link = None
 
-    for a in soup.select("a"):
-        label = a.get_text(" ", strip=True).lower()
+    for a in soup.find_all("a", href=True):
 
-        if "next" in label or "older" in label:
+        label = clean(a.get_text()).lower()
+
+        if "next" in label:
             next_link = urljoin(BASE_URL, a["href"])
             break
 
-    url = next_link
-    time.sleep(1)
+    next_page = next_link
 
-# Duplikate entfernen
-unique = {}
+with open(
+    "data/restaurants_hotels.json",
+    "w",
+    encoding="utf-8"
+) as f:
+    json.dump(
+        sorted(entries, key=lambda x: x["name"]),
+        f,
+        indent=2,
+        ensure_ascii=False
+    )
 
-for item in results:
-    unique[item["url"]] = item
-
-results = list(unique.values())
-
-results.sort(key=lambda x: x["name"])
-
-with open("data/restaurants_hotels.json", "w", encoding="utf-8") as f:
-    json.dump(results, f, indent=2, ensure_ascii=False)
-
-print(f"{len(results)} entries written")
+print(f"Gespeichert: {len(entries)} Einträge")
