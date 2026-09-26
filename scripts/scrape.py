@@ -1,98 +1,32 @@
 import json
 import re
+import time
 import requests
 from bs4 import BeautifulSoup
 
-BASE_URL = "https://360eatguide.com/restaurants/"
+session = requests.Session()
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0"
-}
+session.headers.update({
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.google.com/",
+    "Connection": "keep-alive"
+})
 
-all_entries = []
+url = "https://360eatguide.com/restaurants/"
 
-for page in range(1, 7):
-
-    if page == 1:
-        url = BASE_URL
-    else:
-        url = f"{BASE_URL}?jpage={page}"
-
-    print(f"Scraping: {url}")
-
-    response = requests.get(
-        url,
-        headers=HEADERS,
-        timeout=60
-    )
-
-    response.raise_for_status()
-
-    soup = BeautifulSoup(
-        response.text,
-        "html.parser"
-    )
-
-    rows = soup.select(
-        "tr.wp-block-j360-blocks-restaurant-list-row"
-    )
-
-    print(f"Rows found: {len(rows)}")
-
-    for row in rows:
-
-        onclick = row.get("onclick", "")
-
-        match = re.search(
-            r"window\\.location=.*?'(.*?)'",
-            onclick
-        )
-
-        if not match:
-            continue
-
-        detail_url = match.group(1)
-
-        cells = row.find_all("td")
-
-        if len(cells) < 3:
-            continue
-
-        name = cells[0].get_text(
-            " ",
-            strip=True
-        )
-
-        country = cells[1].get_text(
-            " ",
-            strip=True
-        )
-
-        category = cells[2].get_text(
-            " ",
-            strip=True
-        )
-
-        all_entries.append({
-            "name": name,
-            "country": country,
-            "category": category,
-            "url": detail_url
-        })
-
-print(
-    f"Total entries: {len(all_entries)}"
+response = session.get(
+    url,
+    timeout=60,
+    allow_redirects=True
 )
 
-with open(
-    "data/restaurants_hotels.json",
-    "w",
-    encoding="utf-8"
-) as f:
+print("STATUS:", response.status_code)
 
-    json.dump(
-        all_entries,
-        f,
-        indent=2,
-        ensure_ascii=False
-    )
+with open("debug.html", "w", encoding="utf-8") as f:
+    f.write(response.text)
+
+if response.status_code != 200:
+    print("ERROR PAGE SAVED")
+    exit(1)
