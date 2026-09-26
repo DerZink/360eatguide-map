@@ -1,38 +1,680 @@
 [
   {
-    "text": "81-85RootsRoots",
-    "href": "https://360eatguide.com/restaurants/roots/"
+    "name": "1280 Krone",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/1280-krone/"
   },
   {
-    "text": "81-85FafleralpFafleralp",
-    "href": "https://360eatguide.com/restaurants/fafleralp-hotel/"
+    "name": "Aerde",
+    "country": "Germany",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/aerde-restaurants-germany/"
   },
   {
-    "text": "81-85Grandhotel GiessbachGrandhotel Giessbach",
-    "href": "https://360eatguide.com/restaurants/grandhotel-giessbach/"
+    "name": "Alkimista Kulináris Műhely",
+    "country": "Hungary",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/alkimista-kulinaris-muhely/"
   },
   {
-    "text": "81-85FafleralpFafleralp",
-    "href": "https://360eatguide.com/restaurants/fafleralp-hotel/"
+    "name": "AMEO",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/ameo/"
   },
   {
-    "text": "81-85Grandhotel GiessbachGrandhotel Giessbach",
-    "href": "https://360eatguide.com/restaurants/grandhotel-giessbach/"
+    "name": "Bader Hotel",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/bader-hotel/"
   },
   {
-    "text": "2",
-    "href": "https://360eatguide.com/restaurants/?jpage=2"
+    "name": "Bakea",
+    "country": "Spain",
+    "category": "",
+    "url": "https://360eatguide.com/restaurants/bakea-restaurant-mungia/"
   },
   {
-    "text": "3",
-    "href": "https://360eatguide.com/restaurants/?jpage=3"
+    "name": "Barro",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/barro-restaurant-avila/"
   },
   {
-    "text": "6",
-    "href": "https://360eatguide.com/restaurants/?jpage=6"
+    "name": "Berbena",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/berbena/"
   },
   {
-    "text": "",
-    "href": "https://360eatguide.com/restaurants/?jpage=2"
+    "name": "Bombar",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/bombar/"
+  },
+  {
+    "name": "Brasserie Uno",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-switzerland-brasserieuno/"
+  },
+  {
+    "name": "Brody House",
+    "country": "Hungary",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/brody-house/"
+  },
+  {
+    "name": "Cabrio",
+    "country": "Hungary",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/cabrio/"
+  },
+  {
+    "name": "Café Frieda",
+    "country": "Germany",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/cafe-frieda-restaurants-germany/"
+  },
+  {
+    "name": "Caro",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/caro-hotel/"
+  },
+  {
+    "name": "Celler Tonet",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/celler-tonet/"
+  },
+  {
+    "name": "CERVO Mountain Resort",
+    "country": "Switzerland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/cervo-mountain-resort/"
+  },
+  {
+    "name": "Chesa Marchetta",
+    "country": "Switzerland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/chesa-marchetta/"
+  },
+  {
+    "name": "Château Royal",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/chateau-royal/"
+  },
+  {
+    "name": "Cocoon Theresienwiese",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/cocoon-theresienwiese/"
+  },
+  {
+    "name": "Culinarium Alpinum",
+    "country": "Switzerland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/culinarium-alpinum/"
+  },
+  {
+    "name": "Culler de Pau",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/culler-de-pau/"
+  },
+  {
+    "name": "Daica",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/daica/"
+  },
+  {
+    "name": "Das Edith",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/das-edith/"
+  },
+  {
+    "name": "Der Teufelhof",
+    "country": "Switzerland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/der-teufelhof/"
+  },
+  {
+    "name": "Die Reederin",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/die-reederin/"
+  },
+  {
+    "name": "Direkte",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/direkte-restaurant-barcelona/"
+  },
+  {
+    "name": "Eco Hotel El Agua",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/eco-hotel-el-agua/"
+  },
+  {
+    "name": "El Invernadero",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/el-invernadero-restaurant-madrid/"
+  },
+  {
+    "name": "El Ventador",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/el-ventador/"
+  },
+  {
+    "name": "EquiTable",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-equitable-switzerland/"
+  },
+  {
+    "name": "Esca",
+    "country": "Hungary",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/esca/"
+  },
+  {
+    "name": "Fafleralp",
+    "country": "Switzerland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/fafleralp-hotel/"
+  },
+  {
+    "name": "Fishølogy",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/fishology-restaurant-barcelona/"
+  },
+  {
+    "name": "Franca",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/franca/"
+  },
+  {
+    "name": "Gaia Hotel",
+    "country": "Switzerland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/gaia-hotel/"
+  },
+  {
+    "name": "Gamper",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-switzerland-gamper/"
+  },
+  {
+    "name": "Goli",
+    "country": "Hungary",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/goli/"
+  },
+  {
+    "name": "Grandhotel Giessbach",
+    "country": "Switzerland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/grandhotel-giessbach/"
+  },
+  {
+    "name": "Heimatjuwel",
+    "country": "Germany",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/heimatjuwel-restaurant-hamburg/"
+  },
+  {
+    "name": "Hobenköök",
+    "country": "Germany",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/hobenkook-restaurant-hamburg/"
+  },
+  {
+    "name": "Horváth",
+    "country": "Germany",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/horvath-restaurant-germany/"
+  },
+  {
+    "name": "Hostal Grau",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hostal-grau/"
+  },
+  {
+    "name": "Hotel Casa Treviño",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-casa-trevino/"
+  },
+  {
+    "name": "Hotel Karl August",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-karl-august/"
+  },
+  {
+    "name": "Hotel La Bionda",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-la-bionda/"
+  },
+  {
+    "name": "Hotel MontRubí 1771",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-montrubi-1771/"
+  },
+  {
+    "name": "Hotel Rum",
+    "country": "Hungary",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-rum/"
+  },
+  {
+    "name": "Hotel Schweizerhof",
+    "country": "Switzerland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-schweizerhof/"
+  },
+  {
+    "name": "Hotel Torre",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-torre/"
+  },
+  {
+    "name": "Iszkor",
+    "country": "Hungary",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/iszkor/"
+  },
+  {
+    "name": "Julius Ernst",
+    "country": "Germany",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/julius-ernst/"
+  },
+  {
+    "name": "Kartause",
+    "country": "Switzerland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/kartause-hotel-switzerland/"
+  },
+  {
+    "name": "KLE",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-switzerland-kle/"
+  },
+  {
+    "name": "Kástu by Pajta",
+    "country": "Hungary",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/kastu-by-pajta/"
+  },
+  {
+    "name": "L&H La Latina",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/la-latina/"
+  },
+  {
+    "name": "La Farm",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/la-farm/"
+  },
+  {
+    "name": "Lauch",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/lauch/"
+  },
+  {
+    "name": "Lokal at the Lake",
+    "country": "Hungary",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/lokal-at-the-lake/"
+  },
+  {
+    "name": "Lulu Guldsmeden",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/lulu-guldsmeden/"
+  },
+  {
+    "name": "Macot",
+    "country": "Spain",
+    "category": "",
+    "url": "https://360eatguide.com/restaurants/macot-restaurant-barcelona/"
+  },
+  {
+    "name": "Magdalena",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/magdalena/"
+  },
+  {
+    "name": "Margot House",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/margot-house/"
+  },
+  {
+    "name": "Marktküche",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-switzerland-marktkuche/"
+  },
+  {
+    "name": "Matière",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/matiere-restaurants-switzerlan/"
+  },
+  {
+    "name": "Merold",
+    "country": "Germany",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/merold-restaurant-berlin/"
+  },
+  {
+    "name": "Mesa Lobo",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/mesa-lobo/"
+  },
+  {
+    "name": "Michelberger",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/michelberger/"
+  },
+  {
+    "name": "Miiro Borneta",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/miiro-borneta/"
+  },
+  {
+    "name": "Moment",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/moment-restaurants-schweiz/"
+  },
+  {
+    "name": "Monte",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/monte-restaurant-san-feliz/"
+  },
+  {
+    "name": "Natura Hill",
+    "country": "Hungary",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/natura-hill/"
+  },
+  {
+    "name": "Natürlich",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/naturlich-restaurants-switzerland/"
+  },
+  {
+    "name": "Neue Taverne",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-switzerland-neue-taverne/"
+  },
+  {
+    "name": "O Secadeiro",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/o-secadeiro-restaurant-lugar-de-banzas/"
+  },
+  {
+    "name": "Otto",
+    "country": "Germany",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/otto/"
+  },
+  {
+    "name": "Pajta",
+    "country": "Hungary",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/pajta/"
+  },
+  {
+    "name": "Papi",
+    "country": "Hungary",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/papi/"
+  },
+  {
+    "name": "Petit Bois Füred",
+    "country": "Hungary",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-petit-bois-fured/"
+  },
+  {
+    "name": "Piedra",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/piedra/"
+  },
+  {
+    "name": "Provocateur",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/provocateur/"
+  },
+  {
+    "name": "Préselő Pincészet és Vendégház",
+    "country": "Hungary",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/preselo-pinceszet-es-vendeghaz/"
+  },
+  {
+    "name": "Rechberg 1837",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/rechberg-1837/"
+  },
+  {
+    "name": "Restaurant Bidlabu",
+    "country": "Germany",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/bidlabu-restaurant-frankfurt/"
+  },
+  {
+    "name": "Restaurant OZ",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-switzerland-restaurant-oz/"
+  },
+  {
+    "name": "Riders Hotel",
+    "country": "Switzerland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/riders-hotel/"
+  },
+  {
+    "name": "Roots",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/roots/"
+  },
+  {
+    "name": "Rosso",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/rosso/"
+  },
+  {
+    "name": "Révcsárda",
+    "country": "Hungary",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/revcsarda/"
+  },
+  {
+    "name": "Safo",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/safo/"
+  },
+  {
+    "name": "Salt",
+    "country": "Hungary",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/salt/"
+  },
+  {
+    "name": "Schloss Elmau",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/schloss-elmau/"
+  },
+  {
+    "name": "Silex",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/silex-restaurants-switzerland/"
+  },
+  {
+    "name": "Six Senses",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/six-senses/"
+  },
+  {
+    "name": "Stilwerk Heimhude",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/stilwerk-heimhude/"
+  },
+  {
+    "name": "Suru",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/suru-restaurant-barcelona/"
+  },
+  {
+    "name": "Tati",
+    "country": "Hungary",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/tati/"
+  },
+  {
+    "name": "The Artisan",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/the-artisan/"
+  },
+  {
+    "name": "The Central House Lavapiés",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-central-house-lavapies/"
+  },
+  {
+    "name": "The Dean",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-dean/"
+  },
+  {
+    "name": "The Hat",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-hat/"
+  },
+  {
+    "name": "The Hearts Hotel",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-hearts-hotel/"
+  },
+  {
+    "name": "The Loft House",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-loft-house/"
+  },
+  {
+    "name": "Valbella Resort",
+    "country": "Switzerland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/valbella-resort/"
+  },
+  {
+    "name": "Vereda",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/vereda-bar-restaurant-barcelona/"
+  },
+  {
+    "name": "Villa Florhof",
+    "country": "Switzerland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/villa-florhof/"
+  },
+  {
+    "name": "Villa Kabala",
+    "country": "Hungary",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/villa-kabala/"
+  },
+  {
+    "name": "We Boutique Hotel",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/we-boutique-hotel/"
+  },
+  {
+    "name": "Widder Hotel",
+    "country": "Switzerland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/widder-hotel/"
+  },
+  {
+    "name": "Wilmina",
+    "country": "Germany",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/wilmina/"
+  },
+  {
+    "name": "Wöschi",
+    "country": "Switzerland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-switzerland-woschi/"
+  },
+  {
+    "name": "Yours",
+    "country": "Spain",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/yours/"
+  },
+  {
+    "name": "Zeik",
+    "country": "Germany",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/zeik-restaurant-hamburg/"
+  },
+  {
+    "name": "âme",
+    "country": "Spain",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/ame-restaurant-barcelona/"
   }
 ]
