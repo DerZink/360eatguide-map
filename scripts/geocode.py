@@ -1,6 +1,6 @@
 import json
-import time
 import re
+import time
 import requests
 
 INPUT_FILE = "data/restaurants_hotels_enriched.json"
@@ -12,42 +12,67 @@ with open(INPUT_FILE, "r", encoding="utf-8") as f:
 session = requests.Session()
 
 session.headers.update({
-    "User-Agent": "360EatGuideMap"
+    "User-Agent": "360EatGuideMap/1.0 (contact: github)"
 })
-
-results = []
 
 
 def clean_words(text):
     words = re.findall(r"\w+", text)
 
-    words = [
+    return [
         w for w in words
         if len(w) > 2
     ]
 
-    return words
-
 
 def geocode(query):
 
-    r = session.get(
-        "https://nominatim.openstreetmap.org/search",
-        params={
-            "q": query,
-            "format": "jsonv2",
-            "limit": 1
-        },
-        timeout=60
-    )
+    try:
 
-    data = r.json()
+        response = session.get(
+            "https://nominatim.openstreetmap.org/search",
+            params={
+                "q": query,
+                "format": "jsonv2",
+                "limit": 1
+            },
+            timeout=60
+        )
 
-    if data:
-        return data[0]
+        if response.status_code != 200:
+
+            print(
+                f"HTTP {response.status_code}: {query}"
+            )
+
+            return None
+
+        if not response.text.strip():
+            return None
+
+        try:
+            data = response.json()
+        except Exception:
+            print(
+                f"Invalid JSON for query: {query}"
+            )
+            return None
+
+        if data:
+            return data[0]
+
+    except Exception as ex:
+
+        print(
+            f"Request failed: {query}"
+        )
+        print(ex)
 
     return None
 
+
+results = []
+failed = []
 
 for idx, item in enumerate(data, start=1):
 
@@ -71,7 +96,7 @@ for idx, item in enumerate(data, start=1):
     # Variante 2
     search_variants.append(
         f"{item['name']} "
-        f"{item.get('category','')} "
+        f"{item.get('category', '')} "
         f"{item['country']}"
     )
 
@@ -115,28 +140,27 @@ for idx, item in enumerate(data, start=1):
 
     for query in search_variants:
 
-        try:
+        hit = geocode(query)
 
-            hit = geocode(query)
+        if hit:
 
-            if hit:
+            lat = float(hit["lat"])
+            lon = float(hit["lon"])
 
-                used_query = query
+            used_query = query
 
-                display_name = hit.get(
-                    "display_name"
-                )
+            display_name = hit.get(
+                "display_name",
+                ""
+            )
 
-                lat = float(hit["lat"])
-                lon = float(hit["lon"])
+            print(
+                f"  ✓ {query}"
+            )
 
-                break
+            break
 
-            time.sleep(1)
-
-        except Exception as ex:
-
-            print(ex)
+        time.sleep(2)
 
     item["lat"] = lat
     item["lon"] = lon
@@ -144,7 +168,18 @@ for idx, item in enumerate(data, start=1):
     item["geocode_query"] = used_query
     item["geocode_display_name"] = display_name
 
+    if lat is None:
+
+        failed.append({
+            "name": item["name"],
+            "country": item["country"],
+            "url": item["url"]
+        })
+
     results.append(item)
+
+    # Etwas Luft für Nominatim
+    time.sleep(1)
 
 with open(
     OUTPUT_FILE,
@@ -158,13 +193,6 @@ with open(
         indent=2,
         ensure_ascii=False
     )
-
-# Analyse fehlgeschlagener Treffer
-
-failed = [
-    x for x in results
-    if x["lat"] is None
-]
 
 with open(
     "data/geocode_failed.json",
@@ -181,7 +209,7 @@ with open(
 
 print()
 print("=" * 60)
-print("TOTAL:", len(results))
-print("SUCCESS:", len(results) - len(failed))
-print("FAILED:", len(failed))
+print(f"TOTAL: {len(results)}")
+print(f"SUCCESS: {len(results) - len(failed)}")
+print(f"FAILED: {len(failed)}")
 print("=" * 60)
