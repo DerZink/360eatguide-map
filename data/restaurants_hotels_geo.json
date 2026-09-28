@@ -78,8 +78,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2025/07/platos_02.1800x0.jpg",
     "address": "",
     "city": "",
-    "lat": 42.8936855,
-    "lon": -2.1730032,
+    "lat": 42.8942266,
+    "lon": -2.1726309,
     "geocode_query": "Bakea Spain",
     "geocode_display_name": "Bakea, Altsasu / Alsasua, Sakana, Navarra, Navarra / Nafarroa, 31800, España"
   },
@@ -277,7 +277,7 @@
     "lat": 46.9554421,
     "lon": 8.3693747,
     "geocode_query": "Culinarium Alpinum Switzerland",
-    "geocode_display_name": "Culinarium Alpinum, 18, Mürgstrasse, Stans, Nidwalden, 6370, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Culinarium Alpinum, Mürgstrasse, Stans, Nidwalden, 6371, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Culler de Pau",
@@ -725,7 +725,7 @@
     "lat": 47.5832841,
     "lon": 8.8658328,
     "geocode_query": "Kartause Switzerland",
-    "geocode_display_name": "Kartause Ittingen, Warth, Warth-Weiningen, Neunforn, Bezirk Frauenfeld, Thurgau, 8532, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Kartause Ittingen, Warth, Warth-Weiningen, Bezirk Frauenfeld, Thurgau, 8532, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "KLE",
@@ -1198,10 +1198,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/rhypark-food-2152-1.jpg",
     "address": "",
     "city": "",
-    "lat": 47.3873149,
-    "lon": 8.5171254,
+    "lat": 47.3663601,
+    "lon": 8.5570448,
     "geocode_query": "Roots Switzerland",
-    "geocode_display_name": "roots, 8, Maschinenstrasse, Maag Areal / Swiss Prime Site, Escher Wyss, Industriequartier, Zürich, Bezirk Zürich, Zürich, 8005, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Roots, Klosbachstrasse, Hottingen, Kreis 7, Zürich, Bezirk Zürich, Zürich, 8032, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Rosso",
@@ -1394,8 +1394,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-22-kl.-15.41.49.png",
     "address": "",
     "city": "",
-    "lat": 40.4142787,
-    "lon": -3.7070796,
+    "lat": 40.4145221,
+    "lon": -3.7069829,
     "geocode_query": "The Hat Spain",
     "geocode_display_name": "The Hat, 9, Calle Imperial, Barrio de los Austrias, Sol, Centro, Madrid, Comunidad de Madrid, 28012, España"
   },
