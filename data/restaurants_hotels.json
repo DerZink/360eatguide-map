@@ -18,10 +18,34 @@
     "url": "https://360eatguide.com/restaurants/alkimista-kulinaris-muhely/"
   },
   {
+    "name": "Altstadt Vienna",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/altstadt-vienna/"
+  },
+  {
     "name": "AMEO",
     "country": "Switzerland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/ameo/"
+  },
+  {
+    "name": "Arthotel Blaue Gans",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/arthotel-blaue-gans/"
+  },
+  {
+    "name": "Artist Boutique Hotel",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/artist-boutique-hotel/"
+  },
+  {
+    "name": "August",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/august/"
   },
   {
     "name": "Bader Hotel",
@@ -34,6 +58,12 @@
     "country": "Spain",
     "category": "",
     "url": "https://360eatguide.com/restaurants/bakea-restaurant-mungia/"
+  },
+  {
+    "name": "Barge",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/barge-brussels/"
   },
   {
     "name": "Barro",
@@ -66,6 +96,24 @@
     "url": "https://360eatguide.com/restaurants/brody-house/"
   },
   {
+    "name": "Bruder",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/bruder/"
+  },
+  {
+    "name": "Brutes",
+    "country": "Belgium",
+    "category": "",
+    "url": "https://360eatguide.com/restaurants/brut-restaurant-ixelles/"
+  },
+  {
+    "name": "Brösl",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/brosl/"
+  },
+  {
     "name": "Cabrio",
     "country": "Hungary",
     "category": "Restaurant",
@@ -76,6 +124,12 @@
     "country": "Germany",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/cafe-frieda-restaurants-germany/"
+  },
+  {
+    "name": "Café Kandl",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/cafe-kandl/"
   },
   {
     "name": "Caro",
@@ -198,6 +252,12 @@
     "url": "https://360eatguide.com/restaurants/fishology-restaurant-barcelona/"
   },
   {
+    "name": "Forthuber",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/forthuber/"
+  },
+  {
     "name": "Franca",
     "country": "Spain",
     "category": "Restaurant",
@@ -234,6 +294,18 @@
     "url": "https://360eatguide.com/restaurants/heimatjuwel-restaurant-hamburg/"
   },
   {
+    "name": "Henriette Stadthotel",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/henriette-stadthotel/"
+  },
+  {
+    "name": "Heunisch & Erben",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/heunisch-erben/"
+  },
+  {
     "name": "Hobenköök",
     "country": "Germany",
     "category": "Restaurant",
@@ -258,6 +330,30 @@
     "url": "https://360eatguide.com/restaurants/hotel-casa-trevino/"
   },
   {
+    "name": "Hotel Franq",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-franq/"
+  },
+  {
+    "name": "Hotel Gilbert",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-gilbert/"
+  },
+  {
+    "name": "Hotel Indigo",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-indigo/"
+  },
+  {
+    "name": "Hotel Julien",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-julien/"
+  },
+  {
     "name": "Hotel Karl August",
     "country": "Germany",
     "category": "Hotel",
@@ -276,10 +372,28 @@
     "url": "https://360eatguide.com/restaurants/hotel-montrubi-1771/"
   },
   {
+    "name": "Hotel Motto",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-motto/"
+  },
+  {
+    "name": "Hotel Pilar",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-pilar/"
+  },
+  {
     "name": "Hotel Rum",
     "country": "Hungary",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/hotel-rum/"
+  },
+  {
+    "name": "Hotel Schani",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-schani/"
   },
   {
     "name": "Hotel Schweizerhof",
@@ -294,10 +408,28 @@
     "url": "https://360eatguide.com/restaurants/hotel-torre/"
   },
   {
+    "name": "Humus x Hortense",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/humus-x-hortense-brussels/"
+  },
+  {
+    "name": "Instroom",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/instroom/"
+  },
+  {
     "name": "Iszkor",
     "country": "Hungary",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/iszkor/"
+  },
+  {
+    "name": "JOLA",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/jola/"
   },
   {
     "name": "Julius Ernst",
@@ -336,10 +468,34 @@
     "url": "https://360eatguide.com/restaurants/la-farm/"
   },
   {
+    "name": "Labstelle",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/labstelle/"
+  },
+  {
+    "name": "Lara",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/lara/"
+  },
+  {
     "name": "Lauch",
     "country": "Switzerland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/lauch/"
+  },
+  {
+    "name": "Le Petit Jeudi",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/le-petit-jeudi/"
+  },
+  {
+    "name": "Lilli & Jojo",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/lillijojo/"
   },
   {
     "name": "Lokal at the Lake",
@@ -354,10 +510,22 @@
     "url": "https://360eatguide.com/restaurants/lulu-guldsmeden/"
   },
   {
+    "name": "L’air du temps",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/lair-du-temps-brussels/"
+  },
+  {
     "name": "Macot",
     "country": "Spain",
     "category": "",
     "url": "https://360eatguide.com/restaurants/macot-restaurant-barcelona/"
+  },
+  {
+    "name": "Made in Louise",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/made-in-louise-brussels/"
   },
   {
     "name": "Magdalena",
@@ -366,16 +534,34 @@
     "url": "https://360eatguide.com/restaurants/magdalena/"
   },
   {
+    "name": "Magdas Hotel",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/magdas-hotel/"
+  },
+  {
     "name": "Margot House",
     "country": "Spain",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/margot-house/"
   },
   {
+    "name": "Markthof",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/markthof/"
+  },
+  {
     "name": "Marktküche",
     "country": "Switzerland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/restaurants-switzerland-marktkuche/"
+  },
+  {
+    "name": "MAST",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/mast-weinbistro/"
   },
   {
     "name": "Matière",
@@ -420,6 +606,18 @@
     "url": "https://360eatguide.com/restaurants/monte-restaurant-san-feliz/"
   },
   {
+    "name": "Màloma",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/maloma-restaurant-rixensart/"
+  },
+  {
+    "name": "Nathan",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/nathan-antwerp/"
+  },
+  {
     "name": "Natura Hill",
     "country": "Hungary",
     "category": "Hotel",
@@ -430,6 +628,12 @@
     "country": "Switzerland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/naturlich-restaurants-switzerland/"
+  },
+  {
+    "name": "Neon",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/neon-restaurant-lier/"
   },
   {
     "name": "Neue Taverne",
@@ -486,6 +690,24 @@
     "url": "https://360eatguide.com/restaurants/preselo-pinceszet-es-vendeghaz/"
   },
   {
+    "name": "Publiek",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/publiek-ghent/"
+  },
+  {
+    "name": "Rau",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/rau/"
+  },
+  {
+    "name": "Rebelle",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/rebelle/"
+  },
+  {
     "name": "Rechberg 1837",
     "country": "Switzerland",
     "category": "Restaurant",
@@ -502,6 +724,12 @@
     "country": "Switzerland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/restaurants-switzerland-restaurant-oz/"
+  },
+  {
+    "name": "Restaurant Primitif",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurant-primitif/"
   },
   {
     "name": "Riders Hotel",
@@ -594,6 +822,12 @@
     "url": "https://360eatguide.com/restaurants/the-dean/"
   },
   {
+    "name": "The Guesthouse Vienna",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-guesthouse-vienna/"
+  },
+  {
     "name": "The Hat",
     "country": "Spain",
     "category": "Hotel",
@@ -610,6 +844,18 @@
     "country": "Spain",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/the-loft-house/"
+  },
+  {
+    "name": "The Usual",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-usual/"
+  },
+  {
+    "name": "Tian Bistro",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/tian-bistro/"
   },
   {
     "name": "Valbella Resort",
@@ -636,6 +882,12 @@
     "url": "https://360eatguide.com/restaurants/villa-kabala/"
   },
   {
+    "name": "Vin d’Où",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/vin-dou-antwerp/"
+  },
+  {
     "name": "We Boutique Hotel",
     "country": "Spain",
     "category": "Hotel",
@@ -648,6 +900,12 @@
     "url": "https://360eatguide.com/restaurants/widder-hotel/"
   },
   {
+    "name": "Willem Hiele",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/willem-hiele/"
+  },
+  {
     "name": "Wilmina",
     "country": "Germany",
     "category": "Hotel",
@@ -658,6 +916,12 @@
     "country": "Switzerland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/restaurants-switzerland-woschi/"
+  },
+  {
+    "name": "Yalo hotel",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/yalo-hotel/"
   },
   {
     "name": "Yours",

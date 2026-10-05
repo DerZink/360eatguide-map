@@ -39,7 +39,21 @@
     "lat": 46.2504569,
     "lon": 20.1473537,
     "geocode_query": "Alkimista Kulináris Műhely Hungary",
-    "geocode_display_name": "Alkimista Kulináris Műhely, Somogyi utca, Belváros, Szeged, Szegedi járás, Csongrád-Csanád vármegye, Dél-Alföld, Alföld és Észak, 6720, Magyarország"
+    "geocode_display_name": "Alkimista Kulináris Műhely, Somogyi utca, Belváros, Szeged, Szegedi járás, Csongrád-Csanád megye, Alföld és Észak, 6720, Magyarország"
+  },
+  {
+    "name": "Altstadt Vienna",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/altstadt-vienna/",
+    "description": "Breakfast here is refreshingly unshowy: excellent bread, good ham, Viennese honey, local juices and coffee from a long-standing Austrian roaster. The hotel is unusually open about the people behind its food, even giving its suppliers their own little portraits. No caviar, they say; just the good stuff, carefully chosen and properly enjoyed. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/csm_suite34_suite_medium_hotel_altstadt_vienna_01_89afd12067-scaled.jpeg",
+    "address": "",
+    "city": "",
+    "lat": 48.2048176,
+    "lon": 16.3513395,
+    "geocode_query": "Altstadt Vienna Austria",
+    "geocode_display_name": "Altstadt, 41, Kirchengasse, Sankt Ulrich, Neubau, Katastralgemeinde Neubau, Neubau, Wien, 1070, Österreich"
   },
   {
     "name": "AMEO",
@@ -54,6 +68,48 @@
     "lon": 8.5197963,
     "geocode_query": "AMEO Switzerland",
     "geocode_display_name": "Ameo, Zentralstrasse, Sihlfeld, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8003, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  {
+    "name": "Arthotel Blaue Gans",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/arthotel-blaue-gans/",
+    "description": "Nearly seven centuries old, yet still looking south. The kitchen follows Salzburg’s old trade routes towards Friuli and Veneto, bringing Alpine produce together with Italian flavours. Much is made in-house — from pickles and ferments to smoked ingredients — while the wine cellar provides plenty of reasons to linger. History, but with an appetite for the present. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-29-kl.-14.34.25.png",
+    "address": "",
+    "city": "",
+    "lat": 48.2307404,
+    "lon": 16.3552372,
+    "geocode_query": "Arthotel Austria",
+    "geocode_display_name": "Arthotel ANA Gala, 5, Viriotgasse, Thurygrund II, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich"
+  },
+  {
+    "name": "Artist Boutique Hotel",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/artist-boutique-hotel/",
+    "description": "Breakfast is the main culinary draw here: organic and regional products, served until 1pm in the hotel’s cosy WohnSalon. There’s also a bar for cocktails and small bites, giving the place a little more life than the average hotel breakfast room. The sourcing story is promising, although less transparent than some of Vienna’s stronger 360° candidates. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-29-kl.-14.28.52.png",
+    "address": "",
+    "city": "",
+    "lat": 48.1754182,
+    "lon": 16.3746708,
+    "geocode_query": "Artist Austria",
+    "geocode_display_name": "Artist, 131, Quellenstraße, Katastralgemeinde Favoriten, Favoriten, Wien, 1100, Österreich"
+  },
+  {
+    "name": "August",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/august/",
+    "description": "An old Augustinian convent turned into a hotel, restaurant and bar, with the original chapel and garden still at its heart. The food leans into seasonal Belgian produce, while the bar has become something of a local meeting point. History, architecture, cocktails and dinner all come together unusually well. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/19-07-August-Antwerp-1364-2.jpg",
+    "address": "",
+    "city": "",
+    "lat": 51.2020729,
+    "lon": 4.4222488,
+    "geocode_query": "August Belgium",
+    "geocode_display_name": "August, Jules Bordetstraat, 't Groen Kwartier, Haringrode, Antwerpen, Vlaanderen, 2018, België / Belgique / Belgien"
   },
   {
     "name": "Bader Hotel",
@@ -82,6 +138,20 @@
     "lon": -2.1726309,
     "geocode_query": "Bakea Spain",
     "geocode_display_name": "Bakea, Altsasu / Alsasua, Sakana, Navarra, Navarra / Nafarroa, 31800, España"
+  },
+  {
+    "name": "Barge",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/barge-brussels/",
+    "description": "Grégoire Gillard’s quietly precise kitchen feels deliberately removed from fine-dining theatre. Whole vegetables, nearby farms and serious non-alcoholic pairingsfit naturally into the experience. The interesting 360° question is how far the restaurant’s careful sourcing and restrained philosophy extend into its people, suppliers and wider operations. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2025/10/Barge_360guide_©_Maurine_Toussaint-1-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": 50.8568936,
+    "lon": 4.3469641,
+    "geocode_query": "Barge Belgium",
+    "geocode_display_name": "Barge, Boulevard de Dixmude - Diksmuidelaan, Quartier des Quais - Kaaienwijk, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België / Belgique / Belgien"
   },
   {
     "name": "Barro",
@@ -151,7 +221,49 @@
     "lat": 47.4923156,
     "lon": 19.0631469,
     "geocode_query": "Brody House Hungary",
-    "geocode_display_name": "Brody House, 10, Bródy Sándor utca, Palotanegyed, VIII. kerület, Budapest, Közép-Magyarország, 1088, Magyarország"
+    "geocode_display_name": "Brody House, 10, Bródy Sándor utca, Palotanegyed, VIII. kerület, Budapest, 1088, Magyarország"
+  },
+  {
+    "name": "Bruder",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/bruder/",
+    "description": "Part natural-wine bar, part kitchen laboratory, Bruder is gloriously hard to pin down. Fermented, pickled and home-made things turn up both on the plates and behind the bar, with cooking and cocktails sharing the same playful, slightly anarchic spirit. Come for dinner, stay for the drinks, the night may well get interesting. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-29-kl.-10.46.37.png",
+    "address": "",
+    "city": "",
+    "lat": 48.1991326,
+    "lon": 16.356417,
+    "geocode_query": "Bruder Austria",
+    "geocode_display_name": "Bruder, 20, Windmühlgasse, Untere Windmühle, Mariahilf, Katastralgemeinde Mariahilf, Mariahilf, Wien, 1060, Österreich"
+  },
+  {
+    "name": "Brutes",
+    "country": "Belgium",
+    "category": "",
+    "url": "https://360eatguide.com/restaurants/brut-restaurant-ixelles/",
+    "description": "Alice Pollet and Marie Desemberg have created something small, intimate and distinctly their own. The cooking is plant-led but never preachy, while natural wine and a certain rough-edged elegance give the place its character. There is a strong sense of collaboration here — more duo than chef-and-sommelier sidekick. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2025/10/Skarmavbild-2026-10-01-kl.-09.57.45-1024x577.png",
+    "address": "",
+    "city": "",
+    "lat": 50.8254386,
+    "lon": 4.3756539,
+    "geocode_query": "brut restaurant ixelles Belgium",
+    "geocode_display_name": "Brut, Rue Antoine Labarre - Antoine Labarrestraat, Flagey, Ixelles - Elsene, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België / Belgique / Belgien"
+  },
+  {
+    "name": "Brösl",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/brosl/",
+    "description": "It may look like a classic Viennese inn, but appearances are misleading. The menu changes with what small producers have brought in, leaning heavily into vegetables and Mediterranean flavours, with meat and fish playing supporting roles. Everything lands in the middle of the table, which is really where the fun starts. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-29-kl.-09.34.54-827x1024.png",
+    "address": "",
+    "city": "",
+    "lat": 48.2196267,
+    "lon": 16.4036927,
+    "geocode_query": "Brösl Austria",
+    "geocode_display_name": "Brösl, 23, Wohlmutstraße, Stuwerviertel, Leopoldstadt, Katastralgemeinde Leopoldstadt, Leopoldstadt, Wien, 1020, Österreich"
   },
   {
     "name": "Cabrio",
@@ -165,7 +277,7 @@
     "lat": 47.4948153,
     "lon": 19.056324,
     "geocode_query": "Cabrio Hungary",
-    "geocode_display_name": "Cabrio, Kamermayer Károly tér, Pest, Belváros, V. kerület, Budapest, Közép-Magyarország, 1052, Magyarország"
+    "geocode_display_name": "Cabrio, Kamermayer Károly tér, Pest, Belváros, V. kerület, Budapest, 1052, Magyarország"
   },
   {
     "name": "Café Frieda",
@@ -180,6 +292,20 @@
     "lon": 9.9544957,
     "geocode_query": "Café Frieda Germany",
     "geocode_display_name": "Café Frieda, Jakobistraße, Jakobiviertel, Stadtmitte, Stadtmitte/Neustadt, Hildesheim, Landkreis Hildesheim, Niedersachsen, 31134, Deutschland"
+  },
+  {
+    "name": "Café Kandl",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/cafe-kandl/",
+    "description": "A neighbourhood favourite with a little more ambition than its laid-back looks might suggest. The kitchen turns excellent seasonal ingredients into modern, quietly inventive dishes, while the bar keeps things lively with good wine and cocktails. Come hungry, order freely and leave room for the surprise menu. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-29-kl.-09.21.19.png",
+    "address": "",
+    "city": "",
+    "lat": 48.202874,
+    "lon": 16.3442901,
+    "geocode_query": "Café Kandl Austria",
+    "geocode_display_name": "Café Kandl, 12, Kandlgasse, Schottenfeld, Katastralgemeinde Neubau, Neubau, Wien, 1070, Österreich"
   },
   {
     "name": "Caro",
@@ -431,7 +557,7 @@
     "lat": 47.4972538,
     "lon": 19.0384966,
     "geocode_query": "Esca Hungary",
-    "geocode_display_name": "Habsburg lépcső, Vár, I. kerület, Budapest, Közép-Magyarország, 1013, Magyarország"
+    "geocode_display_name": "Habsburg lépcső, Vár, I. kerület, Budapest, 1013, Magyarország"
   },
   {
     "name": "Fafleralp",
@@ -460,6 +586,20 @@
     "lon": null,
     "geocode_query": null,
     "geocode_display_name": null
+  },
+  {
+    "name": "Forthuber",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/forthuber/",
+    "description": "Out in the Innviertel countryside, in a former village inn beside a small church, Christoph and Doris Forthuber have created something rather special. His cooking draws on the region but looks well beyond it, with precise, flavour-packed dishes and the occasional international detour. Add Doris’s eye for wine, a grand chestnut tree and seven rooms nearby, and staying the night suddenly seems like a very good idea. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-29-kl.-10.50.26-1024x578.png",
+    "address": "",
+    "city": "",
+    "lat": 48.0518253,
+    "lon": 13.0445136,
+    "geocode_query": "Forthuber Austria",
+    "geocode_display_name": "Forthuber, 1, Gstaig, Feldkirchen bei Mattighofen, Helpfau-Uttendorf, Bezirk Braunau, Oberösterreich, 5143, Österreich"
   },
   {
     "name": "Franca",
@@ -515,7 +655,7 @@
     "lat": 47.5025402,
     "lon": 19.0533372,
     "geocode_query": "Goli Hungary",
-    "geocode_display_name": "Goli, 32, Arany János utca, Lipótváros, V. kerület, Budapest, Közép-Magyarország, 1051, Magyarország"
+    "geocode_display_name": "Goli, 32, Arany János utca, Lipótváros, V. kerület, Budapest, 1051, Magyarország"
   },
   {
     "name": "Grandhotel Giessbach",
@@ -544,6 +684,34 @@
     "lon": 9.9477006,
     "geocode_query": "Heimatjuwel Germany",
     "geocode_display_name": "Heimatjuwel, 47, Stellinger Weg, Eimsbüttel, Hamburg, 20255, Deutschland"
+  },
+  {
+    "name": "Henriette Stadthotel",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/henriette-stadthotel/",
+    "description": "Breakfast is the main event here, and Henriette takes it unusually seriously. Ninety percent of what reaches the table comes from Austria, with producers named, known and often very close to home. There’s honey from the roof, coffee from a Viennese roaster and cheese from a Salzburg dairy. Less hotel buffet, more breakfast at a friend’s house; if your friend happens to keep bees. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/supersusiCOM_14261-3000x1874-960x600-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": 48.2153964,
+    "lon": 16.3861717,
+    "geocode_query": "Henriette Stadthotel Austria",
+    "geocode_display_name": "Henriette Stadthotel Vienna, 44-46, Praterstraße, Czerninviertel, Leopoldstadt, Katastralgemeinde Leopoldstadt, Leopoldstadt, Wien, 1020, Österreich"
+  },
+  {
+    "name": "Heunisch & Erben",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/heunisch-erben/",
+    "description": "A wine bar, shop and restaurant rolled into one, Heunisch & Erben is the sort of place where a quick glass can easily turn into dinner — and dinner into a bottle to take home. The wines come from small, often low-intervention producers, while the kitchen keeps things seasonal, generous and refreshingly unfussy. Come curious, leave slightly better stocked. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-29-kl.-11.23.12.png",
+    "address": "",
+    "city": "",
+    "lat": 48.2049025,
+    "lon": 16.387981,
+    "geocode_query": "Heunisch & Erben Austria",
+    "geocode_display_name": "Heunisch Und Erben, 17, Landstraßer Hauptstraße, Landstraße, Katastralgemeinde Landstraße, Landstraße, Wien, 1030, Österreich"
   },
   {
     "name": "Hobenköök",
@@ -602,6 +770,62 @@
     "geocode_display_name": "Casa, 62, Carrer de Sant Pere Més Alt, Sant Pere, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España"
   },
   {
+    "name": "Hotel Franq",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-franq/",
+    "description": "A former bank turned intimate city hotel, with an elegant restaurant at its centre. Seasonal ingredients, Belgian influences and a well-curated wine list give the food side real weight, while the old banking architecture adds plenty of atmosphere. Polished, but still relaxed enough to feel like part of Antwerp. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Studio-Aline-Friant-Hoste-116.jpg.webp",
+    "address": "",
+    "city": "",
+    "lat": 51.2210482,
+    "lon": 4.4061087,
+    "geocode_query": "Hotel Franq Belgium",
+    "geocode_display_name": "Hotel Franq, 10, Kipdorp, Universiteitsbuurt, Antwerpen, Vlaanderen, 2000, België / Belgique / Belgien"
+  },
+  {
+    "name": "Hotel Gilbert",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-gilbert/",
+    "description": "With its leafy facade, herb garden and all-day restaurant &flora, Gilbert feels more like a neighbourhood hangout than a hotel restaurant. The kitchen follows the seasons and works hard to use almost every part of its produce, while local partners such as Süssmund Coffee and Thum ham make the sourcing pleasantly easy to follow. Green, but never terribly solemn about it. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/BS_GH109956_fullres-min-2000x1042-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": 48.2035822,
+    "lon": 16.3566727,
+    "geocode_query": "Hotel Gilbert Austria",
+    "geocode_display_name": "Gilbert, 9, Breite Gasse, Sankt Ulrich, Spittelberg, Katastralgemeinde Neubau, Neubau, Wien, 1070, Österreich"
+  },
+  {
+    "name": "Hotel Indigo",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-indigo/",
+    "description": "A lively city hotel with a local flavour and an easy-going food and drink offering. Beers, craft gin, organic wines and a casual brasserie make the ground floor feel more social than formal. It lacks the intimacy of the smaller independents, but makes up for it with accessibility and energy. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/hotel-indigo-antwerp-5530005124-2x1-1-scaled.jpeg",
+    "address": "",
+    "city": "",
+    "lat": 51.2187567,
+    "lon": 4.4205198,
+    "geocode_query": "Hotel Indigo Belgium",
+    "geocode_display_name": "Hotel Indigo, Gemeentestraat, Statiekwartier, Centraal Station, Antwerpen, Vlaanderen, 2060, België / Belgique / Belgien"
+  },
+  {
+    "name": "Hotel Julien",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-julien/",
+    "description": "Hidden behind two historic townhouses, this is one of those hotels that feels effortlessly cool rather than carefully styled. The intimate bar, rooftop terrace and breakfast room make staying in tempting, while vintage furniture and art give the whole place a distinctly Antwerp character. Small, atmospheric and very easy to like. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/FAV-PICTURE-1-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": 50.4563746,
+    "lon": 3.9334838,
+    "geocode_query": "Hotel Belgium",
+    "geocode_display_name": "Hotel, 1, Place des Grands Prés, Les Grands Prés, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+  },
+  {
     "name": "Hotel Karl August",
     "country": "Germany",
     "category": "Hotel",
@@ -644,6 +868,34 @@
     "geocode_display_name": "Hotel, 11, Calle de Valencia, Lavapiés, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España"
   },
   {
+    "name": "Hotel Motto",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-motto/",
+    "description": "Part boutique hotel, part Parisian fantasy, and very much a place to eat and drink, MOTTO has turned its own house into a little culinary universe. There’s Chez Bernard upstairs, a bakery downstairs and Viennese life happening all around it. Come for the bread, stay for a drink, and you may forget you came to check in. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/hotel-motto-vienna-deluxe-1_wide.jpg",
+    "address": "",
+    "city": "",
+    "lat": 48.1983255,
+    "lon": 16.3506527,
+    "geocode_query": "Hotel Motto Austria",
+    "geocode_display_name": "Hotel Motto, Mariahilfer Straße, Magdalenengrund, Mariahilf, Katastralgemeinde Mariahilf, Mariahilf, Wien, 1060, Österreich"
+  },
+  {
+    "name": "Hotel Pilar",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-pilar/",
+    "description": "Part hotel, part neighbourhood living room. The food bar downstairs is central to the experience, moving from breakfast and coffee into lunch, dinner, wine and drinks. Seasonal cooking and local suppliers keep things grounded, while art, design and a relaxed crowd give the place its unmistakable Zuid personality. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/8abe6e_285d927910f84706a13acd32aaa8c635mv2.jpg",
+    "address": "",
+    "city": "",
+    "lat": 51.2086144,
+    "lon": 4.3922893,
+    "geocode_query": "Hotel Pilar Belgium",
+    "geocode_display_name": "Hotel Pilar, Verschansingstraat, Zuid, Antwerpen, Vlaanderen, 2000, België / Belgique / Belgien"
+  },
+  {
     "name": "Hotel Rum",
     "country": "Hungary",
     "category": "Hotel",
@@ -655,7 +907,21 @@
     "lat": 47.4904145,
     "lon": 19.0591373,
     "geocode_query": "Hotel Rum Hungary",
-    "geocode_display_name": "Hotel Rum, 4, Királyi Pál utca, Pest, Belváros, V. kerület, Budapest, Közép-Magyarország, 1053, Magyarország"
+    "geocode_display_name": "Hotel Rum, 4, Királyi Pál utca, Pest, Belváros, V. kerület, Budapest, 1053, Magyarország"
+  },
+  {
+    "name": "Hotel Schani",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-schani/",
+    "description": "Breakfast is where Schani’s local streak really shows: regional bread, eggs, dairy, ham and cheese, plus herbs and quinces grown in its own garden. Coffee and other drinks are Fairtrade, and the hotels keep track of food waste rather than simply hoping it disappears. It’s not trying to reinvent breakfast; just making the everyday stuff travel a little less. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/hotel-schani-wien-lobby-sitzplaetze-fenster-3_006aca0138454663ac22be-2-2.jpg",
+    "address": "",
+    "city": "",
+    "lat": 48.2339868,
+    "lon": 16.4209462,
+    "geocode_query": "Hotel Schani Austria",
+    "geocode_display_name": "Hotel Schani UNO City, 16, Wagramer Straße, Katastralgemeinde Kaisermühlen, Donaustadt, Wien, 1220, Österreich"
   },
   {
     "name": "Hotel Schweizerhof",
@@ -686,6 +952,34 @@
     "geocode_display_name": "Nobu Hotel Barcelona, 2, Avinguda de Roma, la Nova Esquerra de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08014, España"
   },
   {
+    "name": "Humus x Hortense",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/humus-x-hortense-brussels/",
+    "description": "A place where vegetables are treated with the ambition usually reserved for the finest meat and seafood. Botanical flavours, fermentation, wild herbs and inventive drinks create a world of their own, while the room has enough warmth and personality to keep it from feeling worthy or preachy. It feels genuinely lived-in. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/11/humusxhortense_027-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": 50.829489,
+    "lon": 4.3703813,
+    "geocode_query": "Humus x Hortense Belgium",
+    "geocode_display_name": "Humus x Hortense, Rue de Vergnies - de Vergniesstraat, Flagey, Ixelles - Elsene, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België / Belgique / Belgien"
+  },
+  {
+    "name": "Instroom",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/instroom/",
+    "description": "Seppe Nobels makes the social dimension impossible to ignore: Instroom employs and trains newcomers to Europe, using food as a vehicle for integration and exchange. Local produce and organic farming sit alongside that mission. It is one of theclearest examples in Belgium of a restaurant whose impact is fundamentally human, not merely environmental 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Instroom_Art-galerij-10.jpg",
+    "address": "",
+    "city": "",
+    "lat": 51.2178666,
+    "lon": 4.3863076,
+    "geocode_query": "Instroom Belgium",
+    "geocode_display_name": "Instroom, 27, Beatrijslaan, Linkeroever, Antwerpen, Vlaanderen, 2050, België / Belgique / Belgien"
+  },
+  {
     "name": "Iszkor",
     "country": "Hungary",
     "category": "Restaurant",
@@ -697,7 +991,21 @@
     "lat": 48.1562928,
     "lon": 20.4945983,
     "geocode_query": "Iszkor Hungary",
-    "geocode_display_name": "Iszkor, 2-4, Lillafüredi utca, Mályinka, Kazincbarcikai járás, Borsod-Abaúj-Zemplén vármegye, Észak-Magyarország, Alföld és Észak, 3645, Magyarország"
+    "geocode_display_name": "Iszkor, 2-4, Lillafüredi utca, Mályinka, Kazincbarcikai járás, Borsod-Abaúj-Zemplén megye, Alföld és Észak, 3645, Magyarország"
+  },
+  {
+    "name": "JOLA",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/jola/",
+    "description": "Tucked away just around the corner from its more easy-going sister Lara, Jola takes plant-based cooking into fine-dining territory. The kitchen builds dishes around vegetables, fermentation, texture and plenty of imagination, with a tasting menu that rewards curiosity. Serious food, without taking itself too seriously. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/slide2.webp",
+    "address": "",
+    "city": "",
+    "lat": 47.325735,
+    "lon": 9.69404,
+    "geocode_query": "JOLA Austria",
+    "geocode_display_name": "Jola, Fraxern, Bezirk Feldkirch, Vorarlberg, 6833, Österreich"
   },
   {
     "name": "Julius Ernst",
@@ -753,7 +1061,7 @@
     "lat": 46.848903,
     "lon": 16.4042734,
     "geocode_query": "Kástu Hungary",
-    "geocode_display_name": "Rigó Vendégház - Kástu, Templomszer, Őriszentpéter, Körmendi járás, Vas vármegye, Nyugat-Dunántúl, Dunántúl, 9941, Magyarország"
+    "geocode_display_name": "Rigó Vendégház - Kástu, Templomszer, Őriszentpéter, Körmendi járás, Vas megye, Dunántúl, 9941, Magyarország"
   },
   {
     "name": "L&H La Latina",
@@ -784,6 +1092,34 @@
     "geocode_display_name": "La Farm, Camí de Filella, Urbanització d'Antoni Gaudí, Bellcaire d'Urgell, Noguera, Lleida, Catalunya, 25337, España"
   },
   {
+    "name": "Labstelle",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/labstelle/",
+    "description": "A Vienna classic with a modern pulse, where the seasons largely decide what lands on the plate. Regional produce, thoughtful cooking and a healthy dose of curiosity shape the menu, while the leafy courtyard and handsome interiors make it easy to linger. Come hungry, stay for the bar. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-29-kl.-09.13.04.png",
+    "address": "",
+    "city": "",
+    "lat": 48.2096649,
+    "lon": 16.3746467,
+    "geocode_query": "Labstelle Austria",
+    "geocode_display_name": "Labstelle, Lugeck, Stubenviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich"
+  },
+  {
+    "name": "Lara",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/lara/",
+    "description": "A fresh take on vegetable-led dining and the more relaxed little sister of nearby Jola, the city’s vegan fine-dining address. Seasonal produce becomes playful, imaginative dishes in a stylish, easy-going setting. Come for dinner, brunch or simply a drink at the bar. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/hero-image-2.webp",
+    "address": "",
+    "city": "",
+    "lat": 48.2127959,
+    "lon": 16.3700353,
+    "geocode_query": "Lara Austria",
+    "geocode_display_name": "Lara, 2, Passauer Platz, Textilviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich"
+  },
+  {
     "name": "Lauch",
     "country": "Switzerland",
     "category": "Restaurant",
@@ -798,6 +1134,34 @@
     "geocode_display_name": "Lauch, Langenbruck, Bezirk Waldenburg, Basel-Landschaft, 4438, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
+    "name": "Le Petit Jeudi",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/le-petit-jeudi/",
+    "description": "French by name, largely Austrian by nature — and very Viennese in spirit. Breakfast, brunch, lunch and dinner all get the same playful treatment here, with seasonal produce, good wine and cooking that never feels overly precious. A sociable little bistro where eating well is clearly meant to be fun. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-29-kl.-09.29.13.png",
+    "address": "",
+    "city": "",
+    "lat": 48.2277774,
+    "lon": 16.3691765,
+    "geocode_query": "Le Petit Jeudi Austria",
+    "geocode_display_name": "Le petit jeudi, 1, Traunfelsgasse, Brigittenau, Katastralgemeinde Brigittenau, Brigittenau, Wien, 1200, Österreich"
+  },
+  {
+    "name": "Lilli & Jojo",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/lillijojo/",
+    "description": "Surrounded by vineyards and gardens in southern Styria, this is a restaurant that makes a virtue of staying close to home. The menu follows the seasons and the local growers, with the surrounding Weinland providing much of what lands on the plate — and the vineyards outside doing their part in the glass. Quietly rooted, and all the better for it. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/lilli-u-jojo_20240930_©apolt_08109-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": 46.6865984,
+    "lon": 15.553162,
+    "geocode_query": "Lilli & Jojo Austria",
+    "geocode_display_name": "Das kleine Wirtshaus - Lilli & Jojo, 22, Sulztal an der Weinstraße, Sulztal, Katastralgemeinde Sulztal, Gamlitz, Bezirk Leibnitz, Steiermark, 8461, Österreich"
+  },
+  {
     "name": "Lokal at the Lake",
     "country": "Hungary",
     "category": "Restaurant",
@@ -809,7 +1173,7 @@
     "lat": 47.4903887,
     "lon": 19.0608834,
     "geocode_query": "Lokal Hungary",
-    "geocode_display_name": "Lokal, 52, Magyar utca, Pest, Belváros, V. kerület, Budapest, Közép-Magyarország, 1053, Magyarország"
+    "geocode_display_name": "Lokal, 52, Magyar utca, Pest, Belváros, V. kerület, Budapest, 1053, Magyarország"
   },
   {
     "name": "Lulu Guldsmeden",
@@ -826,6 +1190,20 @@
     "geocode_display_name": "Lulu Guldsmeden, 67, Potsdamer Straße, Tiergarten, Mitte, Berlin, 10785, Deutschland"
   },
   {
+    "name": "L’air du temps",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/lair-du-temps-brussels/",
+    "description": "Sang Hoon Degeimbre’s rural project remains one of Belgium’s most complete foodecosystems. His own gardens, fermentation, Korean heritage and Belgian terroir all meet here, with vegetables grown metres from the kitchen. A long-term project rather than a trend, and very much about the land beyond the plate. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2025/09/Lair-du-temps_1.jpeg",
+    "address": "",
+    "city": "",
+    "lat": 50.1308926,
+    "lon": 5.7905861,
+    "geocode_query": "L’air du temps Belgium",
+    "geocode_display_name": "L'air du temps, 25, Rue Ville Basse, Fin de Ville, Houffalize, Bastogne, Luxembourg, Wallonie, 6660, België / Belgique / Belgien"
+  },
+  {
     "name": "Macot",
     "country": "Spain",
     "category": "",
@@ -838,6 +1216,20 @@
     "lon": 0.7644004,
     "geocode_query": "Macot Spain",
     "geocode_display_name": "Carrer de Macot, Camí de l'Atmella, Àger, Noguera, Lleida, Catalunya, 25691, España"
+  },
+  {
+    "name": "Made in Louise",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/made-in-louise-brussels/",
+    "description": "A charming townhouse hotel that feels more like a Brussels home than a conventional hotel. Breakfast is the main food moment, with local produce and homemade touches, while the honesty bar invites guests to linger over a Belgian beer or a glass of wine. Warm, personal and wonderfully unpolished. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/madeinlouise-lobby-012.jpg.webp",
+    "address": "",
+    "city": "",
+    "lat": 50.8291876,
+    "lon": 4.3579514,
+    "geocode_query": "Made in Louise Belgium",
+    "geocode_display_name": "Made in Louise, Rue Veydt - Veydtstraat, Ixelles - Elsene, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1060, België / Belgique / Belgien"
   },
   {
     "name": "Magdalena",
@@ -854,6 +1246,20 @@
     "geocode_display_name": "Magdalena, Rickenbach bei Schwyz, Schwyz, 6432, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
+    "name": "Magdas Hotel",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/magdas-hotel/",
+    "description": "A social hotel with a kitchen that looks outward as much as it looks local. At magdas LOKAL, organic and regional produce meets recipes from the countries represented by its kitchen team, with plenty of vegetables, vegan dishes and Fairtrade coffee along the way. The weekend brunch is a culinary trip around the world; no passport required, just an appetite. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/magdas_HOTEL_Vienna_City_Classic-Double_c_BWM-Architekten_Severin-Wurnig.jpg",
+    "address": "",
+    "city": "",
+    "lat": 48.2129879,
+    "lon": 16.3965661,
+    "geocode_query": "Magdas Hotel Austria",
+    "geocode_display_name": "magdas Hotel, 12, Laufbergergasse, Jägerzeile, Leopoldstadt, Katastralgemeinde Leopoldstadt, Leopoldstadt, Wien, 1020, Österreich"
+  },
+  {
     "name": "Margot House",
     "country": "Spain",
     "category": "Hotel",
@@ -868,6 +1274,20 @@
     "geocode_display_name": "Margot, 38, Calle Marqués de Paradas, Museo, Casco Antiguo, Sevilla, Andalucía, 41001, España"
   },
   {
+    "name": "Markthof",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/markthof/",
+    "description": "Set on a family farm in the countryside outside Vienna, this is about as close to farm-to-table as the phrase allows. Vegetables come from the garden, meat from the farm’s pastures, and plenty of what ends up on the plate is also available in the farm shop. A restaurant with its feet firmly in the soil. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/gallery_markthof_4_2026-neu.jpg",
+    "address": "",
+    "city": "",
+    "lat": 48.1931287,
+    "lon": 16.9588001,
+    "geocode_query": "Markthof Austria",
+    "geocode_display_name": "Markthof, Engelhartstetten, Bezirk Gänserndorf, Niederösterreich, 2294, Österreich"
+  },
+  {
     "name": "Marktküche",
     "country": "Switzerland",
     "category": "Restaurant",
@@ -880,6 +1300,20 @@
     "lon": 8.5233543,
     "geocode_query": "Marktküche Switzerland",
     "geocode_display_name": "marktküche, 98, Feldstrasse, Langstrasse, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  {
+    "name": "MAST",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/mast-weinbistro/",
+    "description": "Forget the usual hierarchy between glass and plate. At Mast, wine is part of the kitchen’s thinking, not merely its accompaniment. Producers, places and seasons come together in cooking that makes Austria taste distinctly alive. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/saibling_ruebe@MAST-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": 46.5235392,
+    "lon": 14.1837133,
+    "geocode_query": "MAST Austria",
+    "geocode_display_name": "MAST, 9, Gewerbestraße, Sala, Hundsdorf/Podsinja vas, Feistritz im Rosental, Bezirk Klagenfurt-Land, Kärnten, 9181, Österreich"
   },
   {
     "name": "Matière",
@@ -980,6 +1414,34 @@
     "geocode_display_name": "Monte, Santander, Cantabria, 39012, España"
   },
   {
+    "name": "Màloma",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/maloma-restaurant-rixensart/",
+    "description": "Georges Athanassopoulos has taken Màloma out of the city and closer to nature, with a garden, free-ranging chickens and nearby producers forming a more circular system. Advance payments to farmers and introducing guests to those producers add an unusually tangible social dimension 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2025/10/4D2A4888-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null,
+    "geocode_query": null,
+    "geocode_display_name": null
+  },
+  {
+    "name": "Nathan",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/nathan-antwerp/",
+    "description": "Nathan Van Echelpoel has found a neat sweet spot between classical French-Belgian cooking and a more playful Asian sensibility. The food is precise without becoming stiff, while partner Eva Van de Peer gives the restaurant much of its warmth and polish. A very personal two-person operation, rather than a chef working in isolation. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2025/09/NATHAN_summer023_┬®_kris_vlegels__016-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": 51.223117,
+    "lon": 4.4027864,
+    "geocode_query": "Nathan Belgium",
+    "geocode_display_name": "Nathan, 13, Lange Koepoortstraat, Historisch Centrum, Antwerpen, Vlaanderen, 2000, België / Belgique / Belgien"
+  },
+  {
     "name": "Natura Hill",
     "country": "Hungary",
     "category": "Hotel",
@@ -991,7 +1453,7 @@
     "lat": 47.8166078,
     "lon": 18.9050628,
     "geocode_query": "Natura Hill Hungary",
-    "geocode_display_name": "Natura Hill Vendégház és Étterem, 0157/84, Farkas út, Verbic-völgy, Zebegény, Szobi járás, Pest vármegye, Közép-Magyarország, 2627, Magyarország"
+    "geocode_display_name": "Natura Hill Vendégház és Étterem, 0157/84, Farkas út, Verbic-völgy, Zebegény, Szobi járás, Pest megye, 2627, Magyarország"
   },
   {
     "name": "Natürlich",
@@ -1006,6 +1468,20 @@
     "lon": 6.1379502,
     "geocode_query": "Natürlich Switzerland",
     "geocode_display_name": "Natürlich, 38, Rue de la Coulouvrenière, Jonction, Coulouvrenière, Genève, 1204, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  {
+    "name": "Neon",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/neon-restaurant-lier/",
+    "description": "Neon feels like the kind of place where the philosophy is lived rather than advertised. Vegetables lead, meat and fish play supporting roles, and the kitchen works around what the farms and seasons actually give them. Add fermentation, no-waste cooking and a four-day week, and there is substance behind the green credentials. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/11/PHNX-STUDIO_NEONZOMER_012-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": 51.1303285,
+    "lon": 4.5766348,
+    "geocode_query": "Neon Belgium",
+    "geocode_display_name": "Neon, 4, Barbara-Vettersplein, Bogerse Velden, Lier, Mechelen, Antwerpen, Vlaanderen, 2500, België / Belgique / Belgien"
   },
   {
     "name": "Neue Taverne",
@@ -1061,7 +1537,7 @@
     "lat": 47.4987682,
     "lon": 19.0645288,
     "geocode_query": "Pajta Hungary",
-    "geocode_display_name": "Pajta, 34, Nyár utca, Erzsébetváros, VII. kerület, Budapest, Közép-Magyarország, 1072, Magyarország"
+    "geocode_display_name": "Pajta, 34, Nyár utca, Erzsébetváros, VII. kerület, Budapest, 1072, Magyarország"
   },
   {
     "name": "Papi",
@@ -1075,7 +1551,7 @@
     "lat": 48.3984818,
     "lon": 21.0552741,
     "geocode_query": "Papi Hungary",
-    "geocode_display_name": "Papi, Fáj, Encsi járás, Borsod-Abaúj-Zemplén vármegye, Észak-Magyarország, Alföld és Észak, 3865, Magyarország"
+    "geocode_display_name": "Papi, Fáj, Encsi járás, Borsod-Abaúj-Zemplén megye, Alföld és Észak, 3865, Magyarország"
   },
   {
     "name": "Petit Bois Füred",
@@ -1089,7 +1565,7 @@
     "lat": 47.501958,
     "lon": 19.059009,
     "geocode_query": "Petit Hungary",
-    "geocode_display_name": "Le Petit Beefbar, 25, Andrássy út, Terézváros, VI. kerület, Budapest, Közép-Magyarország, 1061, Magyarország"
+    "geocode_display_name": "Le Petit Beefbar, 25, Andrássy út, Terézváros, VI. kerület, Budapest, 1061, Magyarország"
   },
   {
     "name": "Piedra",
@@ -1131,7 +1607,49 @@
     "lat": 48.2660788,
     "lon": 21.3550335,
     "geocode_query": "Préselő Hungary",
-    "geocode_display_name": "Préselő, 23, Kossuth Lajos utca, Erdőbénye, Tokaji járás, Borsod-Abaúj-Zemplén vármegye, Észak-Magyarország, Alföld és Észak, 3932, Magyarország"
+    "geocode_display_name": "Préselő, 23, Kossuth Lajos utca, Erdőbénye, Tokaji járás, Borsod-Abaúj-Zemplén megye, Alföld és Észak, 3932, Magyarország"
+  },
+  {
+    "name": "Publiek",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/publiek-ghent/",
+    "description": "Olly Ceulenaere has never seemed particularly interested in playing the fine-dining game by the usual rules. Publiek is relaxed, slightly rock’n’roll and gloriously unfussy, with vegetables and lesser-known ingredients given centre stage. Together with Kelly Dehollander, he has built a place that feels unmistakably Ghent. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2025/10/IMG_6845.jpg",
+    "address": "",
+    "city": "",
+    "lat": 51.0577781,
+    "lon": 3.7329399,
+    "geocode_query": "Publiek Belgium",
+    "geocode_display_name": "Publiek, 39, Ham, Gent, Oost-Vlaanderen, Vlaanderen, 9000, België / Belgique / Belgien"
+  },
+  {
+    "name": "Rau",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/rau/",
+    "description": "Photo: Susanne Einzenberger, Joerg Lehmann, Jörg Lehmann Some restaurants cook with the seasons; RAU seems to negotiate with them. Forest, garden, fermentation and fire all find their way onto the plate, creating food that feels less designed than discovered — deeply rooted, quietly radical. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/IMG_6883.jpg",
+    "address": "",
+    "city": "",
+    "lat": 47.9161674,
+    "lon": 14.5367394,
+    "geocode_query": "Rau Austria",
+    "geocode_display_name": "RAU, 23, Pechgraben, Großraming, Bezirk Steyr-Land, Oberösterreich, 4463, Österreich"
+  },
+  {
+    "name": "Rebelle",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/rebelle/",
+    "description": "In a quiet corner of Marke, this is a restaurant with a surprisingly big personality. Local produce and North Sea fish meet Asian flavours, fermentation and a very sharp wine programme. The result feels confident but not showy — more like a chef cooking exactly the food he wants to eat than chasing the next big trend. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/rebelle-september-2025-©-Pieter-DHoop-225_a5ac9ffe0f2545295c68eff8202fe03b.webp",
+    "address": "",
+    "city": "",
+    "lat": 50.8039494,
+    "lon": 3.2219177,
+    "geocode_query": "Rebelle Belgium",
+    "geocode_display_name": "Rebelle, 226, Rekkemsestraat, Marke, Kortrijk, West-Vlaanderen, Vlaanderen, 8510, België / Belgique / Belgien"
   },
   {
     "name": "Rechberg 1837",
@@ -1174,6 +1692,20 @@
     "lon": 9.44615,
     "geocode_query": "Restaurant OZ Switzerland",
     "geocode_display_name": "Vegi Restaurant Oz, 77, Obergass, Fürstenaubruck, Fürstenau, Region Viamala, Graubünden/Grischun/Grigioni, 7414, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  {
+    "name": "Restaurant Primitif",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurant-primitif/",
+    "description": "Two friends, two chefs and a restaurant tucked away in the Ardennes. Augustin Massinon and Darius Van Hoef cook with short supply chains and familiar flavours, but happily jump from grandmother’s kitchen to street food and back again. There is something refreshingly unpolished and personal about the whole project. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-01-kl.-13.41.09.png",
+    "address": "",
+    "city": "",
+    "lat": 49.979612,
+    "lon": 4.9371152,
+    "geocode_query": "Restaurant Primitif Belgium",
+    "geocode_display_name": "Primitif, 15A, Rue de Charleville, Gedinne, Dinant, Namur, Wallonie, 5575, België / Belgique / Belgien"
   },
   {
     "name": "Riders Hotel",
@@ -1254,10 +1786,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/DSC_2625.jpg",
     "address": "",
     "city": "",
-    "lat": 47.5003472,
-    "lon": 19.0503576,
+    "lat": 47.490378,
+    "lon": 19.0591724,
     "geocode_query": "Salt Hungary",
-    "geocode_display_name": "Salt, 9, Zrínyi utca, Lipótváros, V. kerület, Budapest, Közép-Magyarország, 1051, Magyarország"
+    "geocode_display_name": "Salt, 4, Királyi Pál utca, Pest, Belváros, V. kerület, Budapest, 1053, Magyarország"
   },
   {
     "name": "Schloss Elmau",
@@ -1313,7 +1845,7 @@
     "lat": 53.5448133,
     "lon": 9.9491812,
     "geocode_query": "Stilwerk Germany",
-    "geocode_display_name": "stilwerk, Große Elbstraße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
+    "geocode_display_name": "stilwerk, Carsten-Rehder-Straße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
   },
   {
     "name": "Suru",
@@ -1341,7 +1873,7 @@
     "lat": 47.4981214,
     "lon": 19.0691053,
     "geocode_query": "Tati Hungary",
-    "geocode_display_name": "TATI, Dohány utca, Erzsébetváros, VII. kerület, Budapest, Közép-Magyarország, 1072, Magyarország"
+    "geocode_display_name": "TATI, Dohány utca, Erzsébetváros, VII. kerület, Budapest, 1072, Magyarország"
   },
   {
     "name": "The Artisan",
@@ -1386,6 +1918,20 @@
     "geocode_display_name": "Theologische Hochschule Ewersbach, 53, Jahnstraße, Neuhütte, Straßebersbach, Ewersbach, Dietzhölztal, Lahn-Dill-Kreis, Hessen, 35716, Deutschland"
   },
   {
+    "name": "The Guesthouse Vienna",
+    "country": "Austria",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-guesthouse-vienna/",
+    "description": "The Brasserie keeps breakfast deliberately civilized: no buffet, no frantic queueing, just eggs, bread, Viennese classics and coffee brought to the table. Behind the scenes, the hotel pays close attention to seasonality and origin, with much of its food coming from organic producers. Even the honey is made nearby, with the help of an Austrian beekeeper. Breakfast, but with manners. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/09/IMG_8704-1000x750-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": 48.2051731,
+    "lon": 16.3690093,
+    "geocode_query": "The Guesthouse Vienna Austria",
+    "geocode_display_name": "The Guesthouse, Führichgasse, Kärntner Viertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich"
+  },
+  {
     "name": "The Hat",
     "country": "Spain",
     "category": "Hotel",
@@ -1394,8 +1940,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-22-kl.-15.41.49.png",
     "address": "",
     "city": "",
-    "lat": 40.4145221,
-    "lon": -3.7069829,
+    "lat": 40.4142787,
+    "lon": -3.7070796,
     "geocode_query": "The Hat Spain",
     "geocode_display_name": "The Hat, 9, Calle Imperial, Barrio de los Austrias, Sol, Centro, Madrid, Comunidad de Madrid, 28012, España"
   },
@@ -1411,7 +1957,7 @@
     "lat": 51.731476,
     "lon": 10.6037994,
     "geocode_query": "The Hearts Hotel Germany",
-    "geocode_display_name": "The Hearts Hotel, Unter den Buchen, Villenviertel, Braunlage, Landkreis Goslar, Niedersachsen, 38700, Deutschland"
+    "geocode_display_name": "The Hearts Hotel, Am Jermerstein, Villenviertel, Braunlage, Landkreis Goslar, Niedersachsen, 38700, Deutschland"
   },
   {
     "name": "The Loft House",
@@ -1426,6 +1972,34 @@
     "lon": -3.7005712,
     "geocode_query": "The Loft House Spain",
     "geocode_display_name": "The Loft House, Calle de la Esperanza, Lavapiés, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España"
+  },
+  {
+    "name": "The Usual",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-usual/",
+    "description": "A fresh take on the city hotel, with food and drink woven into its social heart. The U Bar moves easily from morning coffee and focaccia to Belgian beers and evening drinks, with local producers and plenty of plant-based options. Contemporary, relaxed and designed as much for locals as travellers. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/2025theusualpluswvs1.jpg.webp",
+    "address": "",
+    "city": "",
+    "lat": 50.8541454,
+    "lon": 4.3566126,
+    "geocode_query": "The Usual Belgium",
+    "geocode_display_name": "The Usual, Boulevard Adolphe Max - Adolphe Maxlaan, Quartier Marais-Jacqmain - Wijk Marais-Jacqmain, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België / Belgique / Belgien"
+  },
+  {
+    "name": "Tian Bistro",
+    "country": "Austria",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/tian-bistro/",
+    "description": "The more relaxed sibling of Vienna’s Michelin-starred TIAN, tucked into the lively Spittelberg quarter. Vegetables get the full treatment here, from fermentation and roasting to clever little twists, served family-style so there is no need to make too many decisions. Come with friends, order the sharing menu and let the kitchen take it from there. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/IMG_6887.jpg",
+    "address": "",
+    "city": "",
+    "lat": 48.2029616,
+    "lon": 16.3548531,
+    "geocode_query": "Tian Bistro Austria",
+    "geocode_display_name": "Tian Bistro, 4, Schrankgasse, Sankt Ulrich, Spittelberg, Katastralgemeinde Neubau, Neubau, Wien, 1070, Österreich"
   },
   {
     "name": "Valbella Resort",
@@ -1481,7 +2055,21 @@
     "lat": 46.7920632,
     "lon": 17.4419254,
     "geocode_query": "Villa Kabala Hungary",
-    "geocode_display_name": "Villa Kabala, 40, Kamonkői út, Belsőhegy, Szigliget, Tapolcai járás, Veszprém vármegye, Közép-Dunántúl, Dunántúl, 8264, Magyarország"
+    "geocode_display_name": "Villa Kabala, 40, Kamonkői út, Belsőhegy, Szigliget, Tapolcai járás, Veszprém megye, Dunántúl, 8264, Magyarország"
+  },
+  {
+    "name": "Vin d’Où",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/vin-dou-antwerp/",
+    "description": "Tom Fluit cooks in a quietly luxurious way: excellent produce, little fuss and plenty of respect for what is actually on the plate. His partner Ilse De Backer runs the room and wine side, with a serious leaning towards natural and biodynamic bottles. A polished operation that never feels overly polished. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2025/10/IMG_6848.jpg",
+    "address": "",
+    "city": "",
+    "lat": 50.9804094,
+    "lon": 4.9025838,
+    "geocode_query": "Vin Belgium",
+    "geocode_display_name": "Vin, Rillaar, Aarschot, Leuven, Vlaams-Brabant, Vlaanderen, 3202, België / Belgique / Belgien"
   },
   {
     "name": "We Boutique Hotel",
@@ -1495,7 +2083,7 @@
     "lat": 41.6601014,
     "lon": -4.7345428,
     "geocode_query": "Boutique Hotel Spain",
-    "geocode_display_name": "Soho Boutique La Harinera, Avenida de Salamanca, Villa del Prado, Huerta del Rey, Valladolid, Castilla y León, 47003, España"
+    "geocode_display_name": "Soho Boutique La Harinera, Carril Bici José Luis López Cerrón, Villa del Prado, Huerta del Rey, Valladolid, Castilla y León, 47009, España"
   },
   {
     "name": "Widder Hotel",
@@ -1510,6 +2098,20 @@
     "lon": 8.5398562,
     "geocode_query": "Widder Hotel Switzerland",
     "geocode_display_name": "Widder, 7, Rennweg, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  {
+    "name": "Willem Hiele",
+    "country": "Belgium",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/willem-hiele/",
+    "description": "Willem Hiele’s identity is inseparable from the Belgian coast and the polders surrounding the restaurant. Local fishermen, farmers and North Sea produce provide the foundation, while the brutalist setting reinforces the sense of place. His cooking feels less like a concept than a personal landscape translated onto the plate. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/9.jpg",
+    "address": "",
+    "city": "",
+    "lat": 51.1124253,
+    "lon": 2.6633766,
+    "geocode_query": "Willem Hiele Belgium",
+    "geocode_display_name": "Willem Hiele, 138, Pylyserlaan, Westhinder, Koksijde, Veurne, West-Vlaanderen, Vlaanderen, 8670, België / Belgique / Belgien"
   },
   {
     "name": "Wilmina",
@@ -1538,6 +2140,20 @@
     "lon": 8.5381016,
     "geocode_query": "Wöschi Switzerland",
     "geocode_display_name": "Wöschi, Forellenweg, Wollishofen, Kreis 2, Zürich, Bezirk Zürich, Zürich, 8038, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  {
+    "name": "Yalo hotel",
+    "country": "Belgium",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/yalo-hotel/",
+    "description": "A proper social hotel rather than somewhere simply to sleep. The restaurant runs from breakfast through dinner, with sharing plates, cocktails, local products and a rooftop bringing together guests and locals. There is a playful, slightly rock’n’roll energy here that feels very much of contemporary Ghent. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/yalo-401-3.jpg",
+    "address": "",
+    "city": "",
+    "lat": 51.0505667,
+    "lon": 3.7284378,
+    "geocode_query": "Yalo hotel Belgium",
+    "geocode_display_name": "Yalo Hotel, 33, Brabantdam, Zuid, Muinkparkwijk, Gent, Oost-Vlaanderen, Vlaanderen, 9000, België / Belgique / Belgien"
   },
   {
     "name": "Yours",
