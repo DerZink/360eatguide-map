@@ -18,6 +18,12 @@
     "url": "https://360eatguide.com/restaurants/alkimista-kulinaris-muhely/"
   },
   {
+    "name": "Alma",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/alma/"
+  },
+  {
     "name": "Altstadt Vienna",
     "country": "Austria",
     "category": "Hotel",
@@ -54,6 +60,12 @@
     "url": "https://360eatguide.com/restaurants/bader-hotel/"
   },
   {
+    "name": "Bak",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/bak-restaurant-amsterdam-2/"
+  },
+  {
     "name": "Bakea",
     "country": "Spain",
     "category": "",
@@ -76,6 +88,24 @@
     "country": "Spain",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/berbena/"
+  },
+  {
+    "name": "Binnenvisser",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/binnenvisser/"
+  },
+  {
+    "name": "Biskup",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/biskup/"
+  },
+  {
+    "name": "Bistro na Peci",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/bistro-na-peci/"
   },
   {
     "name": "Bombar",
@@ -120,6 +150,18 @@
     "url": "https://360eatguide.com/restaurants/cabrio/"
   },
   {
+    "name": "Café Cenc",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/cafe-cenc/"
+  },
+  {
+    "name": "Café de Ceuvel",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/cafe-de-ceuvel-restaurant-amsterdam/"
+  },
+  {
     "name": "Café Frieda",
     "country": "Germany",
     "category": "Restaurant",
@@ -154,6 +196,12 @@
     "country": "Switzerland",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/chesa-marchetta/"
+  },
+  {
+    "name": "Choux",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/choux-restaurant-amsterdam/"
   },
   {
     "name": "Château Royal",
@@ -192,10 +240,22 @@
     "url": "https://360eatguide.com/restaurants/das-edith/"
   },
   {
+    "name": "De Durgerdam",
+    "country": "Netherlands",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/de-durgerdam/"
+  },
+  {
     "name": "Der Teufelhof",
     "country": "Switzerland",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/der-teufelhof/"
+  },
+  {
+    "name": "Dialogue",
+    "country": "Czech Republic",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/dialogue/"
   },
   {
     "name": "Die Reederin",
@@ -240,6 +300,12 @@
     "url": "https://360eatguide.com/restaurants/esca/"
   },
   {
+    "name": "Etapa",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/etapa/"
+  },
+  {
     "name": "Fafleralp",
     "country": "Switzerland",
     "category": "Hotel",
@@ -250,6 +316,12 @@
     "country": "Spain",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/fishology-restaurant-barcelona/"
+  },
+  {
+    "name": "Flore",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/flore-restaurant-amsterdam/"
   },
   {
     "name": "Forthuber",
@@ -288,6 +360,24 @@
     "url": "https://360eatguide.com/restaurants/grandhotel-giessbach/"
   },
   {
+    "name": "Hearth",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/hearth/"
+  },
+  {
+    "name": "Hei 15",
+    "country": "Netherlands",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hei-15/"
+  },
+  {
+    "name": "Heimat",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurant-heimat-restaurant-utrecht/"
+  },
+  {
     "name": "Heimatjuwel",
     "country": "Germany",
     "category": "Restaurant",
@@ -324,6 +414,18 @@
     "url": "https://360eatguide.com/restaurants/hostal-grau/"
   },
   {
+    "name": "Hotel Ambassade",
+    "country": "Netherlands",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-ambassade/"
+  },
+  {
+    "name": "Hotel Bent",
+    "country": "Netherlands",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-bent/"
+  },
+  {
     "name": "Hotel Casa Treviño",
     "country": "Spain",
     "category": "Hotel",
@@ -346,6 +448,12 @@
     "country": "Belgium",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/hotel-indigo/"
+  },
+  {
+    "name": "Hotel Josef",
+    "country": "Czech Republic",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-josef/"
   },
   {
     "name": "Hotel Julien",
@@ -414,6 +522,12 @@
     "url": "https://360eatguide.com/restaurants/humus-x-hortense-brussels/"
   },
   {
+    "name": "Héron Petit Restaurant",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/heron/"
+  },
+  {
     "name": "Instroom",
     "country": "Belgium",
     "category": "Restaurant",
@@ -448,6 +562,18 @@
     "country": "Switzerland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/restaurants-switzerland-kle/"
+  },
+  {
+    "name": "Korek",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/korek/"
+  },
+  {
+    "name": "KRO Kitchen",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/kro-kitchen/"
   },
   {
     "name": "Kástu by Pajta",
@@ -498,16 +624,34 @@
     "url": "https://360eatguide.com/restaurants/lillijojo/"
   },
   {
+    "name": "Lokaal",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/lokaal/"
+  },
+  {
     "name": "Lokal at the Lake",
     "country": "Hungary",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/lokal-at-the-lake/"
   },
   {
+    "name": "Long Story Short",
+    "country": "Czech Republic",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/long-story-short/"
+  },
+  {
     "name": "Lulu Guldsmeden",
     "country": "Germany",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/lulu-guldsmeden/"
+  },
+  {
+    "name": "Lutum",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/lutum/"
   },
   {
     "name": "L’air du temps",
@@ -538,6 +682,12 @@
     "country": "Austria",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/magdas-hotel/"
+  },
+  {
+    "name": "Mama Shelter",
+    "country": "Czech Republic",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/mama-shelter/"
   },
   {
     "name": "Margot House",
@@ -606,6 +756,24 @@
     "url": "https://360eatguide.com/restaurants/monte-restaurant-san-feliz/"
   },
   {
+    "name": "Morille",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/morille-restaurant-koudekerke/"
+  },
+  {
+    "name": "Morris & Bella",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/morris-bella/"
+  },
+  {
+    "name": "Mosaic House",
+    "country": "Czech Republic",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/mosaic-house/"
+  },
+  {
     "name": "Màloma",
     "country": "Belgium",
     "category": "Restaurant",
@@ -630,6 +798,12 @@
     "url": "https://360eatguide.com/restaurants/naturlich-restaurants-switzerland/"
   },
   {
+    "name": "Neder",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/neder/"
+  },
+  {
     "name": "Neon",
     "country": "Belgium",
     "category": "Restaurant",
@@ -648,6 +822,12 @@
     "url": "https://360eatguide.com/restaurants/o-secadeiro-restaurant-lugar-de-banzas/"
   },
   {
+    "name": "Op Oost",
+    "country": "Netherlands",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/op-oost/"
+  },
+  {
     "name": "Otto",
     "country": "Germany",
     "category": "Restaurant",
@@ -664,6 +844,12 @@
     "country": "Hungary",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/papi/"
+  },
+  {
+    "name": "Pelusa",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/pelusa-restaurant-amsterdam/"
   },
   {
     "name": "Petit Bois Füred",
@@ -786,6 +972,12 @@
     "url": "https://360eatguide.com/restaurants/six-senses/"
   },
   {
+    "name": "Srnky",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/srnky/"
+  },
+  {
     "name": "Stilwerk Heimhude",
     "country": "Germany",
     "category": "Hotel",
@@ -796,6 +988,12 @@
     "country": "Spain",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/suru-restaurant-barcelona/"
+  },
+  {
+    "name": "Sůl & Řepa",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/sul-repa/"
   },
   {
     "name": "Tati",
@@ -858,10 +1056,28 @@
     "url": "https://360eatguide.com/restaurants/tian-bistro/"
   },
   {
+    "name": "U Kalendů",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/u-kalendu/"
+  },
+  {
     "name": "Valbella Resort",
     "country": "Switzerland",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/valbella-resort/"
+  },
+  {
+    "name": "Vallmo",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/vallmo/"
+  },
+  {
+    "name": "Vannu",
+    "country": "Netherlands",
+    "category": "",
+    "url": "https://360eatguide.com/restaurants/vannu-restaurant-bavel/"
   },
   {
     "name": "Vereda",
@@ -888,6 +1104,12 @@
     "url": "https://360eatguide.com/restaurants/vin-dou-antwerp/"
   },
   {
+    "name": "Volkshotel",
+    "country": "Netherlands",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/volkshotel/"
+  },
+  {
     "name": "We Boutique Hotel",
     "country": "Spain",
     "category": "Hotel",
@@ -910,6 +1132,12 @@
     "country": "Germany",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/wilmina/"
+  },
+  {
+    "name": "Wils",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/wils-restaurant-amsterdam/"
   },
   {
     "name": "Wöschi",
@@ -940,5 +1168,11 @@
     "country": "Spain",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/ame-restaurant-barcelona/"
+  },
+  {
+    "name": "Štangl",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/stangl/"
   }
 ]

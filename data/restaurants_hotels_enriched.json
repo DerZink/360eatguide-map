@@ -36,6 +36,18 @@
     "lon": null
   },
   {
+    "name": "Alma",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/alma/",
+    "description": "Pioneer Fire, fermentation and time help Alma make the most of what comes through the door. Meat, fish and vegetables are used with little waste, while farmers, foragers and producers are treated as partners. A modern kitchen, but one with both feet firmly on the ground. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-08-kl.-14.10.15-838x1024.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Altstadt Vienna",
     "country": "Austria",
     "category": "Hotel",
@@ -108,6 +120,18 @@
     "lon": null
   },
   {
+    "name": "Bak",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/bak-restaurant-amsterdam-2/",
+    "description": "A raw, thoughtful take on Dutch cooking where vegetables, grains, fish and wild ingredients share the spotlight. Fermentation, seasonality and local sourcing give the cooking its edge, while the setting keeps things firmly grounded in Amsterdam. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2025/09/L1001174-insta-web.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Bakea",
     "country": "Spain",
     "category": "",
@@ -150,6 +174,42 @@
     "url": "https://360eatguide.com/restaurants/berbena/",
     "description": "Seasonal Mediterranean produce takes centre stage in this small, informal dining room, where simple ideas are given plenty of character. Influences from Asia and South America add unexpected turns, while the open kitchen and generous cooking make the experience feel relaxed, lively and distinctly personal. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
     "image": "https://360eatguide.com/wp-content/uploads/2026/02/IMG_8143-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Binnenvisser",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/binnenvisser/",
+    "description": "A neighbourhood restaurant with serious instincts and no need to shout about them. Seasonal produce, natural flavours and a distinctly Amsterdam sense of ease make this feel more like a place to return to than a place to perform at. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-06-kl.-09.29.59.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Biskup",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/biskup/",
+    "description": "At Biskup, the relationship with the producer doesn’t end at the kitchen door. The restaurant shares its ingredients with a neighbouring farm shop, bringing Czech growers and their produce into everyday view. There is something refreshingly direct about the idea: you can eat what the kitchen cooks, then take the same ingredients home. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/cf-image-2-scaled.webp",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Bistro na Peci",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/bistro-na-peci/",
+    "description": "At the edge of Šumava, Na Peci feels inseparable from the landscape around it. The bistro works with nearby farmers, fishers and producers, while the farm shop brings many of those same ingredients home with its guests. Food, hospitality and the surrounding countryside become one story — less a restaurant concept than a way of living in the region. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/1d4c10c957856ca64e7db0147718966f.jpg",
     "address": "",
     "city": "",
     "lat": null,
@@ -240,6 +300,30 @@
     "lon": null
   },
   {
+    "name": "Café Cenc",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/cafe-cenc/",
+    "description": "At Café Cenc, the sea sets the tone. Fish, shellfish and seasonal vegetables shape a menu that is fresh, unfussy and made for sharing, while a thoughtful wine list leans natural without making a fuss about it. Relaxed, lively and distinctly Amsterdam. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-06-kl.-09.55.19.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Café de Ceuvel",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/cafe-de-ceuvel-restaurant-amsterdam/",
+    "description": "Part restaurant, part social experiment, part wonderfully scruffy urban ecosystem. Food here is about vegetables, sharing and community, but also what happens beyond the plate — from circular thinking to grassroots projects and soup for the neighbourhood. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2025/09/B_0002-scaled-e1747751634217-1200x900-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Café Frieda",
     "country": "Germany",
     "category": "Restaurant",
@@ -306,6 +390,18 @@
     "url": "https://360eatguide.com/restaurants/chesa-marchetta/",
     "description": "Thirteen rooms, a garden by the river and mountains at the door. Chesa Marchetta keeps things intimate, with local art and a kitchen where Switzerland meets Italy. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-13-kl.-15.20.50-805x1024.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Choux",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/choux-restaurant-amsterdam/",
+    "description": "Vegetables do most of the heavy lifting, with fermentation, pickling, smoking and wild ingredients adding plenty of mischief. Natural wine, clever cooking and zero interest in culinary grandstanding make this one feel refreshingly alive. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/11/image-23-768x1024.jpg",
     "address": "",
     "city": "",
     "lat": null,
@@ -384,12 +480,36 @@
     "lon": null
   },
   {
+    "name": "De Durgerdam",
+    "country": "Netherlands",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/de-durgerdam/",
+    "description": "On the edge of Amsterdam, where the city meets the water, De Durgerdam is a small hotel shaped by its village setting. A former inn, restored with a light touch, it offers a slower side of the capital. Think wide skies, water views and the feeling of having left the city behind. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/stay-sleep-1800x1100_12.webp",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Der Teufelhof",
     "country": "Switzerland",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/der-teufelhof/",
     "description": "At Der Teufelhof, art is part of the stay. Individually designed rooms meet theatre, restaurants and centuries of Basel history, all under one roof . 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-11-kl.-16.33.11.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Dialogue",
+    "country": "Czech Republic",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/dialogue/",
+    "description": "Nine rooms, an old Neo-Renaissance house and a rooftop overlooking Brno. Dialogue is the kind of small hotel where the building itself sets the tone. Its owners have kept the original details alive while adding clean, contemporary materials, a wine cellar and Gallina bistro downstairs. Even the bathroom products come from Czech natural cosmetics maker Klara Rott. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/6a22ba042d0c6815fb385ed0_7751e7d2bb3ed4bdb247c0079058a47bd8c03669.webp",
     "address": "",
     "city": "",
     "lat": null,
@@ -480,6 +600,18 @@
     "lon": null
   },
   {
+    "name": "Etapa",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/etapa/",
+    "description": "In Karlín, Etapa lets the seasons decide what ends up on the plate. The kitchen leans into vegetables, sourdough and fermentation, working with a network of Czech farmers and small producers. It feels less like a manifesto than a natural way of cooking: buy good things nearby, treat them well, and let them speak. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/DSC4894.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Fafleralp",
     "country": "Switzerland",
     "category": "Hotel",
@@ -498,6 +630,18 @@
     "url": "https://360eatguide.com/restaurants/fishology-restaurant-barcelona/",
     "description": "Fishølogy doesn’t merely cook fish — it makes a case for it. Bold, precise and unapologetically modern, the kitchen pushes the sea beyond the familiar. There’s technique, attitude and a healthy disregard for convention, all anchored in exceptional produce. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
     "image": "https://360eatguide.com/wp-content/uploads/2025/07/Skarmavbild-2026-09-22-kl.-10.32.39.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Flore",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/flore-restaurant-amsterdam/",
+    "description": "Dutch produce, quiet precision and a stubborn belief that less can be more. Vegetables, wild herbs and sustainably caught fish take centre stage, while technique stays in the shadows. Fine dining, yes; but with its ego turned way down. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/10/image00083-1024x683.png",
     "address": "",
     "city": "",
     "lat": null,
@@ -576,6 +720,42 @@
     "lon": null
   },
   {
+    "name": "Hearth",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/hearth/",
+    "description": "Vegetables take the wheel, with fire, fermentation and a healthy dose of imagination in the passenger seat. Contemporary without the theatre, Hearth feels like the kind of place where the ingredients get the last word. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-06-kl.-10.08.00.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Hei 15",
+    "country": "Netherlands",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hei-15/",
+    "description": "Tucked into the rolling hills of South Limburg, Hei 15 is a small countryside retreat shaped by its surroundings. Natural materials, local produce and a relaxed pace make it feel rooted in the landscape rather than set apart from it. The kind of place where mornings start slowly and days unfold outdoors. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/HEI15-eighty8things-2019-HR7-1024x683.jpg.webp",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Heimat",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurant-heimat-restaurant-utrecht/",
+    "description": "A love letter to the Dutch landscape, with farmers, foragers and forgotten ingredients doing most of the talking. The cooking is inventive but grounded, turning local produce into something playful, precise and unmistakably of its place. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2025/09/Skarmavbild-2025-09-09-kl.-09.58.26.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Heimatjuwel",
     "country": "Germany",
     "category": "Restaurant",
@@ -648,6 +828,30 @@
     "lon": null
   },
   {
+    "name": "Hotel Ambassade",
+    "country": "Netherlands",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-ambassade/",
+    "description": "Set along Amsterdam’s canal belt, Hotel Ambassade brings together historic interiors, contemporary art and a quietly personal sense of hospitality. A characterful city stay where books, boats and old-world details are part of the experience. Calm, curious and unmistakably Amsterdam. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-06-kl.-15.19.19-1024x659.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Hotel Bent",
+    "country": "Netherlands",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-bent/",
+    "description": "Surrounded by the forests and fens of Oisterwijk, Hotel Bent is a small, informal retreat with nature close at hand. Simple rooms, a relaxed atmosphere and the landscape beyond the door make slowing down feel effortless. A quiet base for exploring one of Brabant’s most beautiful natural areas. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/STL00953-scaled-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Hotel Casa Treviño",
     "country": "Spain",
     "category": "Hotel",
@@ -690,6 +894,18 @@
     "url": "https://360eatguide.com/restaurants/hotel-indigo/",
     "description": "A lively city hotel with a local flavour and an easy-going food and drink offering. Beers, craft gin, organic wines and a casual brasserie make the ground floor feel more social than formal. It lacks the intimacy of the smaller independents, but makes up for it with accessibility and energy. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/hotel-indigo-antwerp-5530005124-2x1-1-scaled.jpeg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Hotel Josef",
+    "country": "Czech Republic",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-josef/",
+    "description": "Since opening in 2002, Josef has brought a different kind of modernity to Prague. Eva Jiřičná’s architecture still defines the hotel, but responsibility is found in the details: local Czech ingredients, free-range eggs, selected suppliers and shorter delivery routes. Even the breakfast herbs and vegetables are grown on site. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Hotel-Josef-Prag-Balcony-Room_B0001033-1920x1440-1.jpg",
     "address": "",
     "city": "",
     "lat": null,
@@ -828,6 +1044,18 @@
     "lon": null
   },
   {
+    "name": "Héron Petit Restaurant",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/heron/",
+    "description": "A tiny Utrecht hideaway where wild things, local produce and fermentation quietly take over. The cooking feels curious rather than showy — a little earthy, a little feral, and very much rooted in its surroundings. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-06-kl.-11.34.53-982x1024.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Instroom",
     "country": "Belgium",
     "category": "Restaurant",
@@ -894,6 +1122,30 @@
     "url": "https://360eatguide.com/restaurants/restaurants-switzerland-kle/",
     "description": "A small Zurich restaurant with a world of flavours. KLE’s vegetable-led menu travels far for inspiration, while staying close to home through the seasons and its local farmers. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
     "image": "https://360eatguide.com/wp-content/uploads/2025/02/Erna-Drion-2024-KLE_indoor1-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Korek",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/korek/",
+    "description": "Wine takes the lead at Korek, where the vineyards of South Moravia are never far from the table. Regional flavours meet a contemporary approach to cooking, with seasonal ingredients and local wines shaping an experience that feels firmly rooted in its surroundings. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-09-kl.-08.43.56-760x1024.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "KRO Kitchen",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/kro-kitchen/",
+    "description": "What started in 2019 as a small rotisserie inspired by Sunday lunches and the farmers’ market has grown into a whole family of places. Founder Vojta Václavík brought fine-dining technique into everyday food, while KRO’s own bakery and fermentation kitchen help make sure very little goes to waste. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-08-kl.-15.40.17.png",
     "address": "",
     "city": "",
     "lat": null,
@@ -996,6 +1248,18 @@
     "lon": null
   },
   {
+    "name": "Lokaal",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/lokaal/",
+    "description": "True to its name, the kitchen looks close to home: nearby growers, seasonal produce and a strong sense of place. No sustainability sermon, just thoughtful cooking that lets the region quietly do the talking. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/2_Villa_Ruimzicht_Lokaal_Website_45-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Lokal at the Lake",
     "country": "Hungary",
     "category": "Restaurant",
@@ -1008,12 +1272,36 @@
     "lon": null
   },
   {
+    "name": "Long Story Short",
+    "country": "Czech Republic",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/long-story-short/",
+    "description": "Long Story Short feels less like a hotel than a small ecosystem. Rooms, a bakery, café, bar, restaurant and food shop all share the same address, while local produce moves between them. The result is a place deeply woven into Olomouc life — where staying, eating and meeting people become part of one another. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-09-kl.-09.38.11.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Lulu Guldsmeden",
     "country": "Germany",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/lulu-guldsmeden/",
     "description": "Nordic simplicity meets a subtle Balinese spirit, creating a warm and relaxed hideaway in the heart of Berlin. Four-poster beds, playful swings and a leafy courtyard add character to the cosy boutique feel. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-18-kl.-15.41.05.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Lutum",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/lutum/",
+    "description": "Built around soil, seasons and whatever the nearby landscape feels like giving up. Thoughtful without being precious, Lutum turns local produce, forest and garden into food that feels deeply of its place. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/fullsizeoutput_17ad-scaled.jpeg.webp",
     "address": "",
     "city": "",
     "lat": null,
@@ -1074,6 +1362,18 @@
     "url": "https://360eatguide.com/restaurants/magdas-hotel/",
     "description": "A social hotel with a kitchen that looks outward as much as it looks local. At magdas LOKAL, organic and regional produce meets recipes from the countries represented by its kitchen team, with plenty of vegetables, vegan dishes and Fairtrade coffee along the way. The weekend brunch is a culinary trip around the world; no passport required, just an appetite. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/magdas_HOTEL_Vienna_City_Classic-Double_c_BWM-Architekten_Severin-Wurnig.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Mama Shelter",
+    "country": "Czech Republic",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/mama-shelter/",
+    "description": "In Holešovice, Mama Shelter occupies a former Parkhotel and has turned it into something much more social. Communal tables, a colourful terrace, DJs and a busy restaurant make the hotel feel connected to the neighbourhood rather than sealed off from it. Its Green Key certification adds a quieter commitment to responsible operations. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Mama_Shelter_Prague_09-25_045_XXLMamaDouble.jpg.webp",
     "address": "",
     "city": "",
     "lat": null,
@@ -1212,6 +1512,42 @@
     "lon": null
   },
   {
+    "name": "Morille",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/morille-restaurant-koudekerke/",
+    "description": "Nature gets a seat at the table at Morille, where garden, coast and countryside meet in the heart of Zeeland. Wild plants, local growers, game, fish and the restaurant’s own garden shape cooking that feels deeply connected to the Dutch landscape. Thoughtful, earthy and quietly ambitious. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2025/09/IMG_6834.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Morris & Bella",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/morris-bella/",
+    "description": "Small, plant-powered and gloriously unconcerned with luxury. Dutch vegetables, fermentation and root-to-leaf cooking turn the humble into the exciting. There’s a sense of curiosity here — and a kitchen that wastes very little. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-06-kl.-10.17.56-901x1024.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Mosaic House",
+    "country": "Czech Republic",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/mosaic-house/",
+    "description": "Built in a Functionalist building from 1934, Mosaic House has given an old Prague landmark a distinctly modern life. The hotel’s sustainability is unusually tangible: grey water is cleaned and reused, wastewater heat is recovered, and renewable energy powers the building. Even the roof becomes habitat for birds and insects. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/200501_MoHo_1145.jpg.webp",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Màloma",
     "country": "Belgium",
     "category": "Restaurant",
@@ -1260,6 +1596,18 @@
     "lon": null
   },
   {
+    "name": "Neder",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/neder/",
+    "description": "A quiet ode to the Netherlands on a plate. Wild herbs, local produce, game and seafood shape a menu that asks a simple question: what grows, grazes and swims around here? The answers are refreshingly unflashy. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/4ebc17_1194d3a320874528aa73ffd9842fd1bdmv2.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Neon",
     "country": "Belgium",
     "category": "Restaurant",
@@ -1296,6 +1644,18 @@
     "lon": null
   },
   {
+    "name": "Op Oost",
+    "country": "Netherlands",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/op-oost/",
+    "description": "On the northern edge of Texel, Op Oost brings together a historic farmstead, a kitchen garden and the surrounding Wadden landscape. Quiet, unhurried and deeply connected to the island, it feels like a place to pause and look around. Local produce, sea air and open fields set the rhythm. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/P1132247-5d62aa62.webp",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Otto",
     "country": "Germany",
     "category": "Restaurant",
@@ -1326,6 +1686,18 @@
     "url": "https://360eatguide.com/restaurants/papi/",
     "description": "On Szentendre Island, a family farm finds new life at the table. PAPI follows the seasons, turning its own land and local produce into thoughtful cooking shaped by nature, memory and time. Farming, food and family remain closely intertwined. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-24-kl.-11.58.41.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Pelusa",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/pelusa-restaurant-amsterdam/",
+    "description": "Pelusa is a neighbourhood favourite built around good produce and a relaxed sense of responsibility. Local sourcing, low-waste cooking and a close-knit team shape a restaurant that feels thoughtful without trying too hard. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/Kopie-van-79-DSC00807-scaled.jpg",
     "address": "",
     "city": "",
     "lat": null,
@@ -1572,6 +1944,18 @@
     "lon": null
   },
   {
+    "name": "Srnky",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/srnky/",
+    "description": "There is something appealingly everyday about Srnky. This Vinohrady café works with local eggs, Czech coffee and seasonal ingredients, making much of what it serves in-house. It is less about grand gestures than about building a neighbourhood place around good suppliers, honest cooking and things made with care. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-08-kl.-16.13.22-680x1024.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Stilwerk Heimhude",
     "country": "Germany",
     "category": "Hotel",
@@ -1590,6 +1974,18 @@
     "url": "https://360eatguide.com/restaurants/suru-restaurant-barcelona/",
     "description": "A small, intimate restaurant where Catalan produce meets Japanese influences over the grill. Seasonal ingredients and a thoughtful nose-to-tail approach shape a menu that feels playful yet grounded. Low-intervention wines complete an experience that feels personal, generous and quietly distinctive. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
     "image": "https://360eatguide.com/wp-content/uploads/2025/07/space-scaled.jpeg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Sůl & Řepa",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/sul-repa/",
+    "description": "In Strakonice, Pavel Drdel has built a restaurant around the landscape he chose to return to. Most ingredients come from farmers in the region, and almost everything is preserved, dried or fermented when the season moves on. The money stays close to home, supporting the people who grow, make and raise the food. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/nasklenicku.jpg",
     "address": "",
     "city": "",
     "lat": null,
@@ -1716,12 +2112,48 @@
     "lon": null
   },
   {
+    "name": "U Kalendů",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/u-kalendu/",
+    "description": "Old Czech flavours are given room to breathe. Bread is baked, stocks are simmered, vegetables follow the seasons and local ingredients do much of the talking. It is a kitchen that looks forward without letting go of where its food comes from. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/cf-image-kopia.jpeg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "Valbella Resort",
     "country": "Switzerland",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/valbella-resort/",
     "description": "Alpine luxury made for switching off. Valbella Resort is all about mountain adventures, good food, a generous spa and slow evenings surrounded by the peaks. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-13-kl.-13.30.44.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Vallmo",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/vallmo/",
+    "description": "In Prague, Daniel Kukačka cooks with memories of his Šumava childhood close at hand. Forgotten flavours, seasonal produce and trusted farmers shape a kitchen that chooses clarity over spectacle. The idea is simple: treat good ingredients well, and let the people who grow them remain part of the story. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-09-kl.-08.05.56.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Vannu",
+    "country": "Netherlands",
+    "category": "",
+    "url": "https://360eatguide.com/restaurants/vannu-restaurant-bavel/",
+    "description": "Farm, season and kitchen seem to be having one long conversation here. The cooking is produce-led and contemporary, but never too polished for its own good — a warm, grounded take on eating closer to the source. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2025/09/voorgerecht-kleiner.png",
     "address": "",
     "city": "",
     "lat": null,
@@ -1776,6 +2208,18 @@
     "lon": null
   },
   {
+    "name": "Volkshotel",
+    "country": "Netherlands",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/volkshotel/",
+    "description": "Part hotel, part creative clubhouse, Volkshotel sits in a former newspaper building in Amsterdam’s Oost. Art, music, good food and a distinctly local spirit shape a stay that feels more like being part of the city than visiting it. Come for the rooftop views, stay for the neighbourhood energy. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Volkshotel-special-rooms-2020-1-HR-web-1-530x353-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
     "name": "We Boutique Hotel",
     "country": "Spain",
     "category": "Hotel",
@@ -1818,6 +2262,18 @@
     "url": "https://360eatguide.com/restaurants/wilmina/",
     "description": "History and striking architecture define Hotel Wilmina, where heavy brick meets soft light and a lush garden. Rooms feel cool and Scandinavian, while Lovis Restaurant, Lovis Bar and Wilmina Brot add warmth and character. A peaceful hideaway in the city. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-18-kl.-09.16.06-807x1024.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Wils",
+    "country": "Netherlands",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/wils-restaurant-amsterdam/",
+    "description": "Fire, Dutch produce and serious technique, without turning the room into a temple of gastronomy. There’s ambition here, but also a strong respect for ingredients — seasonal, precise and often cooked over flame until they speak for themselves. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2025/09/Skarmavbild-2025-09-04-kl.-10.49.51.png",
     "address": "",
     "city": "",
     "lat": null,
@@ -1878,6 +2334,18 @@
     "url": "https://360eatguide.com/restaurants/ame-restaurant-barcelona/",
     "description": "French technique meets Mediterranean produce in this intimate dining room, where seafood and local ingredients take centre stage. The cooking is refined but never showy, with an understated creativity and a warm, personal atmosphere that makes the tasting menu feel more like an invitation than a performance. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
     "image": "https://360eatguide.com/wp-content/uploads/2025/07/Iberian-acorn-fed-presa-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Štangl",
+    "country": "Czech Republic",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/stangl/",
+    "description": "The seasons set the rhythm here. Small farmers, wild herbs and carefully chosen Czech produce shape the menu, with close relationships reaching all the way back to the people who grow it. Nothing is treated as anonymous; every ingredient has a place and a story. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/cf-i23age.jpeg",
     "address": "",
     "city": "",
     "lat": null,
