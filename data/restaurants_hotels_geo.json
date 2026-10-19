@@ -28,6 +28,34 @@
     "geocode_display_name": "aerde restaurant, 6, Am Lokdepot, Monumentenkiez, Rote Insel, Schöneberg, Tempelhof-Schöneberg, Berlin, 10965, Deutschland"
   },
   {
+    "name": "Akra",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/akra/",
+    "description": "Akra is a place where the kitchen feels wonderfully alive: flour dust in the air, fire glowing in the oven and the menu changing with whatever the day brings. There are no rigid beginnings or endings here, just small plates to share, breads to tear apart and flavours that move between the familiar and the unexpected. Greek cooking, stripped back and given room to breathe. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-12-kl.-12.07.46.png",
+    "address": "",
+    "city": "",
+    "lat": 37.4750647,
+    "lon": 22.4305573,
+    "geocode_query": "Akra Greece",
+    "geocode_display_name": "Άκρα, Κοινότητα Σταδίου, Δημοτική Ενότητα Τεγέας, Δήμος Τρίπολης, Περιφερειακή Ενότητα Αρκαδίας, Περιφέρεια Πελοποννήσου, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 220 12, Ελλάς"
+  },
+  {
+    "name": "Akti",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/akti/",
+    "description": "At Akti, the sea is almost another guest at the table. Waves roll beside the restaurant as the kitchen looks to the Mediterranean for its rhythm: line-caught fish, local produce, bright herbs and the generous flavours of the Greek islands. By day it feels languid and sunlit; by night, music and conversation take over. A seaside table made for lingering. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/akti12-600x800-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": 38.7741953,
+    "lon": 22.8987643,
+    "geocode_query": "Akti Greece",
+    "geocode_display_name": "Ακτή, Δημοτική Ενότητα Αγίου Κωνσταντίνου, Δήμος Καμένων Βούρλων, Περιφερειακή Ενότητα Φθιώτιδας, Περιφέρεια Στερεάς Ελλάδας, Αποκεντρωμένη Διοίκηση Θεσσαλίας - Στερεάς Ελλάδος, 350 06, Ελλάς"
+  },
+  {
     "name": "Alkimista Kulináris Műhely",
     "country": "Hungary",
     "category": "Hotel",
@@ -50,10 +78,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-08-kl.-14.10.15-838x1024.png",
     "address": "",
     "city": "",
-    "lat": 50.0787626,
-    "lon": 14.646649,
+    "lat": 49.7033369,
+    "lon": 14.8978539,
     "geocode_query": "Alma Czech Republic",
-    "geocode_display_name": "Alma, 345, Starokolínská, Blatov, Újezd nad Lesy, Praha 21, obvod Praha 9, Praha, 190 16, Česko"
+    "geocode_display_name": "Alma, Lidická, Vlašim, okres Benešov, Středočeský kraj, 258 01, Česko"
   },
   {
     "name": "Altstadt Vienna",
@@ -120,8 +148,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/19-07-August-Antwerp-1364-2.jpg",
     "address": "",
     "city": "",
-    "lat": 51.2020729,
-    "lon": 4.4222488,
+    "lat": 51.202283,
+    "lon": 4.422281,
     "geocode_query": "August Belgium",
     "geocode_display_name": "August, Jules Bordetstraat, 't Groen Kwartier, Haringrode, Antwerpen, Vlaanderen, 2018, België / Belgique / Belgien"
   },
@@ -406,6 +434,20 @@
     "geocode_display_name": "Café Kandl, 12, Kandlgasse, Schottenfeld, Katastralgemeinde Neubau, Neubau, Wien, 1070, Österreich"
   },
   {
+    "name": "Cantina",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/cantina/",
+    "description": "On the edge of Kastro, Cantina looks towards the Aegean and listens to the island. Sifnos has always understood the poetry of simple food, and here local ingredients are allowed to speak in their own voice. Vegetables, grains, herbs and the flavours of the Cyclades are shaped into something contemporary yet unmistakably rooted – a meal with salt in its air and summer in its bones. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-12-kl.-13.42.37-1024x529.png",
+    "address": "",
+    "city": "",
+    "lat": 37.9447785,
+    "lon": 23.6341173,
+    "geocode_query": "Cantina Greece",
+    "geocode_display_name": "Cantina, Ηετιώνεια Ακτή, Άγιος Διονύσιος, 5η Κοινότητα Πειραιά, Πειραιάς, Δήμος Πειραιώς, Περιφερειακή Ενότητα Πειραιώς, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 185 10, Ελλάς"
+  },
+  {
     "name": "Caro",
     "country": "Spain",
     "category": "Hotel",
@@ -512,10 +554,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Herbergszimmer_I-scaled-1.jpg",
     "address": "",
     "city": "",
-    "lat": 46.9554421,
-    "lon": 8.3693747,
+    "lat": 46.955503,
+    "lon": 8.3694364,
     "geocode_query": "Culinarium Alpinum Switzerland",
-    "geocode_display_name": "Culinarium Alpinum, Mürgstrasse, Stans, Nidwalden, 6371, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Culinarium Alpinum, 18, Mürgstrasse, Stans, Nidwalden, 6370, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Culler de Pau",
@@ -529,7 +571,7 @@
     "lat": 42.4753586,
     "lon": -8.8958855,
     "geocode_query": "Culler de Pau Spain",
-    "geocode_display_name": "Culler de Pau, 73, Estrada O Grove - Igrexa de San Vicente, A Tafona, San Vicente do Grove, O Grove, O Salnés, Pontevedra, Galicia, 36980, España"
+    "geocode_display_name": "Culler de Pau, 73, Estrada O Grove - Igrexa de San Vicente, Os Castiñeiros, Reboredo, O Grove, O Salnés, Pontevedra, Galicia, 36980, España"
   },
   {
     "name": "Daica",
@@ -586,6 +628,20 @@
     "lon": 7.5867425,
     "geocode_query": "Der Teufelhof Switzerland",
     "geocode_display_name": "Der Teufelhof Basel, 49, Leonhardsgraben, Altstadt Grossbasel, Grossbasel, Basel, Basel-Stadt, 4051, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  {
+    "name": "Dexamenes Seaside Hotel",
+    "country": "Greece",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/dexamenes-seaside-hotel-kourouta/",
+    "description": "Once a working winery, now a place where sea, wine and food meet in unexpected ways. Original concrete tanks have become rooms, while the kitchen looks to the Peloponnese for its inspiration. Local producers, seasonal ingredients and the Ionian landscape give Dexamenes a flavour that feels rooted, relaxed and distinctly its own. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/K-studio_Dexamenes_056_ClausBrechenmacherReinerBaumann-1920x1280-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": 37.7678186,
+    "lon": 21.2963719,
+    "geocode_query": "Dexamenes Seaside Hotel Greece",
+    "geocode_display_name": "Dexamenes Seaside Hotel, Αμαλιάδας - Κουρούτας, Κουρούτας, Δημοτική Ενότητα Αμαλιάδας, Δήμος Ήλιδας, Περιφερειακή Ενότητα Ηλείας, Περιφέρεια Δυτικής Ελλάδας, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 272 00, Ελλάς"
   },
   {
     "name": "Dialogue",
@@ -684,6 +740,20 @@
     "lon": 8.5211491,
     "geocode_query": "EquiTable Switzerland",
     "geocode_display_name": "EquiTable, 163, Stauffacherstrasse, Langstrasse, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  {
+    "name": "Ergon House",
+    "country": "Greece",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/ergon-house/",
+    "description": "Part hotel, part agora, Ergon House turns the Greek pantry into an experience. Olive oil, cheese, wine, bread and seasonal produce take centre stage, connecting the kitchen upstairs with the producers and ingredients below. In the middle of Athens, it feels like a contemporary Greek homecoming – generous, curious and always ready to put another plate on the table. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-12-kl.-15.40.44-1024x644.png",
+    "address": "",
+    "city": "",
+    "lat": 37.9751876,
+    "lon": 23.7315487,
+    "geocode_query": "Ergon House Greece",
+    "geocode_display_name": "Ergon House, 23, Μητροπόλεως, Monastiràki, Πλάκα, 1η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 56, Ελλάς"
   },
   {
     "name": "Esca",
@@ -1075,7 +1145,7 @@
     "lat": 50.4563746,
     "lon": 3.9334838,
     "geocode_query": "Hotel Belgium",
-    "geocode_display_name": "Hotel, Rue de la Sucrerie, Les Grands Prés, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+    "geocode_display_name": "Hotel, 1, Place des Grands Prés, Les Grands Prés, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
   },
   {
     "name": "Hotel Karl August",
@@ -1170,10 +1240,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/hotel-schani-wien-lobby-sitzplaetze-fenster-3_006aca0138454663ac22be-2-2.jpg",
     "address": "",
     "city": "",
-    "lat": 48.1823921,
-    "lon": 16.3808167,
+    "lat": 48.2145212,
+    "lon": 16.2845866,
     "geocode_query": "Hotel Schani Austria",
-    "geocode_display_name": "Hotel Schani Wien Hauptbahnhof, 22, Karl-Popper-Straße, Quartier Belvedere, Katastralgemeinde Favoriten, Favoriten, Wien, 1100, Österreich"
+    "geocode_display_name": "Bio-Hotel Schani Wienblick, 32, Johann-Staud-Straße, Katastralgemeinde Ottakring, Ottakring, Wien, 1160, Österreich"
   },
   {
     "name": "Hotel Schweizerhof",
@@ -1187,7 +1257,7 @@
     "lat": 47.3768257,
     "lon": 8.5393966,
     "geocode_query": "Hotel Schweizerhof Switzerland",
-    "geocode_display_name": "Hotel Schweizerhof, Bahnhofstrasse, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Hotel Schweizerhof, Bahnhofpassage, City, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Hotel Torre",
@@ -1324,8 +1394,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-09-kl.-08.43.56-760x1024.png",
     "address": "",
     "city": "",
-    "lat": 50.1060572,
-    "lon": 14.3606852,
+    "lat": 50.1054681,
+    "lon": 14.3593556,
     "geocode_query": "Korek Czech Republic",
     "geocode_display_name": "Korek, V Šáreckém údolí, Jenerálka, Praha 6, obvod Praha 6, Praha, 162 00, Česko"
   },
@@ -1338,10 +1408,24 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-08-kl.-15.40.17.png",
     "address": "",
     "city": "",
-    "lat": 50.0699896,
-    "lon": 14.4512169,
+    "lat": 50.0771199,
+    "lon": 14.4506553,
     "geocode_query": "KRO Czech Republic",
-    "geocode_display_name": "KRO Vršovice, 43/30, Moskevská, Vinohrady, Praha 10, obvod Praha 10, Praha, 101 00, Česko"
+    "geocode_display_name": "Kro Coffee and Bakery, 66, Vinohradská, Žižkov, obvod Praha 3, Praha, 130 00, Česko"
+  },
+  {
+    "name": "Ktima Bellou",
+    "country": "Greece",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/ktima-bellou/",
+    "description": "A small farm hotel with a big sense of place, Ktima Bellou sits beneath Mount Olympus among orchards, gardens and fields. Much of what appears on the table begins here, or nearby, and the kitchen lets the seasons set the menu. It is Greek countryside cooking at its most intimate: honest, generous and wonderfully close to its source. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-12-kl.-16.42.48.png",
+    "address": "",
+    "city": "",
+    "lat": 41.0613716,
+    "lon": 24.0596624,
+    "geocode_query": "Ktima Greece",
+    "geocode_display_name": "Κτήμα, Δημοτική Ενότητα Σιταγρών, Δήμος Προσοτσάνης, Περιφερειακή Ενότητα Δράμας, Περιφέρεια Ανατολικής Μακεδονίας και Θράκης, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 660 34, Ελλάς"
   },
   {
     "name": "Kástu by Pajta",
@@ -1456,6 +1540,20 @@
     "geocode_display_name": "Das kleine Wirtshaus - Lilli & Jojo, 22, Sulztal an der Weinstraße, Sulztal, Katastralgemeinde Sulztal, Gamlitz, Bezirk Leibnitz, Steiermark, 8461, Österreich"
   },
   {
+    "name": "Linou Soumpasis & Co",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/linou-soumpasis-co/",
+    "description": "Part restaurant, part candle shop, part gathering place, Linou Soumpasis & Co feels like an idea that simply kept growing. The cooking is thoughtful but unshowy, built around good produce, warm bread and the pleasure of things made by hand. Candles flicker, plates pass between friends and the old Athens of simplicity and conviviality quietly finds its way back to the table. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-12-kl.-12.15.51-1013x1024.png",
+    "address": "",
+    "city": "",
+    "lat": 39.8189795,
+    "lon": 20.8747002,
+    "geocode_query": "Linou Greece",
+    "geocode_display_name": "Λίνου, Φραγκάδες, Δήμος Ζαγορίου, Περιφερειακή Ενότητα Ιωαννίνων, Περιφέρεια Ηπείρου, Αποκεντρωμένη Διοίκηση Ηπείρου - Δυτικής Μακεδονίας, 440 18, Ελλάς"
+  },
+  {
     "name": "Lokaal",
     "country": "Netherlands",
     "category": "Restaurant",
@@ -1537,7 +1635,7 @@
     "lat": 50.1308926,
     "lon": 5.7905861,
     "geocode_query": "L’air du temps Belgium",
-    "geocode_display_name": "L'air du temps, 25, Rue Ville Basse, Fin de Ville, Houffalize, Bastogne, Luxembourg, Wallonie, 6660, België / Belgique / Belgien"
+    "geocode_display_name": "L'air du temps, Rue Ville Basse, Fin de Ville, Houffalize, Bastogne, Luxembourg, Wallonie, 6660, België / Belgique / Belgien"
   },
   {
     "name": "Macot",
@@ -1608,6 +1706,20 @@
     "lon": 14.4318696,
     "geocode_query": "Mama Shelter Czech Republic",
     "geocode_display_name": "Mama Shelter Prague, Dukelských hrdinů, Holešovice, Praha 7, obvod Praha 7, Praha, 170 00, Česko"
+  },
+  {
+    "name": "Manna",
+    "country": "Greece",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/manna/",
+    "description": "Hidden in the fir forests of Arcadia, MANNA turns an old mountain sanatorium into a quietly extraordinary retreat. The kitchen follows the landscape: wild herbs, mountain produce and ingredients from nearby producers find their way onto the table. Ancient forests outside, contemporary Greek cooking inside – a meeting of place, memory and flavour. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/manna_619-edit-1.jpg.webp",
+    "address": "",
+    "city": "",
+    "lat": 37.4196393,
+    "lon": 24.947383,
+    "geocode_query": "Manna Greece",
+    "geocode_display_name": "Μάννα, Δήμος Σύρου-Ερμούπολης, Περιφερειακή Ενότητα Σύρου, Περιφέρεια Νοτίου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, 841 00, Ελλάς"
   },
   {
     "name": "Margot House",
@@ -1747,7 +1859,7 @@
     "lat": 46.9484657,
     "lon": 7.4536634,
     "geocode_query": "Moment Switzerland",
-    "geocode_display_name": "moment, Antoniergässchen, Weisses Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3011, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "moment, Antoniergässchen, Weisses Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3000, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Monte",
@@ -1904,6 +2016,20 @@
     "geocode_display_name": "Neue Taverne, 8, Glockengasse, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
+    "name": "Ntounias",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/ntounias/",
+    "description": "Ntounias is less a restaurant than a living portrait of Crete. On Stelios Trilyrakis farm, vegetables grow, animals are raised and ingredients begin their journey to the table. Nothing is hurried; food is cooked over wood fires and in traditional pots, following the rhythms of the land. Come hungry, leave with the feeling that you have been invited into someone’s family kitchen. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/465984560_10223755884598740_3801272773657381757_n.jpg",
+    "address": "",
+    "city": "",
+    "lat": 35.4091945,
+    "lon": 24.014799,
+    "geocode_query": "Ntounias Greece",
+    "geocode_display_name": "Ντουνιας, Παπαδολιανά - Θέρισο, Σoμaτa, Δρακόνα, Δήμος Χανίων, Περιφερειακή Ενότητα Χανίων, Περιφέρεια Κρήτης, Αποκεντρωμένη Διοίκηση Κρήτης, 731 00, Ελλάς"
+  },
+  {
     "name": "O Secadeiro",
     "country": "Spain",
     "category": "Restaurant",
@@ -1926,10 +2052,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/P1132247-5d62aa62.webp",
     "address": "",
     "city": "",
-    "lat": 52.0964839,
-    "lon": 5.1476077,
+    "lat": 52.3795646,
+    "lon": 4.9179739,
     "geocode_query": "Op Oost Netherlands",
-    "geocode_display_name": "Fort de Bilt, Waterlinieweg, Rijnsweerd, Wilhelminapark, Rijnsweerd, Oost, Utrecht, Nederland, 3584 BG, Nederland"
+    "geocode_display_name": "Zeeman op de uitkijk, Sumatrakade, Java-eiland, Oostelijk Havengebied, Oost, Amsterdam, Noord-Holland, Nederland, 1021 PC, Nederland"
   },
   {
     "name": "Otto",
@@ -1974,6 +2100,20 @@
     "geocode_display_name": "Papi, Fáj, Encsi járás, Borsod-Abaúj-Zemplén megye, Alföld és Észak, 3865, Magyarország"
   },
   {
+    "name": "Patio",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/patio/",
+    "description": "Tucked inside The Margi, Patio is a conversation between the farm and the sea. Vegetables, herbs, fruit and eggs arrive from the nearby farm, while the Aegean supplies the kitchen with its daily catch. Chef Panagiotis Giakalis turns these ingredients into an elegant, deeply Greek tasting menu – a sequence of plates where soil, salt, season and memory meet. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/9-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": 37.7181351,
+    "lon": 20.8610908,
+    "geocode_query": "Patio Greece",
+    "geocode_display_name": "Patio, Πεζογέφυρα Νησιού Αγίου Σώστη, κ. Λιθακιάς, Δημοτική Ενότητα Λαγανά, Δήμος Ζακύνθου, Περιφερειακή Ενότητα Ζακύνθου, Περιφέρεια Ιονίων Νήσων, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 290 92, Ελλάς"
+  },
+  {
     "name": "Pelusa",
     "country": "Netherlands",
     "category": "Restaurant",
@@ -1988,6 +2128,20 @@
     "geocode_display_name": "Pelusa, 41, Leen Jongewaardkade, Buiksloterham, Noord, Amsterdam, Noord-Holland, Nederland, 1031 HS, Nederland"
   },
   {
+    "name": "Peskesi",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/peskesi/",
+    "description": "Inside a restored mansion in Heraklion, Peskesi tells the story of Crete one ingredient at a time. Ancient grains, wild greens, olive oil, herbs, honey and cheese connect the table to a living agricultural tradition. Behind it all lies a farm where forgotten varieties are cultivated and old recipes are brought back to life. Here, eating becomes a way of remembering. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/MZ2_2445-scaled-1.webp",
+    "address": "",
+    "city": "",
+    "lat": 35.3403679,
+    "lon": 25.1325399,
+    "geocode_query": "Peskesi Greece",
+    "geocode_display_name": "Peskesi, Μινωταύρου, 1η Κοινότητα Ηρακλείου - Κεντρική, Δημοτική Ενότητα Ηρακλείου, Δήμος Ηρακλείου, Περιφερειακή Ενότητα Ηρακλείου, Περιφέρεια Κρήτης, Αποκεντρωμένη Διοίκηση Κρήτης, 712 02, Ελλάς"
+  },
+  {
     "name": "Petit Bois Füred",
     "country": "Hungary",
     "category": "Hotel",
@@ -1999,7 +2153,21 @@
     "lat": 47.501958,
     "lon": 19.059009,
     "geocode_query": "Petit Hungary",
-    "geocode_display_name": "Le Petit Beefbar, Dalszínház utca, Terézváros, VI. kerület, Budapest, 1061, Magyarország"
+    "geocode_display_name": "Le Petit Beefbar, 25, Andrássy út, Terézváros, VI. kerület, Budapest, 1061, Magyarország"
+  },
+  {
+    "name": "Pharao",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/pharao/",
+    "description": "At Pharao, Greek food is cooked over fire and served with a little smoke, a little soul and a great deal of generosity. Wood, charcoal and time do the work, bringing old village flavours into the heart of Exarchia. Add natural wines, vinyl records and late-night energy, and the result feels less like a restaurant than a modern Greek gathering around a very good fire. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/pharaoh-new-01.webp",
+    "address": "",
+    "city": "",
+    "lat": 37.9904466,
+    "lon": 23.7271959,
+    "geocode_query": "Pharao Greece",
+    "geocode_display_name": "Φαραώ, Ηπείρου, Πλατεία Βάθης, 1η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 104 33, Ελλάς"
   },
   {
     "name": "Piedra",
@@ -2164,10 +2332,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/rhypark-food-2152-1.jpg",
     "address": "",
     "city": "",
-    "lat": 47.3663601,
-    "lon": 8.5570448,
+    "lat": 47.3687319,
+    "lon": 8.5357146,
     "geocode_query": "Roots Switzerland",
-    "geocode_display_name": "Roots, Klosbachstrasse, Hottingen, Kreis 7, Zürich, Bezirk Zürich, Zürich, 8032, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "roots, 19, Am Schanzengraben, Enge, Kreis 2, Zürich, Bezirk Zürich, Zürich, 8002, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Rosso",
@@ -2240,6 +2408,20 @@
     "geocode_display_name": "Schloss Elmau, 2, In Elmau, Elmau, Krün, Landkreis Garmisch-Partenkirchen, Bayern, 82493, Deutschland"
   },
   {
+    "name": "Shila",
+    "country": "Greece",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/shila/",
+    "description": "In the heart of Athens, Shila feels more like a private home than a hotel – intimate, eclectic and full of character. Its garden, kitchen and table create a quietly social world where Greek ingredients meet influences from further afield. Nothing feels overly designed; instead, Shila lets food, flowers, friends and the rhythm of the city tell the story. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/S55web-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null,
+    "geocode_query": null,
+    "geocode_display_name": null
+  },
+  {
     "name": "Silex",
     "country": "Switzerland",
     "category": "Restaurant",
@@ -2268,6 +2450,20 @@
     "geocode_display_name": "Six Senses Ibiza, 71, Carrer de Camí de sa Torre, Portinatx, Sant Joan de Labritja, Eivissa, Illes Balears, 07810, España"
   },
   {
+    "name": "Soil",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/soil/",
+    "description": "At Soil, the story begins before the restaurant – in a garden in Alepochori, where herbs and vegetables are grown for the kitchen. From there, chef Tasos Mantis builds a tasting menu that follows the seasons and the character of Greek produce. Earth, leaf, flower, sea and fire find their way onto the plate, creating a dinner that feels both deeply grounded and quietly imaginative. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/yiamouris_AY56574-1.jpeg",
+    "address": "",
+    "city": "",
+    "lat": 37.9997461,
+    "lon": 23.6069052,
+    "geocode_query": "Soil Greece",
+    "geocode_display_name": "Τσουλήθρα ( Soil Erosion 2022 J. ), Skaramangas Camp, Σκαραμαγκάς, Δήμος Χαϊδαρίου, Περιφερειακή Ενότητα Δυτικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 124 62, Ελλάς"
+  },
+  {
     "name": "Srnky",
     "country": "Czech Republic",
     "category": "Restaurant",
@@ -2293,7 +2489,7 @@
     "lat": 53.5448133,
     "lon": 9.9491812,
     "geocode_query": "Stilwerk Germany",
-    "geocode_display_name": "stilwerk, De-Voß-Straße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
+    "geocode_display_name": "stilwerk, Carsten-Rehder-Straße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
   },
   {
     "name": "Suru",
@@ -2335,7 +2531,7 @@
     "lat": 47.4981214,
     "lon": 19.0691053,
     "geocode_query": "Tati Hungary",
-    "geocode_display_name": "TATI, 58-62, Dohány utca, Erzsébetváros, VII. kerület, Budapest, 1074, Magyarország"
+    "geocode_display_name": "TATI, Dohány utca, Erzsébetváros, VII. kerület, Budapest, 1072, Magyarország"
   },
   {
     "name": "The Artisan",
@@ -2360,10 +2556,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/doble1-5583f396eae36a80dec70366e56fa521-ec29b922f6f7ea1ef82109af07cadc09.webp",
     "address": "",
     "city": "",
-    "lat": 41.3873584,
-    "lon": 2.1777089,
+    "lat": 41.3956717,
+    "lon": 2.1584212,
     "geocode_query": "The Central Spain",
-    "geocode_display_name": "The central Barber shop, 40, Carrer de Sant Pere Més Baix, Sant Pere, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España"
+    "geocode_display_name": "The Central House, 302, Carrer de Còrsega, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08008, España"
   },
   {
     "name": "The Dean",
@@ -2374,10 +2570,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-18-kl.-15.15.42.png",
     "address": "",
     "city": "",
-    "lat": 50.8409521,
-    "lon": 8.3004781,
-    "geocode_query": "The Germany",
-    "geocode_display_name": "Theologische Hochschule Ewersbach, 53, Jahnstraße, Neuhütte, Straßebersbach, Ewersbach, Dietzhölztal, Lahn-Dill-Kreis, Hessen, 35716, Deutschland"
+    "lat": 48.1398624,
+    "lon": 11.5405756,
+    "geocode_query": "The Dean Germany",
+    "geocode_display_name": "The Dean Munich, Autograph Collection, 68, Landsberger Straße, Theresienhöhe, Westend, Schwanthalerhöhe, München, Bayern, 80339, Deutschland"
   },
   {
     "name": "The Guesthouse Vienna",
@@ -2402,8 +2598,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-22-kl.-15.41.49.png",
     "address": "",
     "city": "",
-    "lat": 40.4145221,
-    "lon": -3.7069829,
+    "lat": 40.4142787,
+    "lon": -3.7070796,
     "geocode_query": "The Hat Spain",
     "geocode_display_name": "The Hat, 9, Calle Imperial, Barrio de los Austrias, Sol, Centro, Madrid, Comunidad de Madrid, 28012, España"
   },
@@ -2434,6 +2630,20 @@
     "lon": -3.7005712,
     "geocode_query": "The Loft House Spain",
     "geocode_display_name": "The Loft House, Calle de la Esperanza, Lavapiés, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España"
+  },
+  {
+    "name": "The Rooster",
+    "country": "Greece",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-rooster/",
+    "description": "At The Rooster, the journey from soil to table is unusually short. Its own farm and gardens provide much of the inspiration, while local fishermen, farmers and artisans add to the story. Expect food that follows the Cycladic seasons rather than a fixed script, served in a setting where barefoot island life meets thoughtful hospitality. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-12-kl.-16.38.39-1024x697.png",
+    "address": "",
+    "city": "",
+    "lat": 40.6691507,
+    "lon": 22.9105882,
+    "geocode_query": "The Rooster Greece",
+    "geocode_display_name": "The Famous Rooster, Αγίου Αθανασίου, Νέα Πολιτεία, Εύοσμος, Κοινότητα Ευόσμου, Δημοτική Ενότητα Ευόσμου, Δήμος Κορδελιού - Ευόσμου, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 562 24, Ελλάς"
   },
   {
     "name": "The Usual",
@@ -2601,7 +2811,7 @@
     "lat": 41.6601014,
     "lon": -4.7345428,
     "geocode_query": "Boutique Hotel Spain",
-    "geocode_display_name": "Soho Boutique La Harinera, Avenida de Salamanca, Villa del Prado, Huerta del Rey, Valladolid, Castilla y León, 47003, España"
+    "geocode_display_name": "Soho Boutique La Harinera, Carril Bici José Luis López Cerrón, Villa del Prado, Huerta del Rey, Valladolid, Castilla y León, 47009, España"
   },
   {
     "name": "Widder Hotel",

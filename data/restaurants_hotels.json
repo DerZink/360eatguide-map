@@ -12,6 +12,18 @@
     "url": "https://360eatguide.com/restaurants/aerde-restaurants-germany/"
   },
   {
+    "name": "Akra",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/akra/"
+  },
+  {
+    "name": "Akti",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/akti/"
+  },
+  {
     "name": "Alkimista Kulináris Műhely",
     "country": "Hungary",
     "category": "Hotel",
@@ -174,6 +186,12 @@
     "url": "https://360eatguide.com/restaurants/cafe-kandl/"
   },
   {
+    "name": "Cantina",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/cantina/"
+  },
+  {
     "name": "Caro",
     "country": "Spain",
     "category": "Hotel",
@@ -252,6 +270,12 @@
     "url": "https://360eatguide.com/restaurants/der-teufelhof/"
   },
   {
+    "name": "Dexamenes Seaside Hotel",
+    "country": "Greece",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/dexamenes-seaside-hotel-kourouta/"
+  },
+  {
     "name": "Dialogue",
     "country": "Czech Republic",
     "category": "Hotel",
@@ -292,6 +316,12 @@
     "country": "Switzerland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/restaurants-equitable-switzerland/"
+  },
+  {
+    "name": "Ergon House",
+    "country": "Greece",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/ergon-house/"
   },
   {
     "name": "Esca",
@@ -576,6 +606,12 @@
     "url": "https://360eatguide.com/restaurants/kro-kitchen/"
   },
   {
+    "name": "Ktima Bellou",
+    "country": "Greece",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/ktima-bellou/"
+  },
+  {
     "name": "Kástu by Pajta",
     "country": "Hungary",
     "category": "Hotel",
@@ -622,6 +658,12 @@
     "country": "Austria",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/lillijojo/"
+  },
+  {
+    "name": "Linou Soumpasis & Co",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/linou-soumpasis-co/"
   },
   {
     "name": "Lokaal",
@@ -688,6 +730,12 @@
     "country": "Czech Republic",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/mama-shelter/"
+  },
+  {
+    "name": "Manna",
+    "country": "Greece",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/manna/"
   },
   {
     "name": "Margot House",
@@ -816,6 +864,12 @@
     "url": "https://360eatguide.com/restaurants/restaurants-switzerland-neue-taverne/"
   },
   {
+    "name": "Ntounias",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/ntounias/"
+  },
+  {
     "name": "O Secadeiro",
     "country": "Spain",
     "category": "Restaurant",
@@ -846,16 +900,34 @@
     "url": "https://360eatguide.com/restaurants/papi/"
   },
   {
+    "name": "Patio",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/patio/"
+  },
+  {
     "name": "Pelusa",
     "country": "Netherlands",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/pelusa-restaurant-amsterdam/"
   },
   {
+    "name": "Peskesi",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/peskesi/"
+  },
+  {
     "name": "Petit Bois Füred",
     "country": "Hungary",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/hotel-petit-bois-fured/"
+  },
+  {
+    "name": "Pharao",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/pharao/"
   },
   {
     "name": "Piedra",
@@ -960,6 +1032,12 @@
     "url": "https://360eatguide.com/restaurants/schloss-elmau/"
   },
   {
+    "name": "Shila",
+    "country": "Greece",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/shila/"
+  },
+  {
     "name": "Silex",
     "country": "Switzerland",
     "category": "Restaurant",
@@ -970,6 +1048,12 @@
     "country": "Spain",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/six-senses/"
+  },
+  {
+    "name": "Soil",
+    "country": "Greece",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/soil/"
   },
   {
     "name": "Srnky",
@@ -1042,6 +1126,12 @@
     "country": "Spain",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/the-loft-house/"
+  },
+  {
+    "name": "The Rooster",
+    "country": "Greece",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-rooster/"
   },
   {
     "name": "The Usual",
