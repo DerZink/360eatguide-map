@@ -134,10 +134,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-29-kl.-14.28.52.png",
     "address": "",
     "city": "",
-    "lat": 48.1754182,
-    "lon": 16.3746708,
+    "lat": 48.2104175,
+    "lon": 16.3534606,
     "geocode_query": "Artist Austria",
-    "geocode_display_name": "Artist, 131, Quellenstraße, Katastralgemeinde Favoriten, Favoriten, Wien, 1100, Österreich"
+    "geocode_display_name": "Artist, 8, Buchfeldgasse, Buchfeld, Josefstadt, Katastralgemeinde Josefstadt, Josefstadt, Wien, 1080, Österreich"
   },
   {
     "name": "August",
@@ -294,6 +294,20 @@
     "geocode_display_name": "Bombar, Place des Augustins, La Roseraie, Plainpalais, Genève, 1205, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
+    "name": "Boutique Hôtel Provencia",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/boutique-hotel-provencia/",
+    "description": "A small urban hideaway with a softer side to Marseille. Provencia keeps things intimate and unfussy, pairing contemporary interiors with the warmth of a private home. Away from the grand waterfront hotels, it offers a quieter way into the city — close to its cafés, streets and everyday rhythm. Personal, relaxed and easy to settle into, it feels like a Marseille address rather than a hotel concept. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-16.28.42-1.png",
+    "address": "",
+    "city": "",
+    "lat": 43.290921,
+    "lon": 5.3817436,
+    "geocode_query": "Boutique Hôtel Provencia France",
+    "geocode_display_name": "Boutique Hotel Provencia, 12, Boulevard Louis Salvator, Préfecture, Marseille 6e Arrondissement, Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13006, France"
+  },
+  {
     "name": "Brasserie Uno",
     "country": "Switzerland",
     "category": "Restaurant",
@@ -306,6 +320,20 @@
     "lon": 7.7474889,
     "geocode_query": "Brasserie Uno Switzerland",
     "geocode_display_name": "Brasserie Uno, 38, Kirchstrasse, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  {
+    "name": "Brion",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/brion/",
+    "description": "A modern Parisian bistro with a generous heart. At Brion, Geoffrey Lengagne lets the seasons lead, bringing together exceptional produce, thoughtful sauces and lively condiments. Vegetables and wild fish take centre stage, while the cooking draws quietly on influences from his travels. Warm, unfussy and full of character, Brion feels like a neighbourhood restaurant with ambitions beyond its walls. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "",
+    "address": "",
+    "city": "",
+    "lat": 45.2932,
+    "lon": 5.33761,
+    "geocode_query": "Brion France",
+    "geocode_display_name": "Brion, Vienne, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38590, France"
   },
   {
     "name": "Brody House",
@@ -348,6 +376,20 @@
     "lon": 4.3756539,
     "geocode_query": "brut restaurant ixelles Belgium",
     "geocode_display_name": "Brut, Rue Antoine Labarre - Antoine Labarrestraat, Flagey, Ixelles - Elsene, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, België / Belgique / Belgien"
+  },
+  {
+    "name": "Brutos",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/brutos/",
+    "description": "Fire, smoke and a distinctly Brazilian soul. At Brutos, the grill is the beating heart of the kitchen, turning excellent produce into food that is generous, precise and deeply satisfying. Meat takes centre stage, but vegetables, sauces and natural wines play their part. Unpretentious yet refined, Brutos brings warmth, character and a touch of South America to Paris’ 11th arrondissement. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-20-kl.-11.17.36-754x1024.png",
+    "address": "",
+    "city": "",
+    "lat": 48.8615066,
+    "lon": 2.3782245,
+    "geocode_query": "Brutos France",
+    "geocode_display_name": "Brutos, 5, Rue du Général Renault, Quartier Saint-Ambroise, Paris 11e Arrondissement, Paris, Île-de-France, France métropolitaine, 75011, France"
   },
   {
     "name": "Brösl",
@@ -434,6 +476,20 @@
     "geocode_display_name": "Café Kandl, 12, Kandlgasse, Schottenfeld, Katastralgemeinde Neubau, Neubau, Wien, 1070, Österreich"
   },
   {
+    "name": "Calma",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/calma/",
+    "description": "A little refuge from the city’s restless rhythm, where brunch gives way to bistro plates, natural wine and sake. The atmosphere is easygoing, the approach open-minded, and the mood shifts naturally from daytime coffee to lingering dinners. A place to slow down without missing out. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/7d2d7e6c-c3f2-48e1-b8d7-a01493d25256_calma6.jpeg.webp",
+    "address": "",
+    "city": "",
+    "lat": 38.7156931,
+    "lon": -9.1519181,
+    "geocode_query": "Calma Portugal",
+    "geocode_display_name": "Calma, Rua Marcos Portugal, Mercês, Santo António, Misericórdia, Lisboa, 1200-258, Portugal"
+  },
+  {
     "name": "Cantina",
     "country": "Greece",
     "category": "Restaurant",
@@ -442,10 +498,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-12-kl.-13.42.37-1024x529.png",
     "address": "",
     "city": "",
-    "lat": 37.9447785,
-    "lon": 23.6341173,
+    "lat": 37.9421222,
+    "lon": 23.6319992,
     "geocode_query": "Cantina Greece",
-    "geocode_display_name": "Cantina, Ηετιώνεια Ακτή, Άγιος Διονύσιος, 5η Κοινότητα Πειραιά, Πειραιάς, Δήμος Πειραιώς, Περιφερειακή Ενότητα Πειραιώς, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 185 10, Ελλάς"
+    "geocode_display_name": "Cantina, Ακτή Βασιλειάδη, Άγιος Φανούριος, Δημοτική Ενότητα Δραπετσώνας, 5η Κοινότητα Πειραιά, Δήμος Πειραιώς, Περιφερειακή Ενότητα Πειραιώς, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 186 48, Ελλάς"
   },
   {
     "name": "Caro",
@@ -504,6 +560,20 @@
     "geocode_display_name": "Chesa Marchetta, 86, Via da Marias, Suot Crastas, Sils Maria, Sils im Engadin/Segl, Maloja, Graubünden/Grischun/Grigioni, 7514, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
+    "name": "Cheval d’Or",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/cheval-dor/",
+    "description": "A meeting point between Paris and Asia, with a few delicious detours along the way. At Cheval d’Or, an Australian chef of Filipino heritage blends French and Chinese traditions with instinct and wit. Expect bold flavours, unexpected combinations and dishes made for sharing. Behind the red façade, the mood is easygoing and cosmopolitan — a lively reflection of Jourdain itself. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-09.38.46.png",
+    "address": "",
+    "city": "",
+    "lat": 48.8756777,
+    "lon": 2.3873218,
+    "geocode_query": "Cheval d’Or France",
+    "geocode_display_name": "Cheval d'Or, 19, Rue de la Villette, Quartier d'Amérique, Paris 19e Arrondissement, Paris, Île-de-France, France métropolitaine, 75019, France"
+  },
+  {
     "name": "Choux",
     "country": "Netherlands",
     "category": "Restaurant",
@@ -532,6 +602,20 @@
     "geocode_display_name": "Château Royal, 3, Mittelstraße, Dorotheenstadt, Mitte, Berlin, 10117, Deutschland"
   },
   {
+    "name": "Clamato",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/clamato/",
+    "description": "The sea, stripped back to its essentials. At Clamato, oysters, shellfish, fish and vegetables arrive daily and are treated with a light, confident touch. International flavours add a little mischief, while everything is made for sharing. Casual, lively and unfussy, this is seafood with a distinctly Parisian pulse. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-11.46.48.png",
+    "address": "",
+    "city": "",
+    "lat": 48.853589,
+    "lon": 2.3808545,
+    "geocode_query": "Clamato France",
+    "geocode_display_name": "Clamato, 80, Rue de Charonne, Quartier Sainte-Marguerite, Paris 11e Arrondissement, Paris, Île-de-France, France métropolitaine, 75011, France"
+  },
+  {
     "name": "Cocoon Theresienwiese",
     "country": "Germany",
     "category": "Hotel",
@@ -554,10 +638,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Herbergszimmer_I-scaled-1.jpg",
     "address": "",
     "city": "",
-    "lat": 46.955503,
-    "lon": 8.3694364,
+    "lat": 46.9554421,
+    "lon": 8.3693747,
     "geocode_query": "Culinarium Alpinum Switzerland",
-    "geocode_display_name": "Culinarium Alpinum, 18, Mürgstrasse, Stans, Nidwalden, 6370, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Culinarium Alpinum, Mürgstrasse, Stans, Nidwalden, 6371, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
     "name": "Culler de Pau",
@@ -600,6 +684,20 @@
     "lon": 9.1791419,
     "geocode_query": "Das Edith Germany",
     "geocode_display_name": "Das Edith, 34, Heusteigstraße, Heusteigviertel, Stuttgart-Mitte, Stuttgart, Baden-Württemberg, 70180, Deutschland"
+  },
+  {
+    "name": "Datil",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/datil/",
+    "description": "A thoughtful ode to the plant world. At Datil, Manon Fleury lets vegetables, fruits and grains take centre stage, treated with precision, intuition and deep respect for the seasons. Fermentation, extraction and zero-waste techniques add quiet complexity, while a light touch of animal protein completes the picture. Refined, generous and quietly radical, Datil feels like a glimpse of where fine dining is heading. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-08.31.45.png",
+    "address": "",
+    "city": "",
+    "lat": 48.8636109,
+    "lon": 2.3573253,
+    "geocode_query": "Datil France",
+    "geocode_display_name": "Datil, 13, Rue des Gravilliers, Quartier Sainte-Avoye, Paris 3e Arrondissement, Paris, Île-de-France, France métropolitaine, 75003, France"
   },
   {
     "name": "De Durgerdam",
@@ -686,6 +784,20 @@
     "geocode_display_name": "Direkte, 13, Carrer de les Cabres, el Raval, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España"
   },
   {
+    "name": "Domaine Les Bruyères",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/domaine-les-bruyeres/",
+    "description": "A countryside retreat where the garden shapes the experience. At Domaine Les Bruyères, chef Cybèle Idelot transforms the harvest from her permaculture garden into thoughtful, vegetable-led tasting menus, complemented by produce from nearby artisans and growers. Set in a restored 19th-century coaching inn, with just five guest rooms, the estate brings together personal hospitality, inventive cooking and a deep connection to its surroundings. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Ruche.©E.Franzo.15-1024x1536-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": 45.0270181,
+    "lon": 4.9285228,
+    "geocode_query": "Domaine Les Bruyères France",
+    "geocode_display_name": "Domaine Les Bruyères, Chemin du Stade, Raisinières, Bruyères, Beaumont-Monteux, Valence, Drôme, Auvergne-Rhône-Alpes, France métropolitaine, 26600, France"
+  },
+  {
     "name": "Eco Hotel El Agua",
     "country": "Spain",
     "category": "Hotel",
@@ -728,6 +840,20 @@
     "geocode_display_name": "el Ventador, Sant Climent Sescebes, Alt Empordà, Girona, Catalunya, 17708, España"
   },
   {
+    "name": "Encanto",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/encanto/",
+    "description": "At Encanto, vegetables take centre stage in a creative tasting menu shaped by the seasons. Led by chef Diogo Formiga, the kitchen celebrates exceptional Portuguese produce, transforming familiar ingredients into refined, inventive dishes. A thoughtful expression of modern plant-based gastronomy. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/Encanto_Massa-a-lavrador_kohlrabi_28Jan2026_009A9718_credito_GrupoJoseAvillez.jpg",
+    "address": "",
+    "city": "",
+    "lat": 38.7099386,
+    "lon": -9.1414711,
+    "geocode_query": "Encanto Portugal",
+    "geocode_display_name": "Encanto, 10, Largo de São Carlos, Chiado, Santa Maria Maior, Madalena, Lisboa, 1200-410, Portugal"
+  },
+  {
     "name": "EquiTable",
     "country": "Switzerland",
     "category": "Restaurant",
@@ -753,7 +879,7 @@
     "lat": 37.9751876,
     "lon": 23.7315487,
     "geocode_query": "Ergon House Greece",
-    "geocode_display_name": "Ergon House, 23, Μητροπόλεως, Monastiràki, Πλάκα, 1η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 56, Ελλάς"
+    "geocode_display_name": "Ergon House, Μητροπόλεως, Monastiràki, Πλάκα, 1η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 56, Ελλάς"
   },
   {
     "name": "Esca",
@@ -798,6 +924,34 @@
     "geocode_display_name": "Fafleralp, Blatten, Westlich Raron, Oberwallis, Valais/Wallis, 3919, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
+    "name": "Familjen",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/familjen/",
+    "description": "Nordic sensibility meets Portuguese produce in a small, spirited neighbourhood restaurant. Chef Petter Nyström plays with heat, acidity and unexpected combinations, creating bold dishes designed for sharing. Natural wines, an open kitchen and a communal table bring warmth to a place where flavour always comes first. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-23-kl.-23.14.32.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null,
+    "geocode_query": null,
+    "geocode_display_name": null
+  },
+  {
+    "name": "Faz Frio",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/faz-frio/",
+    "description": "Portuguese tradition takes the lead in this lively Lisbon address, where familiar flavours and generous plates invite a proper meal rather than a quick stop. There is comfort in the classics, pleasure in the sharing, and a distinctly local spirit that makes the experience feel rooted in the city. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-23-kl.-22.41.36.png",
+    "address": "",
+    "city": "",
+    "lat": 38.7160078,
+    "lon": -9.1469734,
+    "geocode_query": "Faz Frio Portugal",
+    "geocode_display_name": "Faz Frio, 96, Rua Dom Pedro V, Santo António, Misericórdia, Lisboa, 1250-083, Portugal"
+  },
+  {
     "name": "Fishølogy",
     "country": "Spain",
     "category": "Restaurant",
@@ -810,6 +964,20 @@
     "lon": null,
     "geocode_query": null,
     "geocode_display_name": null
+  },
+  {
+    "name": "Flocon",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/flocon/",
+    "description": "A modern neighbourhood bistro with a soft spot for tradition. At Flocon, the brothers Josselin and Thomas Flocon build their cooking around the seasons, local producers and responsible fishing. Vegetables often take the lead, while generous cuts of meat bring a touch of old-school French indulgence. Warm, relaxed and quietly refined, it feels like a very good reason to linger on rue Mouffetard. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-14.29.33.png",
+    "address": "",
+    "city": "",
+    "lat": 45.80457,
+    "lon": 6.0989155,
+    "geocode_query": "Flocon France",
+    "geocode_display_name": "Flocon, Viuz-la-Chiésaz, Annecy, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74540, France"
   },
   {
     "name": "Flore",
@@ -894,6 +1062,20 @@
     "lon": 19.0533372,
     "geocode_query": "Goli Hungary",
     "geocode_display_name": "Goli, 32, Arany János utca, Lipótváros, V. kerület, Budapest, 1051, Magyarország"
+  },
+  {
+    "name": "Gramme",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/gramme/",
+    "description": "A neighbourhood favourite with an international streak. At Gramme, French bistro cooking meets Asian accents, playful ideas and a generous dose of instinct. The menu shifts with the seasons, moving easily from comforting classics to more unexpected combinations, while natural wines keep things lively. Casual, creative and full of warmth, Gramme feels made for lingering. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-14.47.35.png",
+    "address": "",
+    "city": "",
+    "lat": 43.3477301,
+    "lon": 3.2567352,
+    "geocode_query": "Gramme France",
+    "geocode_display_name": "Gramme, Rue Zénobe Gramme, Zone d'activités de la Ginieisse, Montimaran, Béziers, Hérault, Occitanie, France métropolitaine, 34500, France"
   },
   {
     "name": "Grandhotel Giessbach",
@@ -1078,6 +1260,48 @@
     "geocode_display_name": "Casa, 62, Carrer de Sant Pere Més Alt, Sant Pere, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España"
   },
   {
+    "name": "Hotel Chamar",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-chamar/",
+    "description": "A discreet hideaway with a distinctly Parisian soul. Hôtel Chamar mixes Art Deco details, vintage furniture and soft, muted tones across its intimate rooms, each with its own character. Tucked away in the 9th, it feels removed from the bustle while remaining close to the city’s restless energy. Small, elegant and quietly eccentric, Chamar rewards a slower pace. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/hotel-paris-la-bruyere-exterieurs-004.jpg.webp",
+    "address": "",
+    "city": "",
+    "lat": 48.8794753,
+    "lon": 2.333529,
+    "geocode_query": "Hotel Chamar France",
+    "geocode_display_name": "Chamar, 35, Rue La Bruyère, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
+  },
+  {
+    "name": "Hotel de l’Abbaye",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-de-labbaye/",
+    "description": "A former presbytery turned intimate boutique hotel, tucked beside the Romanesque basilica of Ainay. At Hôtel de l’Abbaye, historic architecture meets contemporary Lyon design, with vintage pieces, bold colours and individual rooms giving the old building a new life. Quiet yet central, elegant without formality, it feels less like a hotel than a beautifully lived-in maison. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-16.38.22.png",
+    "address": "",
+    "city": "",
+    "lat": 48.8500627,
+    "lon": 2.3305207,
+    "geocode_query": "Hotel de l’Abbaye France",
+    "geocode_display_name": "Hôtel de l'Abbaye, 10, Rue Cassette, Quartier Notre-Dame-des-Champs, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France"
+  },
+  {
+    "name": "Hotel Eldorado",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-eldorado/",
+    "description": "A little world of its own in Batignolles. At Hotel Eldorado, old Paris meets post-war glamour, chinoiserie and an eclectic collection of objects, all wrapped around a leafy courtyard and garden pavilion. The result is eccentric but elegant, theatrical without being precious. More house than hotel, Eldorado feels like a place with stories already in the walls. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/salon.jpg",
+    "address": "",
+    "city": "",
+    "lat": 48.8850723,
+    "lon": 2.3250818,
+    "geocode_query": "Hotel Eldorado France",
+    "geocode_display_name": "Hôtel Eldorado, Rue des Dames, Quartier des Batignolles, Paris 17e Arrondissement, Paris, Île-de-France, France métropolitaine, 75017, France"
+  },
+  {
     "name": "Hotel Franq",
     "country": "Belgium",
     "category": "Hotel",
@@ -1104,6 +1328,20 @@
     "lon": 16.3566727,
     "geocode_query": "Hotel Gilbert Austria",
     "geocode_display_name": "Gilbert, 9, Breite Gasse, Sankt Ulrich, Spittelberg, Katastralgemeinde Neubau, Neubau, Wien, 1070, Österreich"
+  },
+  {
+    "name": "Hotel Grand Amour",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-grand-amour/",
+    "description": "A hotel with art in its veins and a pulse after dark. At Grand Amour, bold colours, playful patterns and works by contemporary artists fill a former 19th-century building near the Gare de l’Est. The restaurant, bar and terrace draw a lively mix of locals and travellers, while the rooms feel collected rather than decorated. Eclectic, irreverent and unmistakably Parisian. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/BookBar-HotelGrandAmour-@PionPhotographie-5-scaled-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": 48.8746834,
+    "lon": 2.3561896,
+    "geocode_query": "Hotel Grand Amour France",
+    "geocode_display_name": "Hôtel Grand Amour, Rue de la Fidélité, Quartier de la Porte-Saint-Denis, Paris 10e Arrondissement, Paris, Île-de-France, France métropolitaine, 75010, France"
   },
   {
     "name": "Hotel Indigo",
@@ -1145,7 +1383,7 @@
     "lat": 50.4563746,
     "lon": 3.9334838,
     "geocode_query": "Hotel Belgium",
-    "geocode_display_name": "Hotel, 1, Place des Grands Prés, Les Grands Prés, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+    "geocode_display_name": "Hotel, Rue de la Sucrerie, Les Grands Prés, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
   },
   {
     "name": "Hotel Karl August",
@@ -1174,6 +1412,20 @@
     "lon": -3.6999962,
     "geocode_query": "Hotel Spain",
     "geocode_display_name": "Hotel, 11, Calle de Valencia, Lavapiés, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España"
+  },
+  {
+    "name": "Hotel Massé",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-masse/",
+    "description": "A small refuge in the restless heart of Pigalle. Hotel Massé brings together Parisian heritage, clean-lined interiors and a distinctly local spirit, with each room given its own character. Downstairs, Le Trente draws travellers and locals together over cocktails and small plates. Intimate, unpretentious and quietly stylish, Massé feels less like a hotel than a place to belong. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/e2c85a7c-aa2a-4b68-8b5e-0df5abde4e25.jpg-crop-3840-2050-90-webp-scaled.webp",
+    "address": "",
+    "city": "",
+    "lat": 48.8811092,
+    "lon": 2.3371802,
+    "geocode_query": "Hotel Massé France",
+    "geocode_display_name": "Hôtel Victor Massé, Rue Victor Massé, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
   },
   {
     "name": "Hotel MontRubí 1771",
@@ -1216,6 +1468,20 @@
     "lon": 4.3922893,
     "geocode_query": "Hotel Pilar Belgium",
     "geocode_display_name": "Hotel Pilar, 32-34, Leopold de Waelplaats, Zuid, Antwerpen, Vlaanderen, 2000, België / Belgique / Belgien"
+  },
+  {
+    "name": "Hotel Pulitzer",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-pulitzer/",
+    "description": "A quietly eclectic hideaway in the heart of the 9th. At Hotel Pulitzer, warm colours, vintage touches and contemporary details come together in a setting that feels more like a stylish home than a hotel. Just beyond the door, the energy of Pigalle and the Grands Boulevards takes over. Relaxed, intimate and full of character, it is Paris at its most effortlessly charming. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Extra_Mansarde_514_3-min_1-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": 33.2529651,
+    "lon": -8.5024832,
+    "geocode_query": "Hotel France",
+    "geocode_display_name": "Hotel France ( Ex Atlantis ), Avenue Suez, Place El Hansali, Place El Hansali ساحة الحنصلي, 2ème Arrondissement, pachalik d'El Jadida ⵍⵊⴰⴷⵉⴷⴰ الجديدة, Province d'El Jadida إقليم الجديدة, Casablanca-Settat ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ-ⵙⵟⵟⴰⵜ الدار البيضاء-سطات, 24010, Maroc ⵍⵎⵖⵔⵉⴱ المغرب"
   },
   {
     "name": "Hotel Rum",
@@ -1302,6 +1568,34 @@
     "geocode_display_name": "Héron, 28, Schalkwijkstraat, Nieuwegracht-Oost, Binnenstad Woongebied, Binnenstad, Utrecht, Nederland, 3512 KS, Nederland"
   },
   {
+    "name": "Inari",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/inari/",
+    "description": "Inside a 13th-century chapel, Céline Pham lets the market set the pace. Her cooking moves between France and Vietnam with ease, pairing vivid vegetables, seafood and herbs with deeply savoury broths and sauces. Personal, precise and quietly generous, Inari feels rooted in Arles while looking far beyond it. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/a6d22e6e04ca269b056edb9ad9edc260-1024x820.png",
+    "address": "",
+    "city": "",
+    "lat": 43.6798994,
+    "lon": 4.6310439,
+    "geocode_query": "Inari France",
+    "geocode_display_name": "Inari, 16, Place Voltaire, La Cavalerie, Pont-de-Crau, Arles, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13200, France"
+  },
+  {
+    "name": "Insaciavel",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/insaciavel/",
+    "description": "An inviting wine bar for the curious, pairing intriguing bottles with small plates made for sharing. The mood is warm and unpretentious, encouraging spontaneous discoveries, another glass and conversations that stretch well into the evening. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-23-kl.-21.27.00.png",
+    "address": "",
+    "city": "",
+    "lat": 38.7078594,
+    "lon": -9.1560214,
+    "geocode_query": "Insaciavel Portugal",
+    "geocode_display_name": "Insaciável, 156, Rua da Esperança, Santos-o-Velho, Prazeres, Estrela, Lisboa, 1200-718, Portugal"
+  },
+  {
     "name": "Instroom",
     "country": "Belgium",
     "category": "Restaurant",
@@ -1342,6 +1636,20 @@
     "lon": 9.69404,
     "geocode_query": "JOLA Austria",
     "geocode_display_name": "Jola, Fraxern, Bezirk Feldkirch, Vorarlberg, 6833, Österreich"
+  },
+  {
+    "name": "Jules & Jim",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/jules-jim/",
+    "description": "Tucked away in the Marais, Jules & Jim is intimate, discreet and just a little cinematic. Brick walls, timber, steel and soft light give the hotel a quiet industrial warmth, while its courtyard offers a rare pocket of calm in the city. The cocktail bar keeps things lively after dark. Small in scale, generous in atmosphere, and distinctly Parisian without trying too hard. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/e02bc7d7ca44f89d751e52e325334afdc876741a-130149-1920-1080-auto.jpg",
+    "address": "",
+    "city": "",
+    "lat": 46.0611153,
+    "lon": 6.5797153,
+    "geocode_query": "Jules & Jim France",
+    "geocode_display_name": "Jules & Jim, 2, Impasse Firmin Guy, Cluses, Bonneville, Haute-Savoie, Auvergne-Rhône-Alpes, France métropolitaine, 74300, France"
   },
   {
     "name": "Julius Ernst",
@@ -1470,6 +1778,20 @@
     "geocode_display_name": "La Farm, Camí de Filella, Urbanització d'Antoni Gaudí, Bellcaire d'Urgell, Noguera, Lleida, Catalunya, 25337, España"
   },
   {
+    "name": "La Mercerie",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/la-mercerie/",
+    "description": "A cosmopolitan table with Marseille at its doorstep. At La Mercerie, Harry Cummins cooks with the seasons, bringing together vegetables, seafood, fire and bold, finely tuned seasoning. The room is lively, the wine list adventurous and the cooking generous without ever feeling heavy. Relaxed, international and full of energy, it feels perfectly at home in Marseille. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/889661_893721.jpeg",
+    "address": "",
+    "city": "",
+    "lat": 49.5173147,
+    "lon": 0.7985788,
+    "geocode_query": "La Mercerie France",
+    "geocode_display_name": "La Mercerie, Sainte-Marguerite-sur-Duclair, Rouen, Seine-Maritime, Normandie, France métropolitaine, 76480, France"
+  },
+  {
     "name": "Labstelle",
     "country": "Austria",
     "category": "Restaurant",
@@ -1512,6 +1834,34 @@
     "geocode_display_name": "Lauch, Langenbruck, Bezirk Waldenburg, Basel-Landschaft, 4438, Schweiz/Suisse/Svizzera/Svizra"
   },
   {
+    "name": "Le Dauphin",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/la-dauphin/",
+    "description": "Still restless after all these years. At Le Dauphin, Inaki Aizpitarte continues to bend the rules of the Parisian bistro, serving food that sits somewhere between tapas, bistronomy and pure instinct. Plates are playful, generous and made for sharing, with familiar ingredients given an unexpected turn. Add the marble, mirrors and lively atmosphere, and the Dauphin remains unmistakably its own. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-11.13.56.png",
+    "address": "",
+    "city": "",
+    "lat": 47.5808745,
+    "lon": 0.8514141,
+    "geocode_query": "Le Dauphin France",
+    "geocode_display_name": "Le Dauphin, Villedômer, Loches, Indre-et-Loire, Centre-Val de Loire, France métropolitaine, 37110, France"
+  },
+  {
+    "name": "Le Doyenné",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/le-doyenne/",
+    "description": "A countryside escape where the garden sets the rhythm. At Le Doyenné, James Henry and Shaun Kelly have transformed the stables of a historic château into a living farm-to-table project. Heirloom vegetables, fruit and herbs are grown in the regenerative potager and harvested at their peak, shaping a menu that moves with the seasons. Earthy, elegant and deeply rooted in place, it is worth leaving Paris for. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/B000541-R1-09-10-1.jpg.webp",
+    "address": "",
+    "city": "",
+    "lat": 48.6883355,
+    "lon": -1.3634095,
+    "geocode_query": "Le Doyenné France",
+    "geocode_display_name": "Le Doyenné, Rue de Lille, Avranches, Manche, Normandie, France métropolitaine, 50300, France"
+  },
+  {
     "name": "Le Petit Jeudi",
     "country": "Austria",
     "category": "Restaurant",
@@ -1524,6 +1874,34 @@
     "lon": 16.3691765,
     "geocode_query": "Le Petit Jeudi Austria",
     "geocode_display_name": "Le petit jeudi, 1, Traunfelsgasse, Brigittenau, Katastralgemeinde Brigittenau, Brigittenau, Wien, 1200, Österreich"
+  },
+  {
+    "name": "Le Pigalle",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/le-pigalle/",
+    "description": "A hotel with a taste for the unconventional. At Le Pigalle, vintage furniture, faded colours and eclectic details evoke the neighbourhood’s bohemian past, while the bar and café keep one foot firmly in the present. Rooms feel individual, almost collected rather than decorated. Lively, sensual and a little nostalgic, it captures the unruly spirit of Pigalle beautifully. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/DSCF7399-Edit-2-Copy1_1290x978.jpg",
+    "address": "",
+    "city": "",
+    "lat": 48.8816252,
+    "lon": 2.3372503,
+    "geocode_query": "Le Pigalle France",
+    "geocode_display_name": "Le Pigalle, Rue Frochot, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
+  },
+  {
+    "name": "Les Bords de Mer",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/les-bords-de-mer/",
+    "description": "Marseille meets the Mediterranean head-on. Perched directly above the sea, Les Bords de Mer is all pale stone, clean lines and endless blue, with rooms opening towards the horizon. The architecture is deliberately understated, letting the setting do the talking. Swim, linger, watch the light change — here, the Mediterranean is less a backdrop than the main event. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/hotel-les-bords-de-mer-marseille-south-france-room-junior-suite-vue-mer.webp",
+    "address": "",
+    "city": "",
+    "lat": 43.2896635,
+    "lon": 5.3550578,
+    "geocode_query": "Les Bords de Mer France",
+    "geocode_display_name": "Les Bords de Mer, 52, Corniche du Président John Fitzgerald Kennedy, Le Pharo, Marseille 7e Arrondissement, Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13007, France"
   },
   {
     "name": "Lilli & Jojo",
@@ -1694,6 +2072,20 @@
     "geocode_display_name": "magdas Hotel, 12, Laufbergergasse, Jägerzeile, Leopoldstadt, Katastralgemeinde Leopoldstadt, Leopoldstadt, Wien, 1020, Österreich"
   },
   {
+    "name": "Magnolia",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/magnolia/",
+    "description": "From morning coffee to evening plates, this neighbourhood bistro moves effortlessly between café culture and dinner-table conviviality. Seasonal flavours and a relaxed, contemporary spirit make it an appealing all-day address, whether the occasion calls for a leisurely brunch or a glass of wine after dark. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/1e0b44d7-5b7a-45e7-bb7a-0a681edf1653_IMG-1435.jpeg.webp",
+    "address": "",
+    "city": "",
+    "lat": 38.7542143,
+    "lon": -9.1894301,
+    "geocode_query": "Magnolia Portugal",
+    "geocode_display_name": "Magnolia, Rua Galileu Galilei, Carnide, Lisboa, 1500-909, Portugal"
+  },
+  {
     "name": "Mama Shelter",
     "country": "Czech Republic",
     "category": "Hotel",
@@ -1846,6 +2238,20 @@
     "lon": null,
     "geocode_query": null,
     "geocode_display_name": null
+  },
+  {
+    "name": "Mokonuts",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/mokonuts/",
+    "description": "Tiny in size, generous in spirit. At Mokonuts, Moko Hirayama and Omar Koreitem cook with instinct, drawing on Japanese, Lebanese and French influences without ever forcing the connection. His savoury plates and her quietly addictive pastries meet in a room that feels more like a home than a restaurant. Warm, personal and deliciously unpredictable, Mokonuts has become a Paris institution. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/Skarmavbild-2026-10-21-kl.-10.44.23-1.png",
+    "address": "",
+    "city": "",
+    "lat": 48.8508286,
+    "lon": 2.3814229,
+    "geocode_query": "Mokonuts France",
+    "geocode_display_name": "Mokonuts Cafe and Bakery, 5, Rue Saint-Bernard, Quartier Sainte-Marguerite, Paris 11e Arrondissement, Paris, Île-de-France, France métropolitaine, 75011, France"
   },
   {
     "name": "Moment",
@@ -2052,10 +2458,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/P1132247-5d62aa62.webp",
     "address": "",
     "city": "",
-    "lat": 52.3795646,
-    "lon": 4.9179739,
+    "lat": 52.0964839,
+    "lon": 5.1476077,
     "geocode_query": "Op Oost Netherlands",
-    "geocode_display_name": "Zeeman op de uitkijk, Sumatrakade, Java-eiland, Oostelijk Havengebied, Oost, Amsterdam, Noord-Holland, Nederland, 1021 PC, Nederland"
+    "geocode_display_name": "Fort de Bilt, Waterlinieweg, Rijnsweerd, Wilhelminapark, Rijnsweerd, Oost, Utrecht, Nederland, 3584 BG, Nederland"
   },
   {
     "name": "Otto",
@@ -2070,6 +2476,20 @@
     "lon": 11.9658447,
     "geocode_query": "Otto Germany",
     "geocode_display_name": "Otto Czech, Röderberg, Giebichenstein, Halle (Saale), Sachsen-Anhalt, 06114, Deutschland"
+  },
+  {
+    "name": "Ourea",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/ourea/",
+    "description": "A gentle expression of the South. At Ourea, Matthieu Roche draws on classical French technique and Mediterranean instinct, letting vegetables, herbs and seasonal produce lead the way. The cooking is delicate but never shy, with subtle spice and generous sauces adding depth. Warm, precise and quietly inventive, Ourea captures Marseille through a softer lens. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-14.00.35.png",
+    "address": "",
+    "city": "",
+    "lat": 43.2906135,
+    "lon": 5.3734652,
+    "geocode_query": "Ourea France",
+    "geocode_display_name": "Ourea, Rue de la Paix Marcel Paul, Palais de Justice, Marseille 6e Arrondissement, Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13006, France"
   },
   {
     "name": "Pajta",
@@ -2098,6 +2518,20 @@
     "lon": 21.0552741,
     "geocode_query": "Papi Hungary",
     "geocode_display_name": "Papi, Fáj, Encsi járás, Borsod-Abaúj-Zemplén megye, Alföld és Észak, 3865, Magyarország"
+  },
+  {
+    "name": "Parcelles",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/parcelles/",
+    "description": "A taste of old Paris, with nothing dusty about it. Tucked into a quiet Marais street, Parcelles occupies a beautifully preserved 1936 bistro where tiled floors, gilded ceilings and wood meet a kitchen rooted in French tradition. Think impeccable produce, rich sauces and generous classics. Nostalgic, yes — but thoroughly alive, and very easy to fall for. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-14.39.26-881x1024.png",
+    "address": "",
+    "city": "",
+    "lat": 48.8631928,
+    "lon": 2.3566053,
+    "geocode_query": "Parcelles France",
+    "geocode_display_name": "Parcelles, Rue Chapon, Quartier Sainte-Avoye, Paris 3e Arrondissement, Paris, Île-de-France, France métropolitaine, 75003, France"
   },
   {
     "name": "Patio",
@@ -2184,6 +2618,62 @@
     "geocode_display_name": "Piedra, Albarracín, Sierra de Albarracín, Teruel, Aragón, España"
   },
   {
+    "name": "PLANO",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/plano/",
+    "description": "At PLANO, chef Vítor Adão brings a personal perspective to Portuguese cooking, guided by the seasons and a close connection to local producers. Overlooked ingredients, honest flavours and traditional techniques come together in a kitchen where simplicity meets creativity. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/PLANO_PRATOS_BAIXA-155-copia.jpeg",
+    "address": "",
+    "city": "",
+    "lat": 38.6794343,
+    "lon": -9.1446892,
+    "geocode_query": "PLANO Portugal",
+    "geocode_display_name": "Antigos Estaleiros da Lisnave, Cacilhas, Almada, Cova da Piedade, Pragal e Cacilhas, Almada, Setúbal, Portugal"
+  },
+  {
+    "name": "Pluto",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/pluto/",
+    "description": "Part art space, part neighbourhood hangout, Pluto brings a restless energy to the Marais. Chef Thomas Coupeau serves generous plates shaped by influences from across the globe — Turkish manti, tamarind, lemongrass, fermented yoghurt — yet never losing their sense of balance. Add concrete, good music and a young, creative crowd, and Pluto feels very much of its time. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-10.29.24.png",
+    "address": "",
+    "city": "",
+    "lat": 47.5852192,
+    "lon": 1.3318225,
+    "geocode_query": "Pluto France",
+    "geocode_display_name": "Pluto, Petits Degrés du Château, Château-Commerce, Centre, Blois, Loir-et-Cher, Centre-Val de Loire, France métropolitaine, 41000, France"
+  },
+  {
+    "name": "Prado",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/prado/",
+    "description": "Rooted in Portugal yet confidently contemporary, the cooking celebrates seasonal produce, Atlantic fish and ingredients from dedicated growers. Thoughtful, unfussy and full of character, each dish lets the raw materials shine. A fresh taste of Portugal, right now. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/PIC_0976.jpg",
+    "address": "",
+    "city": "",
+    "lat": 41.6971512,
+    "lon": -8.4333672,
+    "geocode_query": "Prado Portugal",
+    "geocode_display_name": "Prado (São Miguel), Vila Verde, Braga, Portugal"
+  },
+  {
+    "name": "Pristine",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/pristine/",
+    "description": "A contemporary neighbourhood bistro where vegetables do the talking. At Pristine, Michelle Primc and Jérémy Grosdidier turn local produce into vibrant, unfussy plates, drawing on fire, fermentation and flavours from further afield. The cooking is playful but grounded, the room relaxed, the natural wine flowing. A place with little interest in rules — and plenty in pleasure. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-08.55.45.png",
+    "address": "",
+    "city": "",
+    "lat": 48.8763509,
+    "lon": 2.3411052,
+    "geocode_query": "Pristine France",
+    "geocode_display_name": "Pristine, Rue de Maubeuge, Quartier du Faubourg-Montmartre, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
+  },
+  {
     "name": "Provocateur",
     "country": "Germany",
     "category": "Hotel",
@@ -2226,6 +2716,20 @@
     "geocode_display_name": "Publiek, 39, Ham, Gent, Oost-Vlaanderen, Vlaanderen, 9000, België / Belgique / Belgien"
   },
   {
+    "name": "Racines",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/racines/",
+    "description": "Hidden inside the Passage des Panoramas, Racines feels like an old Italian osteria that somehow landed in Paris. Sardinian-born Simone Tondo cooks with boldness and restraint, drawing on Italian traditions and the best French produce. Handmade pasta, rich sauces and deeply savoury flavours set the tone. Unfussy, warm and instinctive, it is Italian cooking with Parisian soul. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-11.07.45.png",
+    "address": "",
+    "city": "",
+    "lat": 48.0506447,
+    "lon": 3.8471386,
+    "geocode_query": "Racines France",
+    "geocode_display_name": "Racines, Troyes, Aube, Grand Est, France métropolitaine, 10130, France"
+  },
+  {
     "name": "Rau",
     "country": "Austria",
     "category": "Restaurant",
@@ -2266,6 +2770,34 @@
     "lon": 8.6341326,
     "geocode_query": "Rechberg 1837 Switzerland",
     "geocode_display_name": "Rechberg, Schönenberg, Wädenswil, Bezirk Horgen, Zürich, 8820, Schweiz/Suisse/Svizzera/Svizra"
+  },
+  {
+    "name": "Recoin",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/recoin/",
+    "description": "A little corner with a big heart. At Recoin, chef Julie della Faille keeps bistro cooking simple, precise and full of flavour, with daily-changing plates that follow the seasons. Think tender vegetables, generous sauces and the occasional nod beyond France. Natural wine flows, the mood is easy and the room feels lived-in. A small neighbourhood gem with nothing to prove. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-10.37.40.png",
+    "address": "",
+    "city": "",
+    "lat": 48.7634858,
+    "lon": 1.6478892,
+    "geocode_query": "Recoin France",
+    "geocode_display_name": "Recoin, Bourdonné, Mantes-la-Jolie, Yvelines, Île-de-France, France métropolitaine, 78113, France"
+  },
+  {
+    "name": "Regain",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/regain/",
+    "description": "A little time capsule with a distinctly modern pulse. At Regain, Benjamin Sanchez cooks instinctively, combining seasonal produce with French and Mediterranean influences in dishes that are delicate, surprising and full of flavour. The floral tableware and seventies atmosphere add a touch of nostalgia, while the cooking keeps moving forward. Unfussy, personal and quietly inventive. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-14.16.49-1021x1024.png",
+    "address": "",
+    "city": "",
+    "lat": 43.8437004,
+    "lon": 5.4314629,
+    "geocode_query": "Regain France",
+    "geocode_display_name": "Regain, Roudaret, Saignon, Apt, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84400, France"
   },
   {
     "name": "Restaurant Bidlabu",
@@ -2388,10 +2920,24 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/DSC_2625.jpg",
     "address": "",
     "city": "",
-    "lat": 47.5003472,
-    "lon": 19.0503576,
+    "lat": 47.490378,
+    "lon": 19.0591724,
     "geocode_query": "Salt Hungary",
-    "geocode_display_name": "Salt, 9, Zrínyi utca, Lipótváros, V. kerület, Budapest, 1051, Magyarország"
+    "geocode_display_name": "Salt, 4, Királyi Pál utca, Pest, Belváros, V. kerület, Budapest, 1053, Magyarország"
+  },
+  {
+    "name": "Santa Joana",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/santa-joana-lisabon/",
+    "description": "Behind centuries-old convent walls, Portuguese culinary heritage meets a fresh, cosmopolitan sensibility. Chef Nuno Mendes draws on local seafood, exceptional produce and the country’s far-reaching food traditions to create dishes that feel both familiar and full of possibility. Historic architecture lends the room a sense of occasion, while the cooking keeps the experience warm, generous and distinctly contemporary. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/30e97778b634bb912ffead8fdd523f1fcc5b658f-3595x5390-1-scaled.webp",
+    "address": "",
+    "city": "",
+    "lat": 40.6325629,
+    "lon": -8.6186883,
+    "geocode_query": "Santa Joana Portugal",
+    "geocode_display_name": "Santa Joana, Aveiro, Portugal"
   },
   {
     "name": "Schloss Elmau",
@@ -2406,6 +2952,20 @@
     "lon": 11.1864855,
     "geocode_query": "Schloss Elmau Germany",
     "geocode_display_name": "Schloss Elmau, 2, In Elmau, Elmau, Krün, Landkreis Garmisch-Partenkirchen, Bayern, 82493, Deutschland"
+  },
+  {
+    "name": "Septime",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/septime/",
+    "description": "Few restaurants have shaped contemporary Paris quite like Septime. The cooking is precise yet instinctive, letting exceptional produce speak through delicate flavours, subtle textures and a quietly inventive touch. Vegetable-led and deeply seasonal, it balances refinement with ease. Nothing is overstated; everything feels considered. A Paris classic that still feels remarkably alive. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-11.52.51.png",
+    "address": "",
+    "city": "",
+    "lat": 48.8536026,
+    "lon": 2.3809558,
+    "geocode_query": "Septime France",
+    "geocode_display_name": "Septime, 80, Rue de Charonne, Quartier Sainte-Marguerite, Paris 11e Arrondissement, Paris, Île-de-France, France métropolitaine, 75011, France"
   },
   {
     "name": "Shila",
@@ -2489,7 +3049,7 @@
     "lat": 53.5448133,
     "lon": 9.9491812,
     "geocode_query": "Stilwerk Germany",
-    "geocode_display_name": "stilwerk, Carsten-Rehder-Straße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
+    "geocode_display_name": "stilwerk, Große Elbstraße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
   },
   {
     "name": "Suru",
@@ -2532,6 +3092,20 @@
     "lon": 19.0691053,
     "geocode_query": "Tati Hungary",
     "geocode_display_name": "TATI, Dohány utca, Erzsébetváros, VII. kerület, Budapest, 1072, Magyarország"
+  },
+  {
+    "name": "Tati",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/tati-2/",
+    "description": "Creative small plates, good drinks and an effortlessly relaxed atmosphere set the tone. Made for sharing, spontaneous orders and conversations that linger, this is the kind of place where an ordinary dinner can turn into a memorable evening. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-23-kl.-21.13.23.png",
+    "address": "",
+    "city": "",
+    "lat": 38.7313929,
+    "lon": -9.1294693,
+    "geocode_query": "Tati Portugal",
+    "geocode_display_name": "Tati, 20B, Rua Carrilho Videira, Penha de França, Lisboa, 1170-079, Portugal"
   },
   {
     "name": "The Artisan",
@@ -2598,8 +3172,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-22-kl.-15.41.49.png",
     "address": "",
     "city": "",
-    "lat": 40.4142787,
-    "lon": -3.7070796,
+    "lat": 40.4145221,
+    "lon": -3.7069829,
     "geocode_query": "The Hat Spain",
     "geocode_display_name": "The Hat, 9, Calle Imperial, Barrio de los Austrias, Sol, Centro, Madrid, Comunidad de Madrid, 28012, España"
   },
@@ -2640,10 +3214,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-12-kl.-16.38.39-1024x697.png",
     "address": "",
     "city": "",
-    "lat": 40.6691507,
-    "lon": 22.9105882,
+    "lat": 40.6114499,
+    "lon": 22.9855223,
     "geocode_query": "The Rooster Greece",
-    "geocode_display_name": "The Famous Rooster, Αγίου Αθανασίου, Νέα Πολιτεία, Εύοσμος, Κοινότητα Ευόσμου, Δημοτική Ενότητα Ευόσμου, Δήμος Κορδελιού - Ευόσμου, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 562 24, Ελλάς"
+    "geocode_display_name": "The Famous Rooster, 222, Γρηγορίου Λαμπράκη, Μαλακοπή, Άνω Τούμπα, Κοινότητα Πυλαίας, Δημοτική Ενότητα Πυλαίας, Δήμος Πυλαίας - Χορτιάτη, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 543 52, Ελλάς"
   },
   {
     "name": "The Usual",
@@ -2688,6 +3262,34 @@
     "geocode_display_name": "U Kalendů, Veselská, Strážnice, okres Hodonín, Jihomoravský kraj, 696 62, Česko"
   },
   {
+    "name": "Vago",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/vago/",
+    "description": "Cocktails, creative plates and music come together in a lively setting with a pulse of its own. More than a restaurant, it is a meeting place for long evenings, good drinks and Lisbon after dark. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-23-kl.-21.17.43.png",
+    "address": "",
+    "city": "",
+    "lat": 38.7093976,
+    "lon": -9.151147,
+    "geocode_query": "Vago Portugal",
+    "geocode_display_name": "Vago, 11A, Rua das Gaivotas, São Bento, Misericórdia, Lisboa, 1200-336, Portugal"
+  },
+  {
+    "name": "Vaisseau",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/vaisseau/",
+    "description": "A voyage into the unexpected. At Vaisseau, chef Adrien Cachot approaches French cooking with a restless imagination, twisting familiar ingredients into dishes that can be playful, strange and intensely precise. Nothing feels predictable, yet everything has purpose. Bold without being showy, Vaisseau is one of Paris’ more adventurous tables. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-13.27.40.png",
+    "address": "",
+    "city": "",
+    "lat": 45.6528737,
+    "lon": 0.1500586,
+    "geocode_query": "Vaisseau France",
+    "geocode_display_name": "Cité Internationale de la Bande Dessinée et de l’Image, Avenue de Cognac, Saint-Cybard, Angoulême, Charente, Nouvelle-Aquitaine, France métropolitaine, 16000, France"
+  },
+  {
     "name": "Valbella Resort",
     "country": "Switzerland",
     "category": "Hotel",
@@ -2728,6 +3330,20 @@
     "lon": 4.8383726,
     "geocode_query": "Vannu Netherlands",
     "geocode_display_name": "Restaurant Vannu, 24, Gilzeweg, Eikberg, Bavel, Breda, Noord-Brabant, Nederland, 4854 SG, Nederland"
+  },
+  {
+    "name": "Venn Canteen",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/venn-canteen/",
+    "description": "Vegetables take centre stage in a kitchen that favours curiosity over convention. Fermentation, forgotten grains and whole-ingredient cooking shape a plant-based tasting menu that moves with the seasons. Thoughtful, inventive and quietly radical, every course offers a fresh perspective on what vegetables can be. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-23-kl.-21.37.01.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null,
+    "geocode_query": null,
+    "geocode_display_name": null
   },
   {
     "name": "Vereda",
@@ -2786,6 +3402,20 @@
     "geocode_display_name": "Vin, Rillaar, Aarschot, Leuven, Vlaams-Brabant, Vlaanderen, 3202, België / Belgique / Belgien"
   },
   {
+    "name": "Vivide",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/vivide/",
+    "description": "Vegetables, stripped of every expectation. At Vivide, Michelle Primc and Jérémy Grosdidier push plant-based cooking into more gastronomic territory, using fire, smoke, fermentation and unexpected pairings to reveal depth and texture. The seven-course menu shifts with the harvest, keeping the experience instinctive and alive. Refined without stiffness, Vivide makes the vegetable world feel infinite. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-09.30.57-756x1024.png",
+    "address": "",
+    "city": "",
+    "lat": 48.8828153,
+    "lon": 2.3417464,
+    "geocode_query": "Vivide France",
+    "geocode_display_name": "Vivide, 3, Rue Dancourt, Quartier de Clignancourt, Paris 18e Arrondissement, Paris, Île-de-France, France métropolitaine, 75018, France"
+  },
+  {
     "name": "Volkshotel",
     "country": "Netherlands",
     "category": "Hotel",
@@ -2811,7 +3441,7 @@
     "lat": 41.6601014,
     "lon": -4.7345428,
     "geocode_query": "Boutique Hotel Spain",
-    "geocode_display_name": "Soho Boutique La Harinera, Carril Bici José Luis López Cerrón, Villa del Prado, Huerta del Rey, Valladolid, Castilla y León, 47009, España"
+    "geocode_display_name": "Soho Boutique La Harinera, Avenida de Salamanca, Villa del Prado, Huerta del Rey, Valladolid, Castilla y León, 47003, España"
   },
   {
     "name": "Widder Hotel",
@@ -2839,7 +3469,7 @@
     "lat": 51.1124253,
     "lon": 2.6633766,
     "geocode_query": "Willem Hiele Belgium",
-    "geocode_display_name": "Willem Hiele, Pylyserlaan, Westhinder, Koksijde, Veurne, West-Vlaanderen, Vlaanderen, 8670, België / Belgique / Belgien"
+    "geocode_display_name": "Willem Hiele, 138, Pylyserlaan, Westhinder, Koksijde, Veurne, West-Vlaanderen, Vlaanderen, 8670, België / Belgique / Belgien"
   },
   {
     "name": "Wilmina",
@@ -2926,6 +3556,20 @@
     "geocode_display_name": "Zeik, 112, Sierichstraße, Winterhude, Hamburg-Nord, Hamburg, 22299, Deutschland"
   },
   {
+    "name": "Âmago",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/amago/",
+    "description": "At Âmago, chefs Marta and André create an intimate dining experience around a single communal table for ten guests. Seasonal ingredients, precise cooking and an open kitchen bring guests closer to the creative process. Personal, spontaneous and full of character, each evening unfolds in its own way. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/IMG_6949.jpg",
+    "address": "",
+    "city": "",
+    "lat": 37.0925891,
+    "lon": -7.9442776,
+    "geocode_query": "Âmago Portugal",
+    "geocode_display_name": "Âmago - Casa Lenta, Caminho Das Alfarrobeiras, Medronhal, Santa Bárbara de Nexe, Faro, Portugal"
+  },
+  {
     "name": "âme",
     "country": "Spain",
     "category": "Restaurant",
@@ -2938,6 +3582,20 @@
     "lon": -2.2053671,
     "geocode_query": "âme Spain",
     "geocode_display_name": "Ame, Calle Juan Soledad, La Canal, Uleila del Campo, Almería, Andalucía, 04279, España"
+  },
+  {
+    "name": "Época Café",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/epoca-cafe/",
+    "description": "A neighbourhood café with a generous spirit and a seasonal sensibility. Thoughtful cooking, good bread and carefully sourced ingredients bring a little more intention to everyday rituals. The mood is relaxed, the flavours honest, and lingering over lunch feels like part of the plan. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-23-kl.-21.50.37.png",
+    "address": "",
+    "city": "",
+    "lat": 38.776004,
+    "lon": -9.0922734,
+    "geocode_query": "Época Portugal",
+    "geocode_display_name": "Epoca, 2, Rua do Cais das Naus, Parque das Nações, Lisboa, 1990-305, Portugal"
   },
   {
     "name": "Štangl",

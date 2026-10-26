@@ -1,5 +1,10 @@
 [
   {
+    "name": "Familjen",
+    "country": "Portugal",
+    "url": "https://360eatguide.com/restaurants/familjen/"
+  },
+  {
     "name": "Fishølogy",
     "country": "Spain",
     "url": "https://360eatguide.com/restaurants/fishology-restaurant-barcelona/"
@@ -23,6 +28,11 @@
     "name": "Shila",
     "country": "Greece",
     "url": "https://360eatguide.com/restaurants/shila/"
+  },
+  {
+    "name": "Venn Canteen",
+    "country": "Portugal",
+    "url": "https://360eatguide.com/restaurants/venn-canteen/"
   },
   {
     "name": "Štangl",

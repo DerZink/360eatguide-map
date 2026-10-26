@@ -126,10 +126,22 @@
     "url": "https://360eatguide.com/restaurants/bombar/"
   },
   {
+    "name": "Boutique Hôtel Provencia",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/boutique-hotel-provencia/"
+  },
+  {
     "name": "Brasserie Uno",
     "country": "Switzerland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/restaurants-switzerland-brasserieuno/"
+  },
+  {
+    "name": "Brion",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/brion/"
   },
   {
     "name": "Brody House",
@@ -148,6 +160,12 @@
     "country": "Belgium",
     "category": "",
     "url": "https://360eatguide.com/restaurants/brut-restaurant-ixelles/"
+  },
+  {
+    "name": "Brutos",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/brutos/"
   },
   {
     "name": "Brösl",
@@ -186,6 +204,12 @@
     "url": "https://360eatguide.com/restaurants/cafe-kandl/"
   },
   {
+    "name": "Calma",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/calma/"
+  },
+  {
     "name": "Cantina",
     "country": "Greece",
     "category": "Restaurant",
@@ -216,6 +240,12 @@
     "url": "https://360eatguide.com/restaurants/chesa-marchetta/"
   },
   {
+    "name": "Cheval d’Or",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/cheval-dor/"
+  },
+  {
     "name": "Choux",
     "country": "Netherlands",
     "category": "Restaurant",
@@ -226,6 +256,12 @@
     "country": "Germany",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/chateau-royal/"
+  },
+  {
+    "name": "Clamato",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/clamato/"
   },
   {
     "name": "Cocoon Theresienwiese",
@@ -256,6 +292,12 @@
     "country": "Germany",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/das-edith/"
+  },
+  {
+    "name": "Datil",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/datil/"
   },
   {
     "name": "De Durgerdam",
@@ -294,6 +336,12 @@
     "url": "https://360eatguide.com/restaurants/direkte-restaurant-barcelona/"
   },
   {
+    "name": "Domaine Les Bruyères",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/domaine-les-bruyeres/"
+  },
+  {
     "name": "Eco Hotel El Agua",
     "country": "Spain",
     "category": "Hotel",
@@ -310,6 +358,12 @@
     "country": "Spain",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/el-ventador/"
+  },
+  {
+    "name": "Encanto",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/encanto/"
   },
   {
     "name": "EquiTable",
@@ -342,10 +396,28 @@
     "url": "https://360eatguide.com/restaurants/fafleralp-hotel/"
   },
   {
+    "name": "Familjen",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/familjen/"
+  },
+  {
+    "name": "Faz Frio",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/faz-frio/"
+  },
+  {
     "name": "Fishølogy",
     "country": "Spain",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/fishology-restaurant-barcelona/"
+  },
+  {
+    "name": "Flocon",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/flocon/"
   },
   {
     "name": "Flore",
@@ -382,6 +454,12 @@
     "country": "Hungary",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/goli/"
+  },
+  {
+    "name": "Gramme",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/gramme/"
   },
   {
     "name": "Grandhotel Giessbach",
@@ -462,6 +540,24 @@
     "url": "https://360eatguide.com/restaurants/hotel-casa-trevino/"
   },
   {
+    "name": "Hotel Chamar",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-chamar/"
+  },
+  {
+    "name": "Hotel de l’Abbaye",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-de-labbaye/"
+  },
+  {
+    "name": "Hotel Eldorado",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-eldorado/"
+  },
+  {
     "name": "Hotel Franq",
     "country": "Belgium",
     "category": "Hotel",
@@ -472,6 +568,12 @@
     "country": "Austria",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/hotel-gilbert/"
+  },
+  {
+    "name": "Hotel Grand Amour",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-grand-amour/"
   },
   {
     "name": "Hotel Indigo",
@@ -504,6 +606,12 @@
     "url": "https://360eatguide.com/restaurants/hotel-la-bionda/"
   },
   {
+    "name": "Hotel Massé",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-masse/"
+  },
+  {
     "name": "Hotel MontRubí 1771",
     "country": "Spain",
     "category": "Hotel",
@@ -520,6 +628,12 @@
     "country": "Belgium",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/hotel-pilar/"
+  },
+  {
+    "name": "Hotel Pulitzer",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-pulitzer/"
   },
   {
     "name": "Hotel Rum",
@@ -558,6 +672,18 @@
     "url": "https://360eatguide.com/restaurants/heron/"
   },
   {
+    "name": "Inari",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/inari/"
+  },
+  {
+    "name": "Insaciavel",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/insaciavel/"
+  },
+  {
     "name": "Instroom",
     "country": "Belgium",
     "category": "Restaurant",
@@ -574,6 +700,12 @@
     "country": "Austria",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/jola/"
+  },
+  {
+    "name": "Jules & Jim",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/jules-jim/"
   },
   {
     "name": "Julius Ernst",
@@ -630,6 +762,12 @@
     "url": "https://360eatguide.com/restaurants/la-farm/"
   },
   {
+    "name": "La Mercerie",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/la-mercerie/"
+  },
+  {
     "name": "Labstelle",
     "country": "Austria",
     "category": "Restaurant",
@@ -648,10 +786,34 @@
     "url": "https://360eatguide.com/restaurants/lauch/"
   },
   {
+    "name": "Le Dauphin",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/la-dauphin/"
+  },
+  {
+    "name": "Le Doyenné",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/le-doyenne/"
+  },
+  {
     "name": "Le Petit Jeudi",
     "country": "Austria",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/le-petit-jeudi/"
+  },
+  {
+    "name": "Le Pigalle",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/le-pigalle/"
+  },
+  {
+    "name": "Les Bords de Mer",
+    "country": "France",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/les-bords-de-mer/"
   },
   {
     "name": "Lilli & Jojo",
@@ -726,6 +888,12 @@
     "url": "https://360eatguide.com/restaurants/magdas-hotel/"
   },
   {
+    "name": "Magnolia",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/magnolia/"
+  },
+  {
     "name": "Mama Shelter",
     "country": "Czech Republic",
     "category": "Hotel",
@@ -790,6 +958,12 @@
     "country": "Spain",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/miiro-borneta/"
+  },
+  {
+    "name": "Mokonuts",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/mokonuts/"
   },
   {
     "name": "Moment",
@@ -888,6 +1062,12 @@
     "url": "https://360eatguide.com/restaurants/otto/"
   },
   {
+    "name": "Ourea",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/ourea/"
+  },
+  {
     "name": "Pajta",
     "country": "Hungary",
     "category": "Restaurant",
@@ -898,6 +1078,12 @@
     "country": "Hungary",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/papi/"
+  },
+  {
+    "name": "Parcelles",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/parcelles/"
   },
   {
     "name": "Patio",
@@ -936,6 +1122,30 @@
     "url": "https://360eatguide.com/restaurants/piedra/"
   },
   {
+    "name": "PLANO",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/plano/"
+  },
+  {
+    "name": "Pluto",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/pluto/"
+  },
+  {
+    "name": "Prado",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/prado/"
+  },
+  {
+    "name": "Pristine",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/pristine/"
+  },
+  {
     "name": "Provocateur",
     "country": "Germany",
     "category": "Hotel",
@@ -954,6 +1164,12 @@
     "url": "https://360eatguide.com/restaurants/publiek-ghent/"
   },
   {
+    "name": "Racines",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/racines/"
+  },
+  {
     "name": "Rau",
     "country": "Austria",
     "category": "Restaurant",
@@ -970,6 +1186,18 @@
     "country": "Switzerland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/rechberg-1837/"
+  },
+  {
+    "name": "Recoin",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/recoin/"
+  },
+  {
+    "name": "Regain",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/regain/"
   },
   {
     "name": "Restaurant Bidlabu",
@@ -1026,10 +1254,22 @@
     "url": "https://360eatguide.com/restaurants/salt/"
   },
   {
+    "name": "Santa Joana",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/santa-joana-lisabon/"
+  },
+  {
     "name": "Schloss Elmau",
     "country": "Germany",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/schloss-elmau/"
+  },
+  {
+    "name": "Septime",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/septime/"
   },
   {
     "name": "Shila",
@@ -1084,6 +1324,12 @@
     "country": "Hungary",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/tati/"
+  },
+  {
+    "name": "Tati",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/tati-2/"
   },
   {
     "name": "The Artisan",
@@ -1152,6 +1398,18 @@
     "url": "https://360eatguide.com/restaurants/u-kalendu/"
   },
   {
+    "name": "Vago",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/vago/"
+  },
+  {
+    "name": "Vaisseau",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/vaisseau/"
+  },
+  {
     "name": "Valbella Resort",
     "country": "Switzerland",
     "category": "Hotel",
@@ -1168,6 +1426,12 @@
     "country": "Netherlands",
     "category": "",
     "url": "https://360eatguide.com/restaurants/vannu-restaurant-bavel/"
+  },
+  {
+    "name": "Venn Canteen",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/venn-canteen/"
   },
   {
     "name": "Vereda",
@@ -1192,6 +1456,12 @@
     "country": "Belgium",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/vin-dou-antwerp/"
+  },
+  {
+    "name": "Vivide",
+    "country": "France",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/vivide/"
   },
   {
     "name": "Volkshotel",
@@ -1254,10 +1524,22 @@
     "url": "https://360eatguide.com/restaurants/zeik-restaurant-hamburg/"
   },
   {
+    "name": "Âmago",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/amago/"
+  },
+  {
     "name": "âme",
     "country": "Spain",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/ame-restaurant-barcelona/"
+  },
+  {
+    "name": "Época Café",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/epoca-cafe/"
   },
   {
     "name": "Štangl",
