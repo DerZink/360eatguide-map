@@ -78,10 +78,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-08-kl.-14.10.15-838x1024.png",
     "address": "",
     "city": "",
-    "lat": 49.7033369,
-    "lon": 14.8978539,
+    "lat": 50.0787626,
+    "lon": 14.646649,
     "geocode_query": "Alma Czech Republic",
-    "geocode_display_name": "Alma, Lidická, Vlašim, okres Benešov, Středočeský kraj, 258 01, Česko"
+    "geocode_display_name": "Alma, 345, Starokolínská, Blatov, Újezd nad Lesy, Praha 21, obvod Praha 9, Praha, 190 16, Česko"
   },
   {
     "name": "Altstadt Vienna",
@@ -109,7 +109,7 @@
     "lat": 47.3716984,
     "lon": 8.5197963,
     "geocode_query": "AMEO Switzerland",
-    "geocode_display_name": "Ameo, Zentralstrasse, Sihlfeld, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8003, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Ameo, Zentralstrasse, Sihlfeld, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8003, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Arthotel Blaue Gans",
@@ -134,10 +134,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-29-kl.-14.28.52.png",
     "address": "",
     "city": "",
-    "lat": 48.2104175,
-    "lon": 16.3534606,
+    "lat": 48.1754182,
+    "lon": 16.3746708,
     "geocode_query": "Artist Austria",
-    "geocode_display_name": "Artist, 8, Buchfeldgasse, Buchfeld, Josefstadt, Katastralgemeinde Josefstadt, Josefstadt, Wien, 1080, Österreich"
+    "geocode_display_name": "Artist, 131, Quellenstraße, Katastralgemeinde Favoriten, Favoriten, Wien, 1100, Österreich"
   },
   {
     "name": "August",
@@ -190,8 +190,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2025/07/platos_02.1800x0.jpg",
     "address": "",
     "city": "",
-    "lat": 42.8942266,
-    "lon": -2.1726309,
+    "lat": 42.8936855,
+    "lon": -2.1730032,
     "geocode_query": "Bakea Spain",
     "geocode_display_name": "Bakea, Altsasu / Alsasua, Sakana, Navarra, Navarra / Nafarroa, 31800, España"
   },
@@ -291,7 +291,7 @@
     "lat": 46.1918257,
     "lon": 6.1444585,
     "geocode_query": "Bombar Switzerland",
-    "geocode_display_name": "Bombar, Place des Augustins, La Roseraie, Plainpalais, Genève, 1205, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Bombar, Place des Augustins, La Roseraie, Plainpalais, Genève, 1205, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Boutique Hôtel Provencia",
@@ -319,7 +319,7 @@
     "lat": 46.0191989,
     "lon": 7.7474889,
     "geocode_query": "Brasserie Uno Switzerland",
-    "geocode_display_name": "Brasserie Uno, 38, Kirchstrasse, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Brasserie Uno, 38, Kirchstrasse, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Brion",
@@ -543,7 +543,7 @@
     "lat": 46.0218826,
     "lon": 7.7544018,
     "geocode_query": "CERVO Mountain Switzerland",
-    "geocode_display_name": "Mountain Ashram Spa by CERVO, 156, Riedweg, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Mountain Ashram Spa by CERVO, 156, Riedweg, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Chesa Marchetta",
@@ -557,7 +557,7 @@
     "lat": 46.4288267,
     "lon": 9.7637152,
     "geocode_query": "Chesa Marchetta Switzerland",
-    "geocode_display_name": "Chesa Marchetta, 86, Via da Marias, Suot Crastas, Sils Maria, Sils im Engadin/Segl, Maloja, Graubünden/Grischun/Grigioni, 7514, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Chesa Marchetta, 86, Via da Marias, Suot Crastas, Sils Maria, Sils im Engadin/Segl, Maloja, Graubünden/Grischun/Grigioni, 7514, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Cheval d’Or",
@@ -630,6 +630,20 @@
     "geocode_display_name": "Cocoon Theresienwiese, 40, Theresienhöhe, Schwanthalerhöhe, München, Bayern, 80339, Deutschland"
   },
   {
+    "name": "Convento do Espinheiro",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/convento-do-espinheiro/",
+    "description": "Within the walls of a former convent, Divinus brings Alentejo’s rich culinary heritage to the table. Black pork, regional cheeses, local olive oil and wines from the surrounding plains tell the story of a landscape shaped by tradition, generous hospitality and a deep connection to its land. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/3872f28d962c683.webp",
+    "address": "",
+    "city": "",
+    "lat": 38.6014411,
+    "lon": -7.8890927,
+    "geocode_query": "Convento do Espinheiro Portugal",
+    "geocode_display_name": "Convento do Espinheiro, Estrada do Espinheiro, Espinheiro, Patão, Canaviais, Évora, 7002-502, Portugal"
+  },
+  {
     "name": "Culinarium Alpinum",
     "country": "Switzerland",
     "category": "Hotel",
@@ -641,7 +655,7 @@
     "lat": 46.9554421,
     "lon": 8.3693747,
     "geocode_query": "Culinarium Alpinum Switzerland",
-    "geocode_display_name": "Culinarium Alpinum, Mürgstrasse, Stans, Nidwalden, 6371, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Culinarium Alpinum, 18, Mürgstrasse, Stans, Nidwalden, 6370, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Culler de Pau",
@@ -656,6 +670,20 @@
     "lon": -8.8958855,
     "geocode_query": "Culler de Pau Spain",
     "geocode_display_name": "Culler de Pau, 73, Estrada O Grove - Igrexa de San Vicente, Os Castiñeiros, Reboredo, O Grove, O Salnés, Pontevedra, Galicia, 36980, España"
+  },
+  {
+    "name": "Da Noi",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/da-noi/",
+    "description": "Comfort food with an Italian accent takes centre stage, from pillowy gnocchi with truffle and mushrooms to slow-roasted meats and delicately cooked fish. Generous, familiar flavours meet a contemporary touch, making this an inviting address for relaxed dinners and dishes best enjoyed around the table. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-24-kl.-08.39.14.png",
+    "address": "",
+    "city": "",
+    "lat": 38.7088001,
+    "lon": -9.1561437,
+    "geocode_query": "Da Noi Portugal",
+    "geocode_display_name": "Da Noi, 44, Rua do Machadinho, Madragoa, Prazeres, Estrela, Lisboa, 1200-865, Portugal"
   },
   {
     "name": "Daica",
@@ -725,7 +753,7 @@
     "lat": 47.5559597,
     "lon": 7.5867425,
     "geocode_query": "Der Teufelhof Switzerland",
-    "geocode_display_name": "Der Teufelhof Basel, 49, Leonhardsgraben, Altstadt Grossbasel, Grossbasel, Basel, Basel-Stadt, 4051, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Der Teufelhof Basel, 49, Leonhardsgraben, Altstadt Grossbasel, Grossbasel, Basel, Basel-Stadt, 4051, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Dexamenes Seaside Hotel",
@@ -865,7 +893,7 @@
     "lat": 47.3778609,
     "lon": 8.5211491,
     "geocode_query": "EquiTable Switzerland",
-    "geocode_display_name": "EquiTable, 163, Stauffacherstrasse, Langstrasse, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "EquiTable, 163, Stauffacherstrasse, Langstrasse, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Ergon House",
@@ -921,7 +949,7 @@
     "lat": 46.4348766,
     "lon": 7.8545552,
     "geocode_query": "Fafleralp Switzerland",
-    "geocode_display_name": "Fafleralp, Blatten, Westlich Raron, Oberwallis, Valais/Wallis, 3919, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Fafleralp, Blatten, Westlich Raron, Oberwallis, Valais/Wallis, 3919, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Familjen",
@@ -1033,7 +1061,7 @@
     "lat": 47.5474597,
     "lon": 7.5911179,
     "geocode_query": "Gaia Hotel Switzerland",
-    "geocode_display_name": "Gaia, 13-15, Centralbahnstrasse, St. Alban, Grossbasel, Basel, Basel-Stadt, 4002, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Gaia, 13-15, Centralbahnstrasse, St. Alban, Grossbasel, Basel, Basel-Stadt, 4002, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Gamper",
@@ -1047,7 +1075,21 @@
     "lat": 47.2738838,
     "lon": 7.8524924,
     "geocode_query": "Gamper Switzerland",
-    "geocode_display_name": "Gamper, Riken AG, Murgenthal, Bezirk Zofingen, Aargau, 4853, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Gamper, Riken AG, Murgenthal, Bezirk Zofingen, Aargau, 4853, Schweiz;Suisse;Svizzera;Svizra"
+  },
+  {
+    "name": "Genuíno",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/genuino/",
+    "description": "Natural wine and good food come together in an intimate, unpretentious setting. The focus is on bottles with character, relaxed sharing and the pleasure of discovering something new in the glass. A welcoming stop for curious drinkers who believe that the best evenings rarely need much of a plan. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-24-kl.-08.56.47.png",
+    "address": "",
+    "city": "",
+    "lat": 41.150113,
+    "lon": -8.6178708,
+    "geocode_query": "Genuíno Portugal",
+    "geocode_display_name": "Genuíno, Rua de Miguel Bombarda, Baixa do Porto, Conjunto Urbano da Ribeira, Cedofeita, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Porto, 4050-377, Portugal"
   },
   {
     "name": "Goli",
@@ -1089,7 +1131,7 @@
     "lat": 46.735426,
     "lon": 8.0232916,
     "geocode_query": "Grandhotel Giessbach Switzerland",
-    "geocode_display_name": "Grandhotel Giessbach, 1201, Giessbach, Axalp, Brienz (BE), Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne, 3855, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Grandhotel Giessbach, 1201, Giessbach, Axalp, Brienz (BE), Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne, 3855, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Hearth",
@@ -1218,6 +1260,20 @@
     "geocode_display_name": "Hostal Grau, 6, Carrer de Verdaguer, l'Estany, Moianès, Barcelona, Catalunya, 08148, España"
   },
   {
+    "name": "Hotel Albergaria do Calvário",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-albergaria-do-calvario/",
+    "description": "Once an olive oil mill, Albergaria do Calvário carries the memory of Alentejo’s agricultural past. At ADC Wine & Food Bar, regional wines meet informal bites in the heart of Évora. It is an invitation to explore the area’s generous pantry, from olive oil and cured meats to the wines that express the warmth of the Alentejo landscape. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-25-kl.-10.49.40-1024x724.png",
+    "address": "",
+    "city": "",
+    "lat": 38.5747208,
+    "lon": -7.9139596,
+    "geocode_query": "Hotel Albergaria do Calvário Portugal",
+    "geocode_display_name": "Albergaria do Calvário, 3, Travessa dos Lagares, Évora (São Mamede, Sé, São Pedro e Santo Antão), Évora, 7000-565, Portugal"
+  },
+  {
     "name": "Hotel Ambassade",
     "country": "Netherlands",
     "category": "Hotel",
@@ -1274,6 +1330,20 @@
     "geocode_display_name": "Chamar, 35, Rue La Bruyère, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
   },
   {
+    "name": "Hotel das Amoreiras",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-das-amoreiras/",
+    "description": "At Hotel das Amoreiras, breakfast is a love letter to small Portuguese producers. Seasonal ingredients, freshly prepared à la carte, set the tone for slow mornings in the courtyard. Later, local wines and seasonal bites invite guests to linger. An intimate expression of Lisbon, rooted in simplicity and thoughtful sourcing. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/hotel-das-amoreiras-galleryhoteldasamoreiras1704.webp",
+    "address": "",
+    "city": "",
+    "lat": 38.7226649,
+    "lon": -9.156423,
+    "geocode_query": "Hotel das Amoreiras Portugal",
+    "geocode_display_name": "Hotel das Amoreiras, 34, Praça das Amoreiras, Rato, Santo António, Madalena, Lisboa, 1250-020, Portugal"
+  },
+  {
     "name": "Hotel de l’Abbaye",
     "country": "France",
     "category": "Hotel",
@@ -1310,8 +1380,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Studio-Aline-Friant-Hoste-116.jpg.webp",
     "address": "",
     "city": "",
-    "lat": 51.2210482,
-    "lon": 4.4061087,
+    "lat": 51.2210248,
+    "lon": 4.4062475,
     "geocode_query": "Hotel Franq Belgium",
     "geocode_display_name": "Hotel Franq, 10, Kipdorp, Universiteitsbuurt, Antwerpen, Vlaanderen, 2000, België / Belgique / Belgien"
   },
@@ -1342,6 +1412,20 @@
     "lon": 2.3561896,
     "geocode_query": "Hotel Grand Amour France",
     "geocode_display_name": "Hôtel Grand Amour, Rue de la Fidélité, Quartier de la Porte-Saint-Denis, Paris 10e Arrondissement, Paris, Île-de-France, France métropolitaine, 75010, France"
+  },
+  {
+    "name": "Hotel Hotel",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-hotel/",
+    "description": "A creative spirit runs through Hotel Hotel, where art, greenery and a relaxed urban atmosphere shape the experience. For the food-minded traveller, the real question is how far that character extends into the kitchen: a promising setting, best explored alongside Lisbon’s lively network of independent restaurants and wine bars. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/hotel-hotel-galleryanimal_23_04_mm_br_0038.webp",
+    "address": "",
+    "city": "",
+    "lat": 38.7171496,
+    "lon": -9.1440512,
+    "geocode_query": "Hotel Hotel Portugal",
+    "geocode_display_name": "Hotel Hotel, 22 A - 1º, Travessa da Glória, São José, Santo António, Madalena, Lisboa, 1250-118, Portugal"
   },
   {
     "name": "Hotel Indigo",
@@ -1383,7 +1467,7 @@
     "lat": 50.4563746,
     "lon": 3.9334838,
     "geocode_query": "Hotel Belgium",
-    "geocode_display_name": "Hotel, Rue de la Sucrerie, Les Grands Prés, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+    "geocode_display_name": "Hotel, 1, Place des Grands Prés, Les Grands Prés, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
   },
   {
     "name": "Hotel Karl August",
@@ -1506,10 +1590,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/hotel-schani-wien-lobby-sitzplaetze-fenster-3_006aca0138454663ac22be-2-2.jpg",
     "address": "",
     "city": "",
-    "lat": 48.2145212,
-    "lon": 16.2845866,
+    "lat": 48.2339868,
+    "lon": 16.4209462,
     "geocode_query": "Hotel Schani Austria",
-    "geocode_display_name": "Bio-Hotel Schani Wienblick, 32, Johann-Staud-Straße, Katastralgemeinde Ottakring, Ottakring, Wien, 1160, Österreich"
+    "geocode_display_name": "Hotel Schani UNO City, 16, Wagramer Straße, Katastralgemeinde Kaisermühlen, Donaustadt, Wien, 1220, Österreich"
   },
   {
     "name": "Hotel Schweizerhof",
@@ -1523,7 +1607,7 @@
     "lat": 47.3768257,
     "lon": 8.5393966,
     "geocode_query": "Hotel Schweizerhof Switzerland",
-    "geocode_display_name": "Hotel Schweizerhof, Bahnhofpassage, City, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Hotel Schweizerhof, Bahnhofstrasse, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Hotel Torre",
@@ -1660,8 +1744,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/02/Skarmavbild-2026-09-16-kl.-11.32.41-765x1024.png",
     "address": "",
     "city": "",
-    "lat": 52.615587,
-    "lon": 6.9728177,
+    "lat": 52.6165112,
+    "lon": 6.9744624,
     "geocode_query": "Julius Ernst Germany",
     "geocode_display_name": "Ernst-Julius-Straße, Alexisdorf, Neugnadenfeld, Ringe, Samtgemeinde Emlichheim, Landkreis Grafschaft Bentheim, Niedersachsen, 49824, Deutschland"
   },
@@ -1677,7 +1761,7 @@
     "lat": 47.5833769,
     "lon": 8.8664669,
     "geocode_query": "Kartause Switzerland",
-    "geocode_display_name": "Kartause Ittingen, Uesslingerstrasse, Kartause Ittingen, Warth, Warth-Weiningen, Bezirk Frauenfeld, Thurgau, 8532, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Kartause Ittingen, Uesslingerstrasse, Kartause Ittingen, Warth, Warth-Weiningen, Bezirk Frauenfeld, Thurgau, 8532, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "KLE",
@@ -1691,7 +1775,7 @@
     "lat": 47.3715304,
     "lon": 8.5209454,
     "geocode_query": "KLE Switzerland",
-    "geocode_display_name": "Kle, 114, Zweierstrasse, Sihlfeld, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8003, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Kle, 114, Zweierstrasse, Sihlfeld, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8003, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Korek",
@@ -1831,7 +1915,7 @@
     "lat": 47.375902,
     "lon": 7.7875126,
     "geocode_query": "Lauch Switzerland",
-    "geocode_display_name": "Lauch, Langenbruck, Bezirk Waldenburg, Basel-Landschaft, 4438, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Lauch, Langenbruck, Bezirk Waldenburg, Basel-Landschaft, 4438, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Le Dauphin",
@@ -1884,10 +1968,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/DSCF7399-Edit-2-Copy1_1290x978.jpg",
     "address": "",
     "city": "",
-    "lat": 48.8816252,
-    "lon": 2.3372503,
+    "lat": 48.8815956,
+    "lon": 2.3372621,
     "geocode_query": "Le Pigalle France",
-    "geocode_display_name": "Le Pigalle, Rue Frochot, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
+    "geocode_display_name": "Le Pigalle, 9, Rue Frochot, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
   },
   {
     "name": "Les Bords de Mer",
@@ -1930,6 +2014,20 @@
     "lon": 20.8747002,
     "geocode_query": "Linou Greece",
     "geocode_display_name": "Λίνου, Φραγκάδες, Δήμος Ζαγορίου, Περιφερειακή Ενότητα Ιωαννίνων, Περιφέρεια Ηπείρου, Αποκεντρωμένη Διοίκηση Ηπείρου - Δυτικής Μακεδονίας, 440 18, Ελλάς"
+  },
+  {
+    "name": "Locke de Santa Joana",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/locke-de-santa-joana/",
+    "description": "Set within a former convent, Locke de Santa Joana gives Lisbon’s culinary scene a contemporary pulse. At Santa Joana, chef Nuno Mendes brings Portuguese flavours and traditions into conversation with modern cooking, celebrating the country’s produce and the people behind it. A meeting of heritage, creativity and urban energy. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-25-kl.-09.53.12.png",
+    "address": "",
+    "city": "",
+    "lat": 38.7255124,
+    "lon": -9.1473204,
+    "geocode_query": "Locke de Santa Joana Portugal",
+    "geocode_display_name": "Locke de Santa Joana, 18, Rua Camilo Castelo Branco, Coração de Jesus, Santo António, Madalena, Lisboa, 1150-084, Portugal"
   },
   {
     "name": "Lokaal",
@@ -2055,7 +2153,7 @@
     "lat": 47.017396,
     "lon": 8.6659025,
     "geocode_query": "Magdalena Switzerland",
-    "geocode_display_name": "Magdalena, Rickenbach bei Schwyz, Schwyz, 6432, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Magdalena, Rickenbach bei Schwyz, Schwyz, 6432, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Magdas Hotel",
@@ -2153,7 +2251,7 @@
     "lat": 47.3787172,
     "lon": 8.5233543,
     "geocode_query": "Marktküche Switzerland",
-    "geocode_display_name": "marktküche, 98, Feldstrasse, Langstrasse, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "marktküche, 98, Feldstrasse, Langstrasse, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "MAST",
@@ -2181,7 +2279,7 @@
     "lat": 46.1949054,
     "lon": 6.1471829,
     "geocode_query": "Matière Switzerland",
-    "geocode_display_name": "Matière, 12, Rue Micheli-du-Crest, La Cluse, Plainpalais, Genève, 1205, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Matière, 12, Rue Micheli-du-Crest, La Cluse, Plainpalais, Genève, 1205, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Merold",
@@ -2240,6 +2338,20 @@
     "geocode_display_name": null
   },
   {
+    "name": "Mito",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/mito/",
+    "description": "Portuguese classics are taken apart and reimagined with wit, precision and a generous dose of nostalgia. Traditional flavours emerge in unexpected forms, turning familiar dishes into playful culinary surprises without losing their soul. A clever, contemporary tribute to Portugal’s rich food culture, with plenty to discover in every course. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-24-kl.-08.47.00.png",
+    "address": "",
+    "city": "",
+    "lat": 41.1494986,
+    "lon": -8.6142423,
+    "geocode_query": "Mito Portugal",
+    "geocode_display_name": "Mito, Rua de José Falcão, Baixa do Porto, Conjunto Urbano da Ribeira, Zona Histórica do Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Porto, 4050-315, Portugal"
+  },
+  {
     "name": "Mokonuts",
     "country": "France",
     "category": "Restaurant",
@@ -2265,7 +2377,7 @@
     "lat": 46.9484657,
     "lon": 7.4536634,
     "geocode_query": "Moment Switzerland",
-    "geocode_display_name": "moment, Antoniergässchen, Weisses Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3000, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "moment, Antoniergässchen, Weisses Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3000, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Monte",
@@ -2377,7 +2489,7 @@
     "lat": 46.2037777,
     "lon": 6.1379502,
     "geocode_query": "Natürlich Switzerland",
-    "geocode_display_name": "Natürlich, 38, Rue de la Coulouvrenière, Jonction, Coulouvrenière, Genève, 1204, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Natürlich, 38, Rue de la Coulouvrenière, Jonction, Coulouvrenière, Genève, 1204, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Neder",
@@ -2419,7 +2531,7 @@
     "lat": 47.3720697,
     "lon": 8.5403664,
     "geocode_query": "Neue Taverne Switzerland",
-    "geocode_display_name": "Neue Taverne, 8, Glockengasse, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Neue Taverne, 8, Glockengasse, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Ntounias",
@@ -2548,6 +2660,20 @@
     "geocode_display_name": "Patio, Πεζογέφυρα Νησιού Αγίου Σώστη, κ. Λιθακιάς, Δημοτική Ενότητα Λαγανά, Δήμος Ζακύνθου, Περιφερειακή Ενότητα Ζακύνθου, Περιφέρεια Ιονίων Νήσων, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 290 92, Ελλάς"
   },
   {
+    "name": "Patio do Tijolo",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/patio-do-tijolo/",
+    "description": "Tucked away in Lisbon’s old quarters, Pátio do Tijolo offers a more intimate, home-like stay. Breakfast brings guests together around the table, but its appeal lies primarily in the atmosphere rather than a distinct culinary identity. A neighbourhood hideaway, best enjoyed with the city’s food scene on the doorstep. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/patio-do-tijolo-imageLinksalvalopez_patio_do_tijolo_498.webp",
+    "address": "",
+    "city": "",
+    "lat": 38.7154455,
+    "lon": -9.1471903,
+    "geocode_query": "Patio do Tijolo Portugal",
+    "geocode_display_name": "Pátio do Tijolo, Bairro Alto, Misericórdia, Lisboa, 1200-433, Portugal"
+  },
+  {
     "name": "Pelusa",
     "country": "Netherlands",
     "category": "Restaurant",
@@ -2587,7 +2713,7 @@
     "lat": 47.501958,
     "lon": 19.059009,
     "geocode_query": "Petit Hungary",
-    "geocode_display_name": "Le Petit Beefbar, 25, Andrássy út, Terézváros, VI. kerület, Budapest, 1061, Magyarország"
+    "geocode_display_name": "Le Petit Beefbar, Dalszínház utca, Terézváros, VI. kerület, Budapest, 1061, Magyarország"
   },
   {
     "name": "Pharao",
@@ -2769,7 +2895,7 @@
     "lat": 47.2097861,
     "lon": 8.6341326,
     "geocode_query": "Rechberg 1837 Switzerland",
-    "geocode_display_name": "Rechberg, Schönenberg, Wädenswil, Bezirk Horgen, Zürich, 8820, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Rechberg, Schönenberg, Wädenswil, Bezirk Horgen, Zürich, 8820, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Recoin",
@@ -2825,7 +2951,7 @@
     "lat": 46.7210058,
     "lon": 9.44615,
     "geocode_query": "Restaurant OZ Switzerland",
-    "geocode_display_name": "Vegi Restaurant Oz, 77, Obergass, Fürstenaubruck, Fürstenau, Region Viamala, Graubünden/Grischun/Grigioni, 7414, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Vegi Restaurant Oz, 77, Obergass, Fürstenaubruck, Fürstenau, Region Viamala, Graubünden/Grischun/Grigioni, 7414, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Restaurant Primitif",
@@ -2853,7 +2979,7 @@
     "lat": 46.8175768,
     "lon": 9.2651088,
     "geocode_query": "Riders Hotel Switzerland",
-    "geocode_display_name": "Riders Hotel, 1, Via Murschetg, Murschetg, Laax, Surselva, Graubünden/Grischun/Grigioni, 7032, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Riders Hotel, 1, Via Murschetg, Murschetg, Laax, Surselva, Graubünden/Grischun/Grigioni, 7032, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Roots",
@@ -2867,7 +2993,21 @@
     "lat": 47.3687319,
     "lon": 8.5357146,
     "geocode_query": "Roots Switzerland",
-    "geocode_display_name": "roots, 19, Am Schanzengraben, Enge, Kreis 2, Zürich, Bezirk Zürich, Zürich, 8002, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "roots, 19, Am Schanzengraben, Enge, Kreis 2, Zürich, Bezirk Zürich, Zürich, 8002, Schweiz;Suisse;Svizzera;Svizra"
+  },
+  {
+    "name": "Rosa et al Townhouse",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/rosa-et-al-townhouse/",
+    "description": "At ROSA ET AL, food is more than an amenity; it is a way of bringing people together. Homemade bread, yoghurt and preserves set the tone for leisurely mornings, while tasting dinners and cooking experiences offer a more personal encounter with the kitchen. Fresh vegetables, local herbs and a welcoming table define this Porto townhouse. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/slideshow_183_6.jpg",
+    "address": "",
+    "city": "",
+    "lat": 41.1825704,
+    "lon": -8.6928361,
+    "geocode_query": "Rosa Portugal",
+    "geocode_display_name": "Rosa, Avenida de Serpa Pinto, Matosinhos Sul, Matosinhos, Porto, 4450-277, Portugal"
   },
   {
     "name": "Rosso",
@@ -2920,10 +3060,24 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/DSC_2625.jpg",
     "address": "",
     "city": "",
-    "lat": 47.490378,
-    "lon": 19.0591724,
+    "lat": 47.5003472,
+    "lon": 19.0503576,
     "geocode_query": "Salt Hungary",
-    "geocode_display_name": "Salt, 4, Királyi Pál utca, Pest, Belváros, V. kerület, Budapest, 1053, Magyarország"
+    "geocode_display_name": "Salt, 9, Zrínyi utca, Lipótváros, V. kerület, Budapest, 1051, Magyarország"
+  },
+  {
+    "name": "Santa Barbara Eco-Beach Resort",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/santa-barbara/",
+    "description": "Between volcanic soil and the Atlantic, Santa Bárbara brings the flavours of the Azores to the table. Its culinary philosophy draws on the farm, the pastures and the sea, with an organic growing project at its heart. A place where island produce meets a lighter way of living. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/santa-barbara-by-singular-properties-gallerylf_santabarbaraecoresort-330.jpg",
+    "address": "",
+    "city": "",
+    "lat": 37.8145423,
+    "lon": -25.5508744,
+    "geocode_query": "Santa Barbara Eco-Beach Resort Portugal",
+    "geocode_display_name": "Santa Bárbara Eco-Beach Resort, 1, EN 1-1ª, Ribeira Seca, Ribeira Grande, Açores, 9600-219, Portugal"
   },
   {
     "name": "Santa Joana",
@@ -2938,6 +3092,20 @@
     "lon": -8.6186883,
     "geocode_query": "Santa Joana Portugal",
     "geocode_display_name": "Santa Joana, Aveiro, Portugal"
+  },
+  {
+    "name": "Sapientia Boutique Hotel",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/sapientia-boutique-hotel/",
+    "description": "Books and wine are natural companions at Sapientia, a hotel rooted in Coimbra’s university quarter. Its restaurant pairs Portuguese cheeses and regional flavours with a menu that moves from farm vegetables to the bounty of the sea. Upstairs, a rooftop glass of Portuguese wine offers a moment to savour the city’s literary spirit. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/b69b33_b8722b99e89f4b33ad0f798e4f1134c9mv2.jpg",
+    "address": "",
+    "city": "",
+    "lat": 40.2066963,
+    "lon": -8.4261875,
+    "geocode_query": "Sapientia Boutique Hotel Portugal",
+    "geocode_display_name": "Sapientia Boutique Hotel, 9, Largo Augusto Hilário, Sé Nova, Alta, Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu), Coimbra, 3000-062, Portugal"
   },
   {
     "name": "Schloss Elmau",
@@ -2993,7 +3161,7 @@
     "lat": 47.3715144,
     "lon": 8.5245483,
     "geocode_query": "Silex Switzerland",
-    "geocode_display_name": "Silex, 3, Freyastrasse, Werd, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Silex, 3, Freyastrasse, Werd, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Six Senses",
@@ -3049,7 +3217,21 @@
     "lat": 53.5448133,
     "lon": 9.9491812,
     "geocode_query": "Stilwerk Germany",
-    "geocode_display_name": "stilwerk, Große Elbstraße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
+    "geocode_display_name": "stilwerk, De-Voß-Straße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
+  },
+  {
+    "name": "Sublime",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/sublime/",
+    "description": "At Sublime Lisboa, Italian tradition finds a home in the Portuguese capital. Davvero brings a taste of Italy to the table, with an opportunity to explore how Portuguese ingredients can shape familiar flavours. An intimate setting for those who appreciate thoughtful hospitality and the pleasure of a well-made meal. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/L08zbS8tME0zWnJTbS95NHNlajdTRm1zYXUwRk0zU3NYTW0waloveTRzaEtLajMzai1aN01qSm0veTRzWE1tMGpac2F1TTdTL3o2dFhNbTBqWnNhdU03U3M0dHp0ZGty.webp",
+    "address": "",
+    "city": "",
+    "lat": 41.1487207,
+    "lon": -8.60957,
+    "geocode_query": "Sublime Portugal",
+    "geocode_display_name": "Sublime, Rua de Rodrigues Sampaio, Baixa do Porto, Conjunto Urbano da Ribeira, Centro Histórico do Porto, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Porto, 4000-425, Portugal"
   },
   {
     "name": "Suru",
@@ -3091,7 +3273,7 @@
     "lat": 47.4981214,
     "lon": 19.0691053,
     "geocode_query": "Tati Hungary",
-    "geocode_display_name": "TATI, Dohány utca, Erzsébetváros, VII. kerület, Budapest, 1072, Magyarország"
+    "geocode_display_name": "TATI, 58-62, Dohány utca, Erzsébetváros, VII. kerület, Budapest, 1074, Magyarország"
   },
   {
     "name": "Tati",
@@ -3119,7 +3301,7 @@
     "lat": 47.3935843,
     "lon": 8.5296761,
     "geocode_query": "The Artisan Switzerland",
-    "geocode_display_name": "The Artisan, 4, Nordbrücke, Wipkingen, Kreis 10, Zürich, Bezirk Zürich, Zürich, 8037, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "The Artisan, 4, Nordbrücke, Wipkingen, Kreis 10, Zürich, Bezirk Zürich, Zürich, 8037, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "The Central House Lavapiés",
@@ -3234,6 +3416,20 @@
     "geocode_display_name": "The Usual, Boulevard Adolphe Max - Adolphe Maxlaan, Quartier Marais-Jacqmain - Wijk Marais-Jacqmain, Pentagone - Vijfhoek, Bruxelles - Brussel, Brussel-Hoofdstad - Bruxelles-Capitale, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, België / Belgique / Belgien"
   },
   {
+    "name": "The Vintage",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-vintage/",
+    "description": "At Blue Bistrot, chef João Silva draws on seasonal, locally sourced ingredients to give familiar dishes a Portuguese accent. The patio invites long lunches, while the bar sets the scene for an evening drink. A relaxed city address where the pleasure of eating and drinking is woven into the Lisbon experience. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/vint-sup-landscape-2.jpg",
+    "address": "",
+    "city": "",
+    "lat": 38.7169999,
+    "lon": -9.1551761,
+    "geocode_query": "The Vintage Portugal",
+    "geocode_display_name": "The World of Vintage, Travessa de Santa Quitéria, Santa Isabel, Campo de Ourique, Lisboa, 1250-209, Portugal"
+  },
+  {
     "name": "Tian Bistro",
     "country": "Austria",
     "category": "Restaurant",
@@ -3301,7 +3497,7 @@
     "lat": 46.7490908,
     "lon": 9.557539,
     "geocode_query": "Valbella Resort Switzerland",
-    "geocode_display_name": "Valbella Resort, 4, Voa Selva, Valbella, Vaz/Obervaz, Albula/Alvra, Graubünden/Grischun/Grigioni, 7077, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Valbella Resort, 4, Voa Selva, Valbella, Vaz/Obervaz, Albula/Alvra, Graubünden/Grischun/Grigioni, 7077, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Vallmo",
@@ -3316,6 +3512,20 @@
     "lon": 14.4154476,
     "geocode_query": "Vallmo Czech Republic",
     "geocode_display_name": "Vallmo, 4, Plavecká, Vyšehrad, obvod Praha 2, Praha, 128 00, Česko"
+  },
+  {
+    "name": "Valverde Lisboa Hotel & Garden",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/valverde-lisboa-hotel-garden/",
+    "description": "Behind the bustle of Avenida da Liberdade, Bougain opens onto a leafy garden where Mediterranean classics meet Portuguese produce. From scarlet prawn rice to a thoughtful selection of Portuguese wines, including bottles from smaller producers, it offers a relaxed taste of Lisbon with a garden at its heart. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-24-kl.-09.18.25.png",
+    "address": "",
+    "city": "",
+    "lat": 38.9193732,
+    "lon": -9.3651844,
+    "geocode_query": "Valverde Lisboa Portugal",
+    "geocode_display_name": "Vale Verde, Igreja Nova e Cheleiros, Mafra, Lisboa, Portugal"
   },
   {
     "name": "Vannu",
@@ -3371,7 +3581,7 @@
     "lat": 47.3722779,
     "lon": 8.5487676,
     "geocode_query": "Villa Florhof Switzerland",
-    "geocode_display_name": "Villa Florhof, 4, Florhofgasse, Hochschulen, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Villa Florhof, 4, Florhofgasse, Hochschulen, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Villa Kabala",
@@ -3441,7 +3651,7 @@
     "lat": 41.6601014,
     "lon": -4.7345428,
     "geocode_query": "Boutique Hotel Spain",
-    "geocode_display_name": "Soho Boutique La Harinera, Avenida de Salamanca, Villa del Prado, Huerta del Rey, Valladolid, Castilla y León, 47003, España"
+    "geocode_display_name": "Soho Boutique La Harinera, Carril Bici José Luis López Cerrón, Villa del Prado, Huerta del Rey, Valladolid, Castilla y León, 47009, España"
   },
   {
     "name": "Widder Hotel",
@@ -3455,7 +3665,7 @@
     "lat": 47.3724404,
     "lon": 8.5398562,
     "geocode_query": "Widder Hotel Switzerland",
-    "geocode_display_name": "Widder, 7, Rennweg, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Widder, 7, Rennweg, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Willem Hiele",
@@ -3511,7 +3721,7 @@
     "lat": 47.3405767,
     "lon": 8.5381016,
     "geocode_query": "Wöschi Switzerland",
-    "geocode_display_name": "Wöschi, Forellenweg, Wollishofen, Kreis 2, Zürich, Bezirk Zürich, Zürich, 8038, Schweiz/Suisse/Svizzera/Svizra"
+    "geocode_display_name": "Wöschi, Forellenweg, Wollishofen, Kreis 2, Zürich, Bezirk Zürich, Zürich, 8038, Schweiz;Suisse;Svizzera;Svizra"
   },
   {
     "name": "Yalo hotel",

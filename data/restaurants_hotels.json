@@ -270,6 +270,12 @@
     "url": "https://360eatguide.com/restaurants/cocoon-theresienwiese/"
   },
   {
+    "name": "Convento do Espinheiro",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/convento-do-espinheiro/"
+  },
+  {
     "name": "Culinarium Alpinum",
     "country": "Switzerland",
     "category": "Hotel",
@@ -280,6 +286,12 @@
     "country": "Spain",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/culler-de-pau/"
+  },
+  {
+    "name": "Da Noi",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/da-noi/"
   },
   {
     "name": "Daica",
@@ -450,6 +462,12 @@
     "url": "https://360eatguide.com/restaurants/restaurants-switzerland-gamper/"
   },
   {
+    "name": "Genuíno",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/genuino/"
+  },
+  {
     "name": "Goli",
     "country": "Hungary",
     "category": "Restaurant",
@@ -522,6 +540,12 @@
     "url": "https://360eatguide.com/restaurants/hostal-grau/"
   },
   {
+    "name": "Hotel Albergaria do Calvário",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-albergaria-do-calvario/"
+  },
+  {
     "name": "Hotel Ambassade",
     "country": "Netherlands",
     "category": "Hotel",
@@ -544,6 +568,12 @@
     "country": "France",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/hotel-chamar/"
+  },
+  {
+    "name": "Hotel das Amoreiras",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-das-amoreiras/"
   },
   {
     "name": "Hotel de l’Abbaye",
@@ -574,6 +604,12 @@
     "country": "France",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/hotel-grand-amour/"
+  },
+  {
+    "name": "Hotel Hotel",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-hotel/"
   },
   {
     "name": "Hotel Indigo",
@@ -828,6 +864,12 @@
     "url": "https://360eatguide.com/restaurants/linou-soumpasis-co/"
   },
   {
+    "name": "Locke de Santa Joana",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/locke-de-santa-joana/"
+  },
+  {
     "name": "Lokaal",
     "country": "Netherlands",
     "category": "Restaurant",
@@ -960,6 +1002,12 @@
     "url": "https://360eatguide.com/restaurants/miiro-borneta/"
   },
   {
+    "name": "Mito",
+    "country": "Portugal",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/mito/"
+  },
+  {
     "name": "Mokonuts",
     "country": "France",
     "category": "Restaurant",
@@ -1090,6 +1138,12 @@
     "country": "Greece",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/patio/"
+  },
+  {
+    "name": "Patio do Tijolo",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/patio-do-tijolo/"
   },
   {
     "name": "Pelusa",
@@ -1230,6 +1284,12 @@
     "url": "https://360eatguide.com/restaurants/roots/"
   },
   {
+    "name": "Rosa et al Townhouse",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/rosa-et-al-townhouse/"
+  },
+  {
     "name": "Rosso",
     "country": "Germany",
     "category": "Hotel",
@@ -1254,10 +1314,22 @@
     "url": "https://360eatguide.com/restaurants/salt/"
   },
   {
+    "name": "Santa Barbara Eco-Beach Resort",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/santa-barbara/"
+  },
+  {
     "name": "Santa Joana",
     "country": "Portugal",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/santa-joana-lisabon/"
+  },
+  {
+    "name": "Sapientia Boutique Hotel",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/sapientia-boutique-hotel/"
   },
   {
     "name": "Schloss Elmau",
@@ -1306,6 +1378,12 @@
     "country": "Germany",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/stilwerk-heimhude/"
+  },
+  {
+    "name": "Sublime",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/sublime/"
   },
   {
     "name": "Suru",
@@ -1386,6 +1464,12 @@
     "url": "https://360eatguide.com/restaurants/the-usual/"
   },
   {
+    "name": "The Vintage",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-vintage/"
+  },
+  {
     "name": "Tian Bistro",
     "country": "Austria",
     "category": "Restaurant",
@@ -1420,6 +1504,12 @@
     "country": "Czech Republic",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/vallmo/"
+  },
+  {
+    "name": "Valverde Lisboa Hotel & Garden",
+    "country": "Portugal",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/valverde-lisboa-hotel-garden/"
   },
   {
     "name": "Vannu",
