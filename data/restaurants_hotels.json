@@ -6,6 +6,12 @@
     "url": "https://360eatguide.com/restaurants/1280-krone/"
   },
   {
+    "name": "Aanaar",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/aanaar/"
+  },
+  {
     "name": "Aerde",
     "country": "Germany",
     "category": "Restaurant",
@@ -46,6 +52,12 @@
     "country": "Switzerland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/ameo/"
+  },
+  {
+    "name": "Aoi",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/aoi/"
   },
   {
     "name": "Arthotel Blaue Gans",
@@ -124,6 +136,18 @@
     "country": "Switzerland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/bombar/"
+  },
+  {
+    "name": "Bona Fide",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/bona-fide/"
+  },
+  {
+    "name": "Boreal",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/boreal/"
   },
   {
     "name": "Boutique Hôtel Provencia",
@@ -468,6 +492,12 @@
     "url": "https://360eatguide.com/restaurants/genuino/"
   },
   {
+    "name": "Giellajohka",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/giellajohka/"
+  },
+  {
     "name": "Goli",
     "country": "Hungary",
     "category": "Restaurant",
@@ -484,6 +514,12 @@
     "country": "Switzerland",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/grandhotel-giessbach/"
+  },
+  {
+    "name": "Grön",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-helsinki-gron/"
   },
   {
     "name": "Hearth",
@@ -526,6 +562,12 @@
     "country": "Germany",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/hobenkook-restaurant-hamburg/"
+  },
+  {
+    "name": "Hobo Hotel",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hobo-hotel/"
   },
   {
     "name": "Horváth",
@@ -586,6 +628,12 @@
     "country": "France",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/hotel-eldorado/"
+  },
+  {
+    "name": "Hotel F6",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-f6/"
   },
   {
     "name": "Hotel Franq",
@@ -660,6 +708,12 @@
     "url": "https://360eatguide.com/restaurants/hotel-motto/"
   },
   {
+    "name": "Hotel Nestor",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/nestor/"
+  },
+  {
     "name": "Hotel Pilar",
     "country": "Belgium",
     "category": "Hotel",
@@ -690,10 +744,28 @@
     "url": "https://360eatguide.com/restaurants/hotel-schweizerhof/"
   },
   {
+    "name": "Hotel St. George",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-st-georges/"
+  },
+  {
+    "name": "Hotel Svala",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-svala/"
+  },
+  {
     "name": "Hotel Torre",
     "country": "Spain",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/hotel-torre/"
+  },
+  {
+    "name": "Hotell Stallbacken",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotell-stallbacken/"
   },
   {
     "name": "Humus x Hortense",
@@ -756,6 +828,12 @@
     "url": "https://360eatguide.com/restaurants/kartause-hotel-switzerland/"
   },
   {
+    "name": "Kaskis",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/kaskis/"
+  },
+  {
     "name": "KLE",
     "country": "Switzerland",
     "category": "Restaurant",
@@ -778,6 +856,12 @@
     "country": "Greece",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/ktima-bellou/"
+  },
+  {
+    "name": "Kuurna",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/kuurna/"
   },
   {
     "name": "Kástu by Pajta",
@@ -850,6 +934,12 @@
     "country": "France",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/les-bords-de-mer/"
+  },
+  {
+    "name": "Lilla Roberts",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/lilla-roberts/"
   },
   {
     "name": "Lilli & Jojo",
@@ -1056,6 +1146,12 @@
     "url": "https://360eatguide.com/restaurants/nathan-antwerp/"
   },
   {
+    "name": "Natura",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-helsinki-natura/"
+  },
+  {
     "name": "Natura Hill",
     "country": "Hungary",
     "category": "Hotel",
@@ -1084,6 +1180,24 @@
     "country": "Switzerland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/restaurants-switzerland-neue-taverne/"
+  },
+  {
+    "name": "Nokka",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/nokka/"
+  },
+  {
+    "name": "Nolita",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/nolita/"
+  },
+  {
+    "name": "Nolla",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-helsinki-nolla/"
   },
   {
     "name": "Ntounias",
@@ -1180,6 +1294,12 @@
     "country": "Portugal",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/plano/"
+  },
+  {
+    "name": "Plein",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/plein/"
   },
   {
     "name": "Pluto",
@@ -1368,6 +1488,12 @@
     "url": "https://360eatguide.com/restaurants/soil/"
   },
   {
+    "name": "Spis",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-helsinki-spis/"
+  },
+  {
     "name": "Srnky",
     "country": "Czech Republic",
     "category": "Restaurant",
@@ -1410,6 +1536,12 @@
     "url": "https://360eatguide.com/restaurants/tati-2/"
   },
   {
+    "name": "Teller",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/teller/"
+  },
+  {
     "name": "The Artisan",
     "country": "Switzerland",
     "category": "Restaurant",
@@ -1426,6 +1558,12 @@
     "country": "Germany",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/the-dean/"
+  },
+  {
+    "name": "The Folks Hotel",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-folks-hotel/"
   },
   {
     "name": "The Guesthouse Vienna",
@@ -1560,10 +1698,22 @@
     "url": "https://360eatguide.com/restaurants/volkshotel/"
   },
   {
+    "name": "Vår",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-porvoo-var/"
+  },
+  {
     "name": "We Boutique Hotel",
     "country": "Spain",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/we-boutique-hotel/"
+  },
+  {
+    "name": "Wellamo",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/wellamo/"
   },
   {
     "name": "Widder Hotel",

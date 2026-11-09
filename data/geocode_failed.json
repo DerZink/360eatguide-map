@@ -1,5 +1,10 @@
 [
   {
+    "name": "Aoi",
+    "country": "Finland",
+    "url": "https://360eatguide.com/restaurants/aoi/"
+  },
+  {
     "name": "Familjen",
     "country": "Portugal",
     "url": "https://360eatguide.com/restaurants/familjen/"
@@ -18,6 +23,11 @@
     "name": "Màloma",
     "country": "Belgium",
     "url": "https://360eatguide.com/restaurants/maloma-restaurant-rixensart/"
+  },
+  {
+    "name": "Nolita",
+    "country": "Finland",
+    "url": "https://360eatguide.com/restaurants/nolita/"
   },
   {
     "name": "Révcsárda",

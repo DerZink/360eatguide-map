@@ -14,6 +14,20 @@
     "geocode_display_name": "1280 Die Krone, 33, Hauptstraße, Kirchen, Geisingen, GVV Immendingen-Geisingen, Landkreis Tuttlingen, Baden-Württemberg, 78187, Deutschland"
   },
   {
+    "name": "Aanaar",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/aanaar/",
+    "description": "Far above the Arctic Circle, Aanaar draws inspiration from the distinctive flavours of Finnish Lapland and Sámi food traditions. Wild berries, herbs, mushrooms and northern fish reflect a landscape shaped by dramatic seasonal changes. Each dish offers a connection to place, celebrating regional knowledge and the remarkable ingredients found in the Arctic. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/Skarmavbild-2026-02-03-kl.-11.08.54-1.png",
+    "address": "",
+    "city": "",
+    "lat": 69.063537,
+    "lon": 27.3187436,
+    "geocode_query": "Aanaar Finland",
+    "geocode_display_name": "Inari, Pohjois-Lapin seutukunta, Lappi, Manner-Suomi, Suomi / Finland"
+  },
+  {
     "name": "Aerde",
     "country": "Germany",
     "category": "Restaurant",
@@ -78,10 +92,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-08-kl.-14.10.15-838x1024.png",
     "address": "",
     "city": "",
-    "lat": 50.0787626,
-    "lon": 14.646649,
+    "lat": 49.7033369,
+    "lon": 14.8978539,
     "geocode_query": "Alma Czech Republic",
-    "geocode_display_name": "Alma, 345, Starokolínská, Blatov, Újezd nad Lesy, Praha 21, obvod Praha 9, Praha, 190 16, Česko"
+    "geocode_display_name": "Alma, Lidická, Vlašim, okres Benešov, Středočeský kraj, 258 01, Česko"
   },
   {
     "name": "Altstadt Vienna",
@@ -109,7 +123,21 @@
     "lat": 47.3716984,
     "lon": 8.5197963,
     "geocode_query": "AMEO Switzerland",
-    "geocode_display_name": "Ameo, Zentralstrasse, Sihlfeld, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8003, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Ameo, Zentralstrasse, Sihlfeld, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8003, Schweiz / Suisse / Svizzera / Svizra"
+  },
+  {
+    "name": "Aoi",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/aoi/",
+    "description": "Photo:  Iida Laiho, Juho Huttunen, Henri Vogt Precision, balance and respect for ingredients are at the heart of Japanese cooking. At Aoi, the smallest details matter, from the freshness of the fish to the delicate interplay of texture and flavour. With an appreciation for simplicity and seasonality, the kitchen demonstrates how restraint can create a deeply satisfying dining experience. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/Skarmavbild-2026-02-03-kl.-09.45.11.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null,
+    "geocode_query": null,
+    "geocode_display_name": null
   },
   {
     "name": "Arthotel Blaue Gans",
@@ -190,8 +218,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2025/07/platos_02.1800x0.jpg",
     "address": "",
     "city": "",
-    "lat": 42.8936855,
-    "lon": -2.1730032,
+    "lat": 42.8942266,
+    "lon": -2.1726309,
     "geocode_query": "Bakea Spain",
     "geocode_display_name": "Bakea, Altsasu / Alsasua, Sakana, Navarra, Navarra / Nafarroa, 31800, España"
   },
@@ -291,7 +319,35 @@
     "lat": 46.1918257,
     "lon": 6.1444585,
     "geocode_query": "Bombar Switzerland",
-    "geocode_display_name": "Bombar, Place des Augustins, La Roseraie, Plainpalais, Genève, 1205, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Bombar, Place des Augustins, La Roseraie, Plainpalais, Genève, 1205, Schweiz / Suisse / Svizzera / Svizra"
+  },
+  {
+    "name": "Bona Fide",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/bona-fide/",
+    "description": "Small, intimate and full of character, Bona Fide combines genuine hospitality with impressive wine knowledge and unexpected flavour combinations. From thoughtful wine pairings to handwritten wine lists and handmade ceramics, every detail adds to the personal charm. Creative, unpretentious and effortlessly welcoming. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-03-kl.-15.33.38.png",
+    "address": "",
+    "city": "",
+    "lat": 60.1722304,
+    "lon": 24.9555756,
+    "geocode_query": "Bona Fide Finland",
+    "geocode_display_name": "Bona Fide, 8, Vironkatu, Siltavuori, Kruununhaka, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00170, Suomi / Finland"
+  },
+  {
+    "name": "Boreal",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/boreal/",
+    "description": "Inspired by the northern landscape, Boreal evokes the earthy flavours of forests, wild berries, mushrooms and seasonal herbs. The Nordic pantry offers endless possibilities for creative cooking, from fresh ingredients to carefully preserved flavours. At its best, this approach brings the character of the region to the plate, with nature guiding the menu. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-03-kl.-14.17.07.png",
+    "address": "",
+    "city": "",
+    "lat": 60.1650264,
+    "lon": 24.9420466,
+    "geocode_query": "Boreal Finland",
+    "geocode_display_name": "Boreal, 9, Uudenmaankatu, Viiskulma, Punavuori, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00120, Suomi / Finland"
   },
   {
     "name": "Boutique Hôtel Provencia",
@@ -319,7 +375,7 @@
     "lat": 46.0191989,
     "lon": 7.7474889,
     "geocode_query": "Brasserie Uno Switzerland",
-    "geocode_display_name": "Brasserie Uno, 38, Kirchstrasse, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Brasserie Uno, 38, Kirchstrasse, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Brion",
@@ -498,10 +554,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-12-kl.-13.42.37-1024x529.png",
     "address": "",
     "city": "",
-    "lat": 37.9421222,
-    "lon": 23.6319992,
+    "lat": 37.9447785,
+    "lon": 23.6341173,
     "geocode_query": "Cantina Greece",
-    "geocode_display_name": "Cantina, Ακτή Βασιλειάδη, Άγιος Φανούριος, Δημοτική Ενότητα Δραπετσώνας, 5η Κοινότητα Πειραιά, Δήμος Πειραιώς, Περιφερειακή Ενότητα Πειραιώς, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 186 48, Ελλάς"
+    "geocode_display_name": "Cantina, Ηετιώνεια Ακτή, Άγιος Διονύσιος, 5η Κοινότητα Πειραιά, Πειραιάς, Δήμος Πειραιώς, Περιφερειακή Ενότητα Πειραιώς, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 185 10, Ελλάς"
   },
   {
     "name": "Caro",
@@ -543,7 +599,7 @@
     "lat": 46.0218826,
     "lon": 7.7544018,
     "geocode_query": "CERVO Mountain Switzerland",
-    "geocode_display_name": "Mountain Ashram Spa by CERVO, 156, Riedweg, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Mountain Ashram Spa by CERVO, 156, Riedweg, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Chesa Marchetta",
@@ -557,7 +613,7 @@
     "lat": 46.4288267,
     "lon": 9.7637152,
     "geocode_query": "Chesa Marchetta Switzerland",
-    "geocode_display_name": "Chesa Marchetta, 86, Via da Marias, Suot Crastas, Sils Maria, Sils im Engadin/Segl, Maloja, Graubünden/Grischun/Grigioni, 7514, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Chesa Marchetta, 86, Via da Marias, Suot Crastas, Sils Maria, Sils im Engadin/Segl, Maloja, Graubünden/Grischun/Grigioni, 7514, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Cheval d’Or",
@@ -655,7 +711,7 @@
     "lat": 46.9554421,
     "lon": 8.3693747,
     "geocode_query": "Culinarium Alpinum Switzerland",
-    "geocode_display_name": "Culinarium Alpinum, 18, Mürgstrasse, Stans, Nidwalden, 6370, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Culinarium Alpinum, 18, Mürgstrasse, Stans, Nidwalden, 6370, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Culler de Pau",
@@ -753,7 +809,7 @@
     "lat": 47.5559597,
     "lon": 7.5867425,
     "geocode_query": "Der Teufelhof Switzerland",
-    "geocode_display_name": "Der Teufelhof Basel, 49, Leonhardsgraben, Altstadt Grossbasel, Grossbasel, Basel, Basel-Stadt, 4051, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Der Teufelhof Basel, 49, Leonhardsgraben, Altstadt Grossbasel, Grossbasel, Basel, Basel-Stadt, 4051, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Dexamenes Seaside Hotel",
@@ -893,7 +949,7 @@
     "lat": 47.3778609,
     "lon": 8.5211491,
     "geocode_query": "EquiTable Switzerland",
-    "geocode_display_name": "EquiTable, 163, Stauffacherstrasse, Langstrasse, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "EquiTable, 163, Stauffacherstrasse, Langstrasse, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Ergon House",
@@ -949,7 +1005,7 @@
     "lat": 46.4348766,
     "lon": 7.8545552,
     "geocode_query": "Fafleralp Switzerland",
-    "geocode_display_name": "Fafleralp, Blatten, Westlich Raron, Oberwallis, Valais/Wallis, 3919, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Fafleralp, Blatten, Westlich Raron, Oberwallis, Valais/Wallis, 3919, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Familjen",
@@ -1061,7 +1117,7 @@
     "lat": 47.5474597,
     "lon": 7.5911179,
     "geocode_query": "Gaia Hotel Switzerland",
-    "geocode_display_name": "Gaia, 13-15, Centralbahnstrasse, St. Alban, Grossbasel, Basel, Basel-Stadt, 4002, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Gaia, 13-15, Centralbahnstrasse, St. Alban, Grossbasel, Basel, Basel-Stadt, 4002, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Gamper",
@@ -1075,7 +1131,7 @@
     "lat": 47.2738838,
     "lon": 7.8524924,
     "geocode_query": "Gamper Switzerland",
-    "geocode_display_name": "Gamper, Riken AG, Murgenthal, Bezirk Zofingen, Aargau, 4853, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Gamper, Riken AG, Murgenthal, Bezirk Zofingen, Aargau, 4853, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Genuíno",
@@ -1090,6 +1146,20 @@
     "lon": -8.6178708,
     "geocode_query": "Genuíno Portugal",
     "geocode_display_name": "Genuíno, Rua de Miguel Bombarda, Baixa do Porto, Conjunto Urbano da Ribeira, Cedofeita, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Porto, 4050-377, Portugal"
+  },
+  {
+    "name": "Giellajohka",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/giellajohka/",
+    "description": "Far above the Arctic Circle, Giellajohka lets the landscape lead. A remote riverside retreat wherewild ingredients, locally caught fish and the flavours of Lapland bring a taste of the North tothe table. Unpretentious, close to nature and rooted in its surroundings. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Taiga-winter1-scaled-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": 69.2923387,
+    "lon": 26.7200992,
+    "geocode_query": "Giellajohka Finland",
+    "geocode_display_name": "Kielajoki, Inari, Pohjois-Lapin seutukunta, Lappi, Manner-Suomi, Suomi / Finland"
   },
   {
     "name": "Goli",
@@ -1131,7 +1201,21 @@
     "lat": 46.735426,
     "lon": 8.0232916,
     "geocode_query": "Grandhotel Giessbach Switzerland",
-    "geocode_display_name": "Grandhotel Giessbach, 1201, Giessbach, Axalp, Brienz (BE), Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne, 3855, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Grandhotel Giessbach, 1201, Giessbach, Axalp, Brienz (BE), Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne, 3855, Schweiz / Suisse / Svizzera / Svizra"
+  },
+  {
+    "name": "Grön",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-helsinki-gron/",
+    "description": "Wild herbs, garden vegetables and Nordic ingredients take centre stage at Grön. Guided by the seasons, the kitchen explores the natural world through creative cooking, fermentation and preservation. The result is a vibrant expression of Finnish nature, where plants are celebrated for their complexity and every ingredient has a story to tell. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/12/RESTAURANT-GRON-1-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": 60.1647183,
+    "lon": 24.9324784,
+    "geocode_query": "Grön Finland",
+    "geocode_display_name": "Grön, 36, Albertinkatu, Kamppi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00180, Suomi / Finland"
   },
   {
     "name": "Hearth",
@@ -1230,6 +1314,20 @@
     "lon": 10.0081133,
     "geocode_query": "Hobenköök Germany",
     "geocode_display_name": "Hobenköök, 43, Stockmeyerstraße, Quartier Am Lohsepark, HafenCity, Hamburg-Mitte, Hamburg, 20457, Deutschland"
+  },
+  {
+    "name": "Hobo Hotel",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hobo-hotel/",
+    "description": "More than a place to sleep, Hobo is a creative hub where seasonal menus, hyper-local ingredients, natural wines and neighborhood breweries bring Helsinki’s energy to the table. A home for curious minds, local makers and good ideas. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/9___media_library_original_1581_2213.png.webp",
+    "address": "",
+    "city": "",
+    "lat": 60.1685881,
+    "lon": 24.9472832,
+    "geocode_query": "Hobo Hotel Finland",
+    "geocode_display_name": "Hobo Hotel, 4, Kluuvikatu, Kaisaniemi, Kluuvi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00100, Suomi / Finland"
   },
   {
     "name": "Horváth",
@@ -1372,6 +1470,20 @@
     "geocode_display_name": "Hôtel Eldorado, Rue des Dames, Quartier des Batignolles, Paris 17e Arrondissement, Paris, Île-de-France, France métropolitaine, 75017, France"
   },
   {
+    "name": "Hotel F6",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-f6/",
+    "description": "Family-owned and full of character, F6 brings a homely touch to the heart of Helsinki. Its Finnish breakfast celebrates organic and locally sourced ingredients, while herbs grown in the courtyard greenhouse find their way into cocktails at Bar Runar. Small details, grown close to home. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/170222_F6_huone222_006.jpg",
+    "address": "",
+    "city": "",
+    "lat": 60.1663228,
+    "lon": 24.9494111,
+    "geocode_query": "Hotel F6 Finland",
+    "geocode_display_name": "Hotel F6, 6, Fabianinkatu, Kaartinkaupunki, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00130, Suomi / Finland"
+  },
+  {
     "name": "Hotel Franq",
     "country": "Belgium",
     "category": "Hotel",
@@ -1380,8 +1492,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Studio-Aline-Friant-Hoste-116.jpg.webp",
     "address": "",
     "city": "",
-    "lat": 51.2210248,
-    "lon": 4.4062475,
+    "lat": 51.2210482,
+    "lon": 4.4061087,
     "geocode_query": "Hotel Franq Belgium",
     "geocode_display_name": "Hotel Franq, 10, Kipdorp, Universiteitsbuurt, Antwerpen, Vlaanderen, 2000, België / Belgique / Belgien"
   },
@@ -1467,7 +1579,7 @@
     "lat": 50.4563746,
     "lon": 3.9334838,
     "geocode_query": "Hotel Belgium",
-    "geocode_display_name": "Hotel, 1, Place des Grands Prés, Les Grands Prés, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+    "geocode_display_name": "Hotel, Rue de la Sucrerie, Les Grands Prés, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
   },
   {
     "name": "Hotel Karl August",
@@ -1540,6 +1652,20 @@
     "geocode_display_name": "Hotel Motto, Mariahilfer Straße, Magdalenengrund, Mariahilf, Katastralgemeinde Mariahilf, Mariahilf, Wien, 1060, Österreich"
   },
   {
+    "name": "Hotel Nestor",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/nestor/",
+    "description": "At Nestor, the archipelago sets the menu. Restaurant Back Pocket builds its tasting experience around the seasons, drawing on locally grown, garden-grown and foraged ingredients whenever possible. A small countryside hotel where creativity meets a respect for the raw ingredient and the landscape beyond the plate. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Room-Klinga_2025_portrait_1.jpg",
+    "address": "",
+    "city": "",
+    "lat": 60.17421,
+    "lon": 21.665312,
+    "geocode_query": "Hotel Nestor Finland",
+    "geocode_display_name": "Hotel Nestor, 45, Österretaisvägen, Österretais, Korpo, Pargas, Åboland, Varsinais-Suomi, Manner-Suomi, 21710, Suomi / Finland"
+  },
+  {
     "name": "Hotel Pilar",
     "country": "Belgium",
     "category": "Hotel",
@@ -1607,7 +1733,35 @@
     "lat": 47.3768257,
     "lon": 8.5393966,
     "geocode_query": "Hotel Schweizerhof Switzerland",
-    "geocode_display_name": "Hotel Schweizerhof, Bahnhofstrasse, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Hotel Schweizerhof, Bahnhofpassage, City, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz / Suisse / Svizzera / Svizra"
+  },
+  {
+    "name": "Hotel St. George",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-st-georges/",
+    "description": "A city retreat where art, wellbeing and food come together. St. George Bakery draws guests and locals in for freshly baked bread and café favourites, while Wintergarden adds a lively cocktail scene. The standout is the everyday pleasure of good bread, thoughtful hospitality and spaces made to be shared. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/cozy-studio-v3-rbe-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": 60.1668539,
+    "lon": 24.9406956,
+    "geocode_query": "Hotel St. George Finland",
+    "geocode_display_name": "Hotel St. George, 13, Yrjönkatu, Kamppi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00120, Suomi / Finland"
+  },
+  {
+    "name": "Hotel Svala",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-svala/",
+    "description": "On a quiet island in the Åland archipelago, Svala brings an old building back to life through thoughtful design, communal dining and the rhythm of the seasons. Local farms, home-cooked meals and ingredients gathered from the surrounding landscape make the archipelago part of every plate. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/suite20.jpg.webp",
+    "address": "",
+    "city": "",
+    "lat": 68.845335,
+    "lon": 28.3192619,
+    "geocode_query": "Hotel Finland",
+    "geocode_display_name": "hotel, Nellimintie, Nellim, Inari, Pohjois-Lapin seutukunta, Lappi, Manner-Suomi, Suomi / Finland"
   },
   {
     "name": "Hotel Torre",
@@ -1622,6 +1776,20 @@
     "lon": 2.1425262,
     "geocode_query": "Hotel Torre Spain",
     "geocode_display_name": "Nobu Hotel Barcelona, 2, Avinguda de Roma, la Nova Esquerra de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08014, España"
+  },
+  {
+    "name": "Hotell Stallbacken",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotell-stallbacken/",
+    "description": "Set on a historic farm in the Turku archipelago, Stallbacken pairs laid-back island living with seasonal cooking and locally sourced ingredients. Its stone-barn restaurant, surrounding countryside and family-farm neighbours create a genuine connection between the food and the place it comes from. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-03-kl.-16.39.01.png",
+    "address": "",
+    "city": "",
+    "lat": 60.167803,
+    "lon": 24.9386414,
+    "geocode_query": "Hotell Finland",
+    "geocode_display_name": "Hotelli Torni, 26, Yrjönkatu, Kamppi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00100, Suomi / Finland"
   },
   {
     "name": "Humus x Hortense",
@@ -1744,8 +1912,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/02/Skarmavbild-2026-09-16-kl.-11.32.41-765x1024.png",
     "address": "",
     "city": "",
-    "lat": 52.6165112,
-    "lon": 6.9744624,
+    "lat": 52.6179977,
+    "lon": 6.9797177,
     "geocode_query": "Julius Ernst Germany",
     "geocode_display_name": "Ernst-Julius-Straße, Alexisdorf, Neugnadenfeld, Ringe, Samtgemeinde Emlichheim, Landkreis Grafschaft Bentheim, Niedersachsen, 49824, Deutschland"
   },
@@ -1761,7 +1929,21 @@
     "lat": 47.5833769,
     "lon": 8.8664669,
     "geocode_query": "Kartause Switzerland",
-    "geocode_display_name": "Kartause Ittingen, Uesslingerstrasse, Kartause Ittingen, Warth, Warth-Weiningen, Bezirk Frauenfeld, Thurgau, 8532, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Kartause Ittingen, Uesslingerstrasse, Kartause Ittingen, Warth, Warth-Weiningen, Bezirk Frauenfeld, Thurgau, 8532, Schweiz / Suisse / Svizzera / Svizra"
+  },
+  {
+    "name": "Kaskis",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/kaskis/",
+    "description": "At Kaskis, Finnish ingredients meet creativity and contemporary craftsmanship. Fish, forest berries, mushrooms and seasonal produce provide inspiration for a kitchen that looks beyond the familiar. Each dish explores the connection between landscape and flavour, bringing a distinctive sense of place to an ambitious dining experience rooted in the Nordic seasons. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/Antti-Leino.jpg",
+    "address": "",
+    "city": "",
+    "lat": 61.1455004,
+    "lon": 21.4438782,
+    "geocode_query": "Kaskis Finland",
+    "geocode_display_name": "Kaskinen, Rauman saaristo, Rauma, Rauman seutukunta, Satakunta, Manner-Suomi, Suomi / Finland"
   },
   {
     "name": "KLE",
@@ -1775,7 +1957,7 @@
     "lat": 47.3715304,
     "lon": 8.5209454,
     "geocode_query": "KLE Switzerland",
-    "geocode_display_name": "Kle, 114, Zweierstrasse, Sihlfeld, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8003, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Kle, 114, Zweierstrasse, Sihlfeld, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8003, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Korek",
@@ -1818,6 +2000,20 @@
     "lon": 24.0596624,
     "geocode_query": "Ktima Greece",
     "geocode_display_name": "Κτήμα, Δημοτική Ενότητα Σιταγρών, Δήμος Προσοτσάνης, Περιφερειακή Ενότητα Δράμας, Περιφέρεια Ανατολικής Μακεδονίας και Θράκης, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 660 34, Ελλάς"
+  },
+  {
+    "name": "Kuurna",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/kuurna/",
+    "description": "Sometimes, the best cooking is the least complicated. At Kuurna, the Nordic bistro spirit celebrates seasonal ingredients, honest flavours and the pleasure of a well-made meal. With an emphasis on quality rather than excess, the kitchen shows how thoughtful sourcing and careful preparation can make simple food truly memorable. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/WEB_Kuurna031.jpg.webp",
+    "address": "",
+    "city": "",
+    "lat": 64.231486,
+    "lon": 27.7587984,
+    "geocode_query": "Kuurna Finland",
+    "geocode_display_name": "Kuurna, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87250, Suomi / Finland"
   },
   {
     "name": "Kástu by Pajta",
@@ -1915,7 +2111,7 @@
     "lat": 47.375902,
     "lon": 7.7875126,
     "geocode_query": "Lauch Switzerland",
-    "geocode_display_name": "Lauch, Langenbruck, Bezirk Waldenburg, Basel-Landschaft, 4438, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Lauch, Langenbruck, Bezirk Waldenburg, Basel-Landschaft, 4438, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Le Dauphin",
@@ -1968,10 +2164,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/DSCF7399-Edit-2-Copy1_1290x978.jpg",
     "address": "",
     "city": "",
-    "lat": 48.8815956,
-    "lon": 2.3372621,
+    "lat": 48.8816252,
+    "lon": 2.3372503,
     "geocode_query": "Le Pigalle France",
-    "geocode_display_name": "Le Pigalle, 9, Rue Frochot, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
+    "geocode_display_name": "Le Pigalle, Rue Frochot, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
   },
   {
     "name": "Les Bords de Mer",
@@ -1986,6 +2182,20 @@
     "lon": 5.3550578,
     "geocode_query": "Les Bords de Mer France",
     "geocode_display_name": "Les Bords de Mer, 52, Corniche du Président John Fitzgerald Kennedy, Le Pharo, Marseille 7e Arrondissement, Marseille, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France métropolitaine, 13007, France"
+  },
+  {
+    "name": "Lilla Roberts",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/lilla-roberts/",
+    "description": "Art Deco character meets a contemporary Nordic food scene at Lilla Roberts. Krog Roba champions local and organic ingredients, keeps a close eye on food waste and brings a playful twist to Nordic classics. At the bar, cocktails round out a neighbourhood-minded approach to eating and drinking. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-04-kl.-08.36.36.png",
+    "address": "",
+    "city": "",
+    "lat": 60.1643607,
+    "lon": 24.9469948,
+    "geocode_query": "Lilla Roberts Finland",
+    "geocode_display_name": "Lilla Roberts, 1-3, Pieni Roobertinkatu, Kaartinkaupunki, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00130, Suomi / Finland"
   },
   {
     "name": "Lilli & Jojo",
@@ -2153,7 +2363,7 @@
     "lat": 47.017396,
     "lon": 8.6659025,
     "geocode_query": "Magdalena Switzerland",
-    "geocode_display_name": "Magdalena, Rickenbach bei Schwyz, Schwyz, 6432, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Magdalena, Rickenbach bei Schwyz, Schwyz, 6432, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Magdas Hotel",
@@ -2251,7 +2461,7 @@
     "lat": 47.3787172,
     "lon": 8.5233543,
     "geocode_query": "Marktküche Switzerland",
-    "geocode_display_name": "marktküche, 98, Feldstrasse, Langstrasse, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "marktküche, 98, Feldstrasse, Langstrasse, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "MAST",
@@ -2279,7 +2489,7 @@
     "lat": 46.1949054,
     "lon": 6.1471829,
     "geocode_query": "Matière Switzerland",
-    "geocode_display_name": "Matière, 12, Rue Micheli-du-Crest, La Cluse, Plainpalais, Genève, 1205, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Matière, 12, Rue Micheli-du-Crest, La Cluse, Plainpalais, Genève, 1205, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Merold",
@@ -2377,7 +2587,7 @@
     "lat": 46.9484657,
     "lon": 7.4536634,
     "geocode_query": "Moment Switzerland",
-    "geocode_display_name": "moment, Antoniergässchen, Weisses Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3000, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "moment, Antoniergässchen, Weisses Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3000, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Monte",
@@ -2464,6 +2674,20 @@
     "geocode_display_name": "Nathan, 13, Lange Koepoortstraat, Historisch Centrum, Antwerpen, Vlaanderen, 2000, België / Belgique / Belgien"
   },
   {
+    "name": "Natura",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-helsinki-natura/",
+    "description": "At Natura, the natural world inspires a kitchen full of curiosity. Seasonal vegetables, wild herbs and carefully chosen ingredients shape a menu that celebrates flavour in its purest form. Through thoughtful techniques and a close connection to the seasons, familiar ingredients become something unexpected, revealing the richness of Finland’s natural larder. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/12/natura_52019-27-1024x683.jpg",
+    "address": "",
+    "city": "",
+    "lat": 60.1821858,
+    "lon": 22.1327409,
+    "geocode_query": "Natura Finland",
+    "geocode_display_name": "Natura, Sandö, Nagu, Pargas, Åboland, Varsinais-Suomi, Manner-Suomi, Suomi / Finland"
+  },
+  {
     "name": "Natura Hill",
     "country": "Hungary",
     "category": "Hotel",
@@ -2489,7 +2713,7 @@
     "lat": 46.2037777,
     "lon": 6.1379502,
     "geocode_query": "Natürlich Switzerland",
-    "geocode_display_name": "Natürlich, 38, Rue de la Coulouvrenière, Jonction, Coulouvrenière, Genève, 1204, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Natürlich, 38, Rue de la Coulouvrenière, Jonction, Coulouvrenière, Genève, 1204, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Neder",
@@ -2531,7 +2755,49 @@
     "lat": 47.3720697,
     "lon": 8.5403664,
     "geocode_query": "Neue Taverne Switzerland",
-    "geocode_display_name": "Neue Taverne, 8, Glockengasse, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Neue Taverne, 8, Glockengasse, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz / Suisse / Svizzera / Svizra"
+  },
+  {
+    "name": "Nokka",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/nokka/",
+    "description": "Finnish forests, lakes and fields provide inspiration at Nokka, where wild herbs, mushrooms, berries, fish and game bring the landscape to the plate. Close connections with local gatherers and producers help tell the story behind each ingredient. The result is a distinctive expression of Finnish food culture, shaped by nature and the changing seasons. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-03-kl.-14.31.49.png",
+    "address": "",
+    "city": "",
+    "lat": 60.2382161,
+    "lon": 25.3147415,
+    "geocode_query": "Nokka Finland",
+    "geocode_display_name": "Nokka, Sipoo, Helsingin seutukunta, Uusimaa, Manner-Suomi, 01120, Suomi / Finland"
+  },
+  {
+    "name": "Nolita",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/nolita/",
+    "description": "At Nolita, the details behind a good meal matter. The character of each ingredient, its season and its origins can shape the way a dish comes together. Through thoughtful preparation and a contemporary approach to dining, the kitchen has an opportunity to show how quality ingredients and a clear culinary vision create lasting impressions. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-03-kl.-14.42.58-768x1024.png",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null,
+    "geocode_query": null,
+    "geocode_display_name": null
+  },
+  {
+    "name": "Nolla",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-helsinki-nolla/",
+    "description": "What if nothing went to waste? At Nolla, resourcefulness fuels creativity. Fermentation, preservation and inventive techniques give ingredients a second life, transforming what might otherwise be discarded into something delicious. Here, every part has potential, proving that a thoughtful kitchen can challenge conventions without compromising on flavour. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/12/Flower_byEmmaRanne-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": 60.1633693,
+    "lon": 24.9381104,
+    "geocode_query": "Nolla Finland",
+    "geocode_display_name": "Ravintola Nolla, 22, Fredrikinkatu, Viiskulma, Punavuori, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00120, Suomi / Finland"
   },
   {
     "name": "Ntounias",
@@ -2570,10 +2836,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/P1132247-5d62aa62.webp",
     "address": "",
     "city": "",
-    "lat": 52.0964839,
-    "lon": 5.1476077,
+    "lat": 52.3795646,
+    "lon": 4.9179739,
     "geocode_query": "Op Oost Netherlands",
-    "geocode_display_name": "Fort de Bilt, Waterlinieweg, Rijnsweerd, Wilhelminapark, Rijnsweerd, Oost, Utrecht, Nederland, 3584 BG, Nederland"
+    "geocode_display_name": "Zeeman op de uitkijk, Sumatrakade, Java-eiland, Oostelijk Havengebied, Oost, Amsterdam, Noord-Holland, Nederland, 1021 PC, Nederland"
   },
   {
     "name": "Otto",
@@ -2758,6 +3024,20 @@
     "geocode_display_name": "Antigos Estaleiros da Lisnave, Cacilhas, Almada, Cova da Piedade, Pragal e Cacilhas, Almada, Setúbal, Portugal"
   },
   {
+    "name": "Plein",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/plein/",
+    "description": "Relaxed, seasonal and full of character, Plein celebrates the pleasure of good food without unnecessary fuss. Ingredients guide the kitchen, with changing menus reflecting the rhythm of the seasons. Thoughtful preparation and a light touch allow natural flavours to shine, making each dish a reminder that simplicity and quality belong together. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/IMG_6827.jpg",
+    "address": "",
+    "city": "",
+    "lat": 60.1934813,
+    "lon": 24.9584862,
+    "geocode_query": "Plein Finland",
+    "geocode_display_name": "Plein, 18, Suvannontie, Puu-Vallila, Vallilan teollisuusalue, Vallila, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00510, Suomi / Finland"
+  },
+  {
     "name": "Pluto",
     "country": "France",
     "category": "Restaurant",
@@ -2895,7 +3175,7 @@
     "lat": 47.2097861,
     "lon": 8.6341326,
     "geocode_query": "Rechberg 1837 Switzerland",
-    "geocode_display_name": "Rechberg, Schönenberg, Wädenswil, Bezirk Horgen, Zürich, 8820, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Rechberg, Schönenberg, Wädenswil, Bezirk Horgen, Zürich, 8820, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Recoin",
@@ -2951,7 +3231,7 @@
     "lat": 46.7210058,
     "lon": 9.44615,
     "geocode_query": "Restaurant OZ Switzerland",
-    "geocode_display_name": "Vegi Restaurant Oz, 77, Obergass, Fürstenaubruck, Fürstenau, Region Viamala, Graubünden/Grischun/Grigioni, 7414, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Vegi Restaurant Oz, 77, Obergass, Fürstenaubruck, Fürstenau, Region Viamala, Graubünden/Grischun/Grigioni, 7414, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Restaurant Primitif",
@@ -2979,7 +3259,7 @@
     "lat": 46.8175768,
     "lon": 9.2651088,
     "geocode_query": "Riders Hotel Switzerland",
-    "geocode_display_name": "Riders Hotel, 1, Via Murschetg, Murschetg, Laax, Surselva, Graubünden/Grischun/Grigioni, 7032, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Riders Hotel, 1, Via Murschetg, Murschetg, Laax, Surselva, Graubünden/Grischun/Grigioni, 7032, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Roots",
@@ -2990,10 +3270,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/rhypark-food-2152-1.jpg",
     "address": "",
     "city": "",
-    "lat": 47.3687319,
-    "lon": 8.5357146,
+    "lat": 47.3709497,
+    "lon": 8.5445043,
     "geocode_query": "Roots Switzerland",
-    "geocode_display_name": "roots, 19, Am Schanzengraben, Enge, Kreis 2, Zürich, Bezirk Zürich, Zürich, 8002, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "roots, Blaufahnenstrasse, Rathaus, Altstadt, Zürich, Bezirk Zürich, Zürich, 8024, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Rosa et al Townhouse",
@@ -3060,10 +3340,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/DSC_2625.jpg",
     "address": "",
     "city": "",
-    "lat": 47.5003472,
-    "lon": 19.0503576,
+    "lat": 47.490378,
+    "lon": 19.0591724,
     "geocode_query": "Salt Hungary",
-    "geocode_display_name": "Salt, 9, Zrínyi utca, Lipótváros, V. kerület, Budapest, 1051, Magyarország"
+    "geocode_display_name": "Salt, 4, Királyi Pál utca, Pest, Belváros, V. kerület, Budapest, 1053, Magyarország"
   },
   {
     "name": "Santa Barbara Eco-Beach Resort",
@@ -3161,7 +3441,7 @@
     "lat": 47.3715144,
     "lon": 8.5245483,
     "geocode_query": "Silex Switzerland",
-    "geocode_display_name": "Silex, 3, Freyastrasse, Werd, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Silex, 3, Freyastrasse, Werd, Kreis 4, Zürich, Bezirk Zürich, Zürich, 8004, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Six Senses",
@@ -3192,6 +3472,20 @@
     "geocode_display_name": "Τσουλήθρα ( Soil Erosion 2022 J. ), Skaramangas Camp, Σκαραμαγκάς, Δήμος Χαϊδαρίου, Περιφερειακή Ενότητα Δυτικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 124 62, Ελλάς"
   },
   {
+    "name": "Spis",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-helsinki-spis/",
+    "description": "Intimate and quietly confident, Spis celebrates the Nordic seasons through carefully composed dishes and a close attention to ingredients. The changing menu creates room for local produce to shine at its natural best. Here, precision meets restraint, demonstrating how a thoughtful kitchen can turn a handful of excellent ingredients into something memorable. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/12/Sun-Chokes-1-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": 63.0852898,
+    "lon": 21.6915229,
+    "geocode_query": "Spis Finland",
+    "geocode_display_name": "Liesikatu, Itämelaniemi, Melaniemi, Vaasa, Vaasan seutukunta, Österbotten, Manner-Suomi, 65320, Suomi / Finland"
+  },
+  {
     "name": "Srnky",
     "country": "Czech Republic",
     "category": "Restaurant",
@@ -3217,7 +3511,7 @@
     "lat": 53.5448133,
     "lon": 9.9491812,
     "geocode_query": "Stilwerk Germany",
-    "geocode_display_name": "stilwerk, De-Voß-Straße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
+    "geocode_display_name": "stilwerk, Carsten-Rehder-Straße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
   },
   {
     "name": "Sublime",
@@ -3273,7 +3567,7 @@
     "lat": 47.4981214,
     "lon": 19.0691053,
     "geocode_query": "Tati Hungary",
-    "geocode_display_name": "TATI, 58-62, Dohány utca, Erzsébetváros, VII. kerület, Budapest, 1074, Magyarország"
+    "geocode_display_name": "TATI, Dohány utca, Erzsébetváros, VII. kerület, Budapest, 1072, Magyarország"
   },
   {
     "name": "Tati",
@@ -3290,6 +3584,20 @@
     "geocode_display_name": "Tati, 20B, Rua Carrilho Videira, Penha de França, Lisboa, 1170-079, Portugal"
   },
   {
+    "name": "Teller",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/teller/",
+    "description": "Everyday dining can be thoughtful without being complicated. At Teller, seasonal ingredients and carefully prepared dishes offer a reminder that good food begins with attention to detail. From choosing produce to making the most of each ingredient, small decisions can have a meaningful impact, bringing flavour, quality and a sense of purpose to the table. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-03-kl.-15.22.35.png",
+    "address": "",
+    "city": "",
+    "lat": 60.1710521,
+    "lon": 24.9280112,
+    "geocode_query": "Teller Finland",
+    "geocode_display_name": "Teller, 71, Fredrikinkatu, Leppäsuo, Etu-Töölö, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00100, Suomi / Finland"
+  },
+  {
     "name": "The Artisan",
     "country": "Switzerland",
     "category": "Restaurant",
@@ -3301,7 +3609,7 @@
     "lat": 47.3935843,
     "lon": 8.5296761,
     "geocode_query": "The Artisan Switzerland",
-    "geocode_display_name": "The Artisan, 4, Nordbrücke, Wipkingen, Kreis 10, Zürich, Bezirk Zürich, Zürich, 8037, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "The Artisan, 4, Nordbrücke, Wipkingen, Kreis 10, Zürich, Bezirk Zürich, Zürich, 8037, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "The Central House Lavapiés",
@@ -3332,6 +3640,20 @@
     "geocode_display_name": "The Dean Munich, Autograph Collection, 68, Landsberger Straße, Theresienhöhe, Westend, Schwanthalerhöhe, München, Bayern, 80339, Deutschland"
   },
   {
+    "name": "The Folks Hotel",
+    "country": "Finland",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/the-folks-hotel/",
+    "description": "Set in a former industrial district, The Folks Hotel brings new life to Helsinki’s Konepaja neighbourhood. Shared spaces, a communal kitchen and a restaurant and wine bar create a more connected way to stay, while its independently verified travel credentials reflect a commitment to doing things with care. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/kuva-cornerista-1.jpeg",
+    "address": "",
+    "city": "",
+    "lat": 60.192574,
+    "lon": 24.9453769,
+    "geocode_query": "The Folks Hotel Finland",
+    "geocode_display_name": "The Folks Hotel Konepaja, 21-23, Aleksis Kiven katu, Konepaja, Vallilan teollisuusalue, Vallila, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00510, Suomi / Finland"
+  },
+  {
     "name": "The Guesthouse Vienna",
     "country": "Austria",
     "category": "Hotel",
@@ -3354,8 +3676,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Skarmavbild-2026-09-22-kl.-15.41.49.png",
     "address": "",
     "city": "",
-    "lat": 40.4145221,
-    "lon": -3.7069829,
+    "lat": 40.4142787,
+    "lon": -3.7070796,
     "geocode_query": "The Hat Spain",
     "geocode_display_name": "The Hat, 9, Calle Imperial, Barrio de los Austrias, Sol, Centro, Madrid, Comunidad de Madrid, 28012, España"
   },
@@ -3396,10 +3718,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-12-kl.-16.38.39-1024x697.png",
     "address": "",
     "city": "",
-    "lat": 40.6114499,
-    "lon": 22.9855223,
+    "lat": 40.6691507,
+    "lon": 22.9105882,
     "geocode_query": "The Rooster Greece",
-    "geocode_display_name": "The Famous Rooster, 222, Γρηγορίου Λαμπράκη, Μαλακοπή, Άνω Τούμπα, Κοινότητα Πυλαίας, Δημοτική Ενότητα Πυλαίας, Δήμος Πυλαίας - Χορτιάτη, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 543 52, Ελλάς"
+    "geocode_display_name": "The Famous Rooster, Αγίου Αθανασίου, Νέα Πολιτεία, Εύοσμος, Κοινότητα Ευόσμου, Δημοτική Ενότητα Ευόσμου, Δήμος Κορδελιού - Ευόσμου, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 562 24, Ελλάς"
   },
   {
     "name": "The Usual",
@@ -3424,10 +3746,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/vint-sup-landscape-2.jpg",
     "address": "",
     "city": "",
-    "lat": 38.7169999,
-    "lon": -9.1551761,
+    "lat": 38.7110994,
+    "lon": -9.1478341,
     "geocode_query": "The Vintage Portugal",
-    "geocode_display_name": "The World of Vintage, Travessa de Santa Quitéria, Santa Isabel, Campo de Ourique, Lisboa, 1250-209, Portugal"
+    "geocode_display_name": "Sons of the Silent Age - Vintage, Calçada do Combro, Bairro Alto, Misericórdia, Lisboa, 1200-025, Portugal"
   },
   {
     "name": "Tian Bistro",
@@ -3497,7 +3819,7 @@
     "lat": 46.7490908,
     "lon": 9.557539,
     "geocode_query": "Valbella Resort Switzerland",
-    "geocode_display_name": "Valbella Resort, 4, Voa Selva, Valbella, Vaz/Obervaz, Albula/Alvra, Graubünden/Grischun/Grigioni, 7077, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Valbella Resort, 4, Voa Selva, Valbella, Vaz/Obervaz, Albula/Alvra, Graubünden/Grischun/Grigioni, 7077, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Vallmo",
@@ -3581,7 +3903,7 @@
     "lat": 47.3722779,
     "lon": 8.5487676,
     "geocode_query": "Villa Florhof Switzerland",
-    "geocode_display_name": "Villa Florhof, 4, Florhofgasse, Hochschulen, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Villa Florhof, 4, Florhofgasse, Hochschulen, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Villa Kabala",
@@ -3640,6 +3962,20 @@
     "geocode_display_name": "Volkshotel, 150, Wibautstraat, Parooldriehoek, Oost, Amsterdam, Noord-Holland, Nederland, 1091 GR, Nederland"
   },
   {
+    "name": "Vår",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-porvoo-var/",
+    "description": "Rooted in the Nordic landscape, Vår brings seasonal ingredients to life through thoughtful, inventive cooking. The kitchen follows nature’s changing rhythm, allowing flavours to evolve throughout the year. With a balance of precision and restraint, each dish offers a glimpse of its surroundings, celebrating the beauty of ingredients at their very best. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/vlk-1260x1680-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": 60.2463982,
+    "lon": 20.3509256,
+    "geocode_query": "Vår Finland",
+    "geocode_display_name": "Vargata, Vårdö, Ålands skärgård, Åland, 22550, Suomi / Finland"
+  },
+  {
     "name": "We Boutique Hotel",
     "country": "Spain",
     "category": "Hotel",
@@ -3654,6 +3990,20 @@
     "geocode_display_name": "Soho Boutique La Harinera, Carril Bici José Luis López Cerrón, Villa del Prado, Huerta del Rey, Valladolid, Castilla y León, 47009, España"
   },
   {
+    "name": "Wellamo",
+    "country": "Finland",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/wellamo/",
+    "description": "Surrounded by Finland’s rich aquatic landscapes, Wellamo offers a natural starting point for exploring the flavours of fish and seafood. Origin, season and catch all shape the ingredients that reach the kitchen. By treating them with care and letting their character shine, a meal becomes a celebration of the waters and food traditions that define the region. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/002145810022-7.webp",
+    "address": "",
+    "city": "",
+    "lat": 61.3659443,
+    "lon": 21.6178626,
+    "geocode_query": "Wellamo Finland",
+    "geocode_display_name": "Wellamo, 2, Nissintanhua, Luvia, Eurajoki, Rauman seutukunta, Satakunta, Manner-Suomi, 29100, Suomi / Finland"
+  },
+  {
     "name": "Widder Hotel",
     "country": "Switzerland",
     "category": "Hotel",
@@ -3665,7 +4015,7 @@
     "lat": 47.3724404,
     "lon": 8.5398562,
     "geocode_query": "Widder Hotel Switzerland",
-    "geocode_display_name": "Widder, 7, Rennweg, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Widder, 7, Rennweg, Lindenhof, Altstadt, Zürich, Bezirk Zürich, Zürich, 8001, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Willem Hiele",
@@ -3721,7 +4071,7 @@
     "lat": 47.3405767,
     "lon": 8.5381016,
     "geocode_query": "Wöschi Switzerland",
-    "geocode_display_name": "Wöschi, Forellenweg, Wollishofen, Kreis 2, Zürich, Bezirk Zürich, Zürich, 8038, Schweiz;Suisse;Svizzera;Svizra"
+    "geocode_display_name": "Wöschi, Forellenweg, Wollishofen, Kreis 2, Zürich, Bezirk Zürich, Zürich, 8038, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Yalo hotel",
