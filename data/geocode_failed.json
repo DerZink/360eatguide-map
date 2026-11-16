@@ -15,6 +15,11 @@
     "url": "https://360eatguide.com/restaurants/fishology-restaurant-barcelona/"
   },
   {
+    "name": "Gaptrast",
+    "country": "Norway",
+    "url": "https://360eatguide.com/restaurants/gaptrast/"
+  },
+  {
     "name": "Miiro Borneta",
     "country": "Spain",
     "url": "https://360eatguide.com/restaurants/miiro-borneta/"
@@ -38,6 +43,11 @@
     "name": "Shila",
     "country": "Greece",
     "url": "https://360eatguide.com/restaurants/shila/"
+  },
+  {
+    "name": "Skadir",
+    "country": "Norway",
+    "url": "https://360eatguide.com/restaurants/restaurants-skabo-skadir-skabu-fjellhotell/"
   },
   {
     "name": "Venn Canteen",

@@ -81,7 +81,7 @@
     "lat": 46.2504569,
     "lon": 20.1473537,
     "geocode_query": "Alkimista Kulináris Műhely Hungary",
-    "geocode_display_name": "Alkimista Kulináris Műhely, Somogyi utca, Belváros, Szeged, Szegedi járás, Csongrád-Csanád megye, Alföld és Észak, 6720, Magyarország"
+    "geocode_display_name": "Alkimista Kulináris Műhely, 15, Somogyi utca, Belváros, Szeged, Szegedi járás, Csongrád-Csanád megye, Alföld és Észak, 6720, Magyarország"
   },
   {
     "name": "Alma",
@@ -92,10 +92,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-08-kl.-14.10.15-838x1024.png",
     "address": "",
     "city": "",
-    "lat": 49.7033369,
-    "lon": 14.8978539,
+    "lat": 50.0787626,
+    "lon": 14.646649,
     "geocode_query": "Alma Czech Republic",
-    "geocode_display_name": "Alma, Lidická, Vlašim, okres Benešov, Středočeský kraj, 258 01, Česko"
+    "geocode_display_name": "Alma, 345, Starokolínská, Blatov, Újezd nad Lesy, Praha 21, obvod Praha 9, Praha, 190 16, Česko"
   },
   {
     "name": "Altstadt Vienna",
@@ -140,6 +140,20 @@
     "geocode_display_name": null
   },
   {
+    "name": "Arakataka",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-oslo-arakataka/",
+    "description": "Arakataka finds its identity in the space between fine dining and the neighbourhood bistro. An open kitchen, flexible menus and a lively wine programme create an atmosphere where culinary ambition meets everyday pleasure. Rather than relying on elaborate rituals, the restaurant lets carefully composed dishes and a strong sense of hospitality speak for themselves. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/12/Skarmavbild-2026-11-11-kl.-08.53.40.png",
+    "address": "",
+    "city": "",
+    "lat": 59.9163671,
+    "lon": 10.7505761,
+    "geocode_query": "Arakataka Norway",
+    "geocode_display_name": "Arakataka, Badstugata, Hausmannskvartalene, Hammersborg, St. Hanshaugen, Oslo, 0181, Norge"
+  },
+  {
     "name": "Arthotel Blaue Gans",
     "country": "Austria",
     "category": "Hotel",
@@ -176,8 +190,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/19-07-August-Antwerp-1364-2.jpg",
     "address": "",
     "city": "",
-    "lat": 51.202283,
-    "lon": 4.422281,
+    "lat": 51.2020729,
+    "lon": 4.4222488,
     "geocode_query": "August Belgium",
     "geocode_display_name": "August, Jules Bordetstraat, 't Groen Kwartier, Haringrode, Antwerpen, Vlaanderen, 2018, België / Belgique / Belgien"
   },
@@ -218,8 +232,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2025/07/platos_02.1800x0.jpg",
     "address": "",
     "city": "",
-    "lat": 42.8942266,
-    "lon": -2.1726309,
+    "lat": 42.8936855,
+    "lon": -2.1730032,
     "geocode_query": "Bakea Spain",
     "geocode_display_name": "Bakea, Altsasu / Alsasua, Sakana, Navarra, Navarra / Nafarroa, 31800, España"
   },
@@ -250,6 +264,20 @@
     "lon": -8.6394501,
     "geocode_query": "Barro Spain",
     "geocode_display_name": "Barro, Pontevedra, Galicia, 36194, España"
+  },
+  {
+    "name": "Bekkjarvik Gjestgiveri",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/bekkjarvik-gjestgiveri/",
+    "description": "A historic coastal inn where local ingredients and culinary heritage take centre stage. Rooted in the traditions of the archipelago, the kitchen celebrates seasonal produce, regional suppliers and Norwegian craftsmanship, creating a genuine sense of place through food and a strong connection to the surrounding community. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Beckerwyc_Feb24_007-2048x1365-1-1024x683.jpg",
+    "address": "",
+    "city": "",
+    "lat": 60.007006,
+    "lon": 5.2034777,
+    "geocode_query": "Bekkjarvik Gjestgiveri Norway",
+    "geocode_display_name": "Bekkjarvik Gjestgiveri, Bekkjarvik, Drivenes, Bekkjarvik, Austevoll, Vestland, 5397, Norge"
   },
   {
     "name": "Berbena",
@@ -372,10 +400,24 @@
     "image": "https://360eatguide.com/wp-content/uploads/2025/02/BrasserieUno-pumpkin2.jpg",
     "address": "",
     "city": "",
-    "lat": 46.0191989,
-    "lon": 7.7474889,
+    "lat": 46.0191507,
+    "lon": 7.747496,
     "geocode_query": "Brasserie Uno Switzerland",
     "geocode_display_name": "Brasserie Uno, 38, Kirchstrasse, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz / Suisse / Svizzera / Svizra"
+  },
+  {
+    "name": "Brimibue Hotel",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/brimibue-hotel/",
+    "description": "Rooted in the culinary traditions of Gudbrandsdalen, Brimibue celebrates Norwegian ingredients through Arne Brimi’s distinctive food philosophy. Local producers, seasonal mountain produce and traditional craftsmanship, create a genuine taste of the region. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-12-kl.-09.48.15-796x1024.png",
+    "address": "",
+    "city": "",
+    "lat": 61.8372431,
+    "lon": 8.567416,
+    "geocode_query": "Brimibue Hotel Norway",
+    "geocode_display_name": "Brimibue, Sognefjellsvegen, Prestøye, Fossbergom, Lom, Innlandet, 2686, Norge"
   },
   {
     "name": "Brion",
@@ -390,6 +432,20 @@
     "lon": 5.33761,
     "geocode_query": "Brion France",
     "geocode_display_name": "Brion, Vienne, Isère, Auvergne-Rhône-Alpes, France métropolitaine, 38590, France"
+  },
+  {
+    "name": "Britannia",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/britannia/",
+    "description": "A grand hotel with a strong sense of culinary ambition, where Norwegian ingredients meet exceptional craftsmanship. From Speilsalen to Palmehaven, gastronomy takes centre stage, complemented by a renewed historic building and a growing commitment to responsible luxury. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Britannia-Signature-Suite-312_photo-DreyerHensley_Job_12001_72dpi-2560x1920-1.webp",
+    "address": "",
+    "city": "",
+    "lat": 63.4317139,
+    "lon": 10.3987305,
+    "geocode_query": "Britannia Norway",
+    "geocode_display_name": "Britannia Hotel, Dronningens gate, Nerbyen, Bakklandet, Midtbyen, Trondheim, Trøndelag, 7011, Norge"
   },
   {
     "name": "Brody House",
@@ -697,7 +753,7 @@
     "lat": 38.6014411,
     "lon": -7.8890927,
     "geocode_query": "Convento do Espinheiro Portugal",
-    "geocode_display_name": "Convento do Espinheiro, Estrada do Espinheiro, Espinheiro, Patão, Canaviais, Évora, 7002-502, Portugal"
+    "geocode_display_name": "Convento do Espinheiro, CM 1089, Espinheiro, Canaviais, Évora, 7002-502, Portugal"
   },
   {
     "name": "Culinarium Alpinum",
@@ -711,7 +767,7 @@
     "lat": 46.9554421,
     "lon": 8.3693747,
     "geocode_query": "Culinarium Alpinum Switzerland",
-    "geocode_display_name": "Culinarium Alpinum, 18, Mürgstrasse, Stans, Nidwalden, 6370, Schweiz / Suisse / Svizzera / Svizra"
+    "geocode_display_name": "Culinarium Alpinum, Mürgstrasse, Stans, Nidwalden, 6371, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Culler de Pau",
@@ -896,6 +952,20 @@
     "geocode_display_name": "Hotel Eco Alcala Suites, 24, Calle de Santa Leonor, Polígono Industrial Julián Camarillo, Simancas, San Blas - Canillejas, Madrid, Comunidad de Madrid, 28037, España"
   },
   {
+    "name": "Eilert Smith Hotel",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/eilertsmithhotel/",
+    "description": "An intimate architectural gem where design and gastronomy meet. Home to RE-NAA, the hotel offers an extraordinary exploration of Norwegian ingredients, with a culinary philosophy centredon seasonality, precision, creativity and respect for the produce. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Eilert_hamremoen-1-1536x1536.jpg.webp",
+    "address": "",
+    "city": "",
+    "lat": 58.9740659,
+    "lon": 5.7308352,
+    "geocode_query": "Eilert Smith Hotel Norway",
+    "geocode_display_name": "Eilert Smith Hotel, Baades gate, Holmen, Storhaug, Stavanger, Rogaland, 4006, Norge"
+  },
+  {
     "name": "El Invernadero",
     "country": "Spain",
     "category": "Restaurant",
@@ -1022,6 +1092,20 @@
     "geocode_display_name": null
   },
   {
+    "name": "Farris Bad",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/farris-bad/",
+    "description": "Where the sea inspires both wellbeing and gastronomy. With the coastline as its backdrop, FarrisBad invites guests to reconnect with nature through seasonal flavours, thoughtful hospitality anda holistic approach to relaxation. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/FUJI2248___media_library_original_914_1371.jpg.webp",
+    "address": "",
+    "city": "",
+    "lat": 59.0494615,
+    "lon": 10.020538,
+    "geocode_query": "Farris Bad Norway",
+    "geocode_display_name": "Farris Bad, Stavernsveien, Batteritomta, Sanden, Larvik, Vestfold, 3264, Norge"
+  },
+  {
     "name": "Faz Frio",
     "country": "Portugal",
     "category": "Restaurant",
@@ -1048,6 +1132,20 @@
     "lon": null,
     "geocode_query": null,
     "geocode_display_name": null
+  },
+  {
+    "name": "Fjærland Fjordstove Hotel",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/fjaerland-fjordstove-hotel/",
+    "description": "A small fjordside retreat with a big appreciation for local food culture. Garden-grown herbs, regional produce and freshly caught seafood tell the story of Fjærland, while a thoughtful approach to resources and local partnerships keeps the experience close to its roots. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/image-asset.jpeg.webp",
+    "address": "",
+    "city": "",
+    "lat": 61.4064193,
+    "lon": 6.7423298,
+    "geocode_query": "Fjærland Fjordstove Hotel Norway",
+    "geocode_display_name": "Fjærland Fjordstove Hotel, Fjærlandsfjorden, Mundal, Fjærland, Sogndal, Vestland, 6848, Norge"
   },
   {
     "name": "Flocon",
@@ -1106,6 +1204,20 @@
     "geocode_display_name": "Franca, Tudela, Ribera / Erribera, Navarra, Navarra / Nafarroa, 31500, España"
   },
   {
+    "name": "Funken Lodge",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/funken-lodge/",
+    "description": "At the edge of the Arctic wilderness, Funken Lodge brings a refined culinary experience to one ofthe world’s most extraordinary landscapes. Arctic ingredients and international influences meeting a setting where respect for the fragile environment is essential. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Funken_Lodge_EHeier_22_2.jpg-scaled.webp",
+    "address": "",
+    "city": "",
+    "lat": 78.2113665,
+    "lon": 15.6238745,
+    "geocode_query": "Funken Lodge Norway",
+    "geocode_display_name": "Funken Lodge (formerly Spitsbergen Hotel), Vei 212, Longyearbyen, Gamle Longyearbyen, Haugen, Longyearbyen, Nordenskiöld Land, Svalbard, 9170, Norge"
+  },
+  {
     "name": "Gaia Hotel",
     "country": "Switzerland",
     "category": "Hotel",
@@ -1132,6 +1244,34 @@
     "lon": 7.8524924,
     "geocode_query": "Gamper Switzerland",
     "geocode_display_name": "Gamper, Riken AG, Murgenthal, Bezirk Zofingen, Aargau, 4853, Schweiz / Suisse / Svizzera / Svizra"
+  },
+  {
+    "name": "Gaptrast",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/gaptrast/",
+    "description": "At Gaptrast, the experience begins with cider and a closer look at ingredients that have been carefully dry-aged before the meal unfolds across several distinct spaces. Preservation, charcoal and unexpected flavour combinations define a kitchen that draws directly from western Norway’s fishermen, farmers and hunters. With an intimate dining room of just 26 seats, its ambitious tasting menu is as much a study in patience as in precision. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/02/GT_Bark_030624_0440.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null,
+    "geocode_query": null,
+    "geocode_display_name": null
+  },
+  {
+    "name": "Gartneriet Spiseri",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/gartneriet-spiseri/",
+    "description": "At Bygdø Kongsgård, the menu begins long before the kitchen: in the vegetable gardens, greenhouses, fields and dairy of the historic royal farm. Unusual ingredients and forgotten harvests find their way to the table, while pickling and fermentation make the estate’s own organic produce available throughout the year. A farm-to-table philosophy in its most literal form, recognised with Debio’s Gold Label. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-11-kl.-09.15.42-826x1024.png",
+    "address": "",
+    "city": "",
+    "lat": 59.2834738,
+    "lon": 10.0833907,
+    "geocode_query": "Gartneriet Norway",
+    "geocode_display_name": "Gartneriet, Landsbyveien, Vidaråsen, Sandefjord, Vestfold, 3158, Norge"
   },
   {
     "name": "Genuíno",
@@ -1218,6 +1358,20 @@
     "geocode_display_name": "Grön, 36, Albertinkatu, Kamppi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00180, Suomi / Finland"
   },
   {
+    "name": "Hattvika Lodge",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hattvika-lodge/",
+    "description": "With the ocean as its pantry, Hattvika Lodge celebrates the flavours of Lofoten through freshly caught seafood, foraged ingredients and close relationships with local fishermen. A genuine sea-to-table philosophy makes the surrounding landscape an integral part of every meal. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Bilde-10.01.2022-MD-HILLSIDE-scaled-e1643975069996.jpg",
+    "address": "",
+    "city": "",
+    "lat": 68.0714595,
+    "lon": 13.5479904,
+    "geocode_query": "Hattvika Lodge Norway",
+    "geocode_display_name": "Hattvika Lodge, Hattvikveien, Ballstad, Vestvågøy, Nordland, 8373, Norge"
+  },
+  {
     "name": "Hearth",
     "country": "Netherlands",
     "category": "Restaurant",
@@ -1288,6 +1442,20 @@
     "geocode_display_name": "Henriette Stadthotel Vienna, 44-46, Praterstraße, Czerninviertel, Leopoldstadt, Katastralgemeinde Leopoldstadt, Leopoldstadt, Wien, 1020, Österreich"
   },
   {
+    "name": "Hermetikken",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/hermetikken/",
+    "description": "In a restaurant owned by its sommeliers, wine is not an accompaniment but part of the identity. Hermetikken celebrates independent producers and bottles with personality, while the kitchen works with an intriguing economy of ingredients. A duck served three ways – breast, ragout and sausage – captures its approach particularly well: nothing superfluous, every part given its own expression. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/12/Hermetikken-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": 58.9726585,
+    "lon": 5.7512226,
+    "geocode_query": "Hermetikken Norway",
+    "geocode_display_name": "Hermetikken, Badehusgata, Jammerdalen, Nylund, Storhaug, Stavanger, Rogaland, 4014, Norge"
+  },
+  {
     "name": "Heunisch & Erben",
     "country": "Austria",
     "category": "Restaurant",
@@ -1300,6 +1468,20 @@
     "lon": 16.387981,
     "geocode_query": "Heunisch & Erben Austria",
     "geocode_display_name": "Heunisch Und Erben, 17, Landstraßer Hauptstraße, Landstraße, Katastralgemeinde Landstraße, Landstraße, Wien, 1030, Österreich"
+  },
+  {
+    "name": "Hindsæter Hotel",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hindsaeter-hotel/",
+    "description": "Authentic mountain food inspired by the surrounding nature. Reindeer, trout, wild herbs and local ingredients bring the flavours of the region to the table, while traditional food methods and a close connection to local producers keep the experience rooted in its landscape. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/L6A5155-2.jpg",
+    "address": "",
+    "city": "",
+    "lat": 61.6177521,
+    "lon": 8.9680466,
+    "geocode_query": "Hindsæter Hotel Norway",
+    "geocode_display_name": "Hindsæter Fjellhotell, Sjodalsvegen, Hindsæter, Vågå, Innlandet, Norge"
   },
   {
     "name": "Hobenköök",
@@ -1330,6 +1512,34 @@
     "geocode_display_name": "Hobo Hotel, 4, Kluuvikatu, Kaisaniemi, Kluuvi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00100, Suomi / Finland"
   },
   {
+    "name": "Hoel Gård",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-gard/",
+    "description": "A historic farm where the journey from field to table is wonderfully short. Homegrown vegetables, grains, fruit and farm produce form the foundation of a seasonal kitchen, celebrating agriculturalheritage, self-sufficiency and the richness of the surrounding landscape. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/0f874ae8-51f1-45d2-bf0f-afdeec9d3e71.jpg.png",
+    "address": "",
+    "city": "",
+    "lat": 60.7672843,
+    "lon": 10.9040751,
+    "geocode_query": "Hoel Gård Norway",
+    "geocode_display_name": "Hoel gård, Hoel, Ringsaker, Innlandet, Norge"
+  },
+  {
+    "name": "Holmen Lofoten",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/holmen-lofoten/",
+    "description": "A remote coastal hideaway where gastronomy follows the rhythm of nature. Local seafood, wildherbs and traditional preservation techniques capture the flavours of Lofoten, while a thoughtful approach to ingredients reflects a deep respect for this fragile landscape. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/STV0669.HOL_.OCT_.0789-scaled-e1639178229376.jpg",
+    "address": "",
+    "city": "",
+    "lat": 59.946444,
+    "lon": 10.678108,
+    "geocode_query": "Holmen Norway",
+    "geocode_display_name": "Holmen, Vestre Aker, Oslo, 0376, Norge"
+  },
+  {
     "name": "Horváth",
     "country": "Germany",
     "category": "Restaurant",
@@ -1356,6 +1566,20 @@
     "lon": 2.1136566,
     "geocode_query": "Hostal Grau Spain",
     "geocode_display_name": "Hostal Grau, 6, Carrer de Verdaguer, l'Estany, Moianès, Barcelona, Catalunya, 08148, España"
+  },
+  {
+    "name": "Hotel 1904",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-1904/",
+    "description": "Set in the heart of Ålesund’s Art Nouveau district, Hotel 1904 brings together historic architectureand contemporary hospitality. Its culinary offering draws inspiration from local seafood and seasonalNorwegian produce, celebrating the flavours and identity of the region. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/gMgJsuK6FYukK4F3HR2Y15mnZHM.png.webp",
+    "address": "",
+    "city": "",
+    "lat": 62.4727852,
+    "lon": 6.1584626,
+    "geocode_query": "Hotel 1904 Norway",
+    "geocode_display_name": "Hotel 1904, Løvenvoldgata, Slinningen, Ålesund, Møre og Romsdal, 6002, Norge"
   },
   {
     "name": "Hotel Albergaria do Calvário",
@@ -1398,6 +1622,20 @@
     "lon": 5.2137735,
     "geocode_query": "Hotel Bent Netherlands",
     "geocode_display_name": "Bent, 2-1, Vennelaan, Oisterwijk, Noord-Brabant, Nederland, 5062 SR, Nederland"
+  },
+  {
+    "name": "Hotel Brosundet",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-brosundet/",
+    "description": "Surrounded by the maritime heritage of Ålesund, Hotel Brosundet puts the ocean at the heart ofits identity. Local seafood, regional producers and a strong connection to the coastal communitycreate an experience where gastronomy and place are inseparable. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-12-kl.-13.20.29.png",
+    "address": "",
+    "city": "",
+    "lat": 62.4720796,
+    "lon": 6.1520905,
+    "geocode_query": "Hotel Brosundet Norway",
+    "geocode_display_name": "Hotel Brosundet, Apotekergata, Slinningen, Ålesund, Møre og Romsdal, 6004, Norge"
   },
   {
     "name": "Hotel Casa Treviño",
@@ -1492,10 +1730,24 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Studio-Aline-Friant-Hoste-116.jpg.webp",
     "address": "",
     "city": "",
-    "lat": 51.2210482,
-    "lon": 4.4061087,
+    "lat": 51.2210248,
+    "lon": 4.4062475,
     "geocode_query": "Hotel Franq Belgium",
     "geocode_display_name": "Hotel Franq, 10, Kipdorp, Universiteitsbuurt, Antwerpen, Vlaanderen, 2000, België / Belgique / Belgien"
+  },
+  {
+    "name": "Hotel Frøya",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-froya/",
+    "description": "In the heart of Norway’s seafood capital, Hotel Frøya is surrounded by some of the country’s richest fishing grounds. The maritime landscape, local producers and strong island identity provide a natural foundation for a hospitality experience rooted in its community. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/f4a11d6c-51ef-4d74-b840-9b73f6eb134d.jpg.png",
+    "address": "",
+    "city": "",
+    "lat": 63.7293655,
+    "lon": 8.8288717,
+    "geocode_query": "Hotel Frøya Norway",
+    "geocode_display_name": "Hotell Frøya, Sørveien, Midtsian, Grønnskaget, Sistranda, Frøya, Trøndelag, 7260, Norge"
   },
   {
     "name": "Hotel Gilbert",
@@ -1579,7 +1831,7 @@
     "lat": 50.4563746,
     "lon": 3.9334838,
     "geocode_query": "Hotel Belgium",
-    "geocode_display_name": "Hotel, Rue de la Sucrerie, Les Grands Prés, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
+    "geocode_display_name": "Hotel, 1, Place des Grands Prés, Les Grands Prés, Faubourg du Parc, Mons, Hainaut, Wallonie, 7000, België / Belgique / Belgien"
   },
   {
     "name": "Hotel Karl August",
@@ -1666,6 +1918,20 @@
     "geocode_display_name": "Hotel Nestor, 45, Österretaisvägen, Österretais, Korpo, Pargas, Åboland, Varsinais-Suomi, Manner-Suomi, 21710, Suomi / Finland"
   },
   {
+    "name": "Hotel Norge by Scandic",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-norge-by-scandic/",
+    "description": "A vibrant meeting place in the heart of Bergen, where contemporary dining embraces the flavours of Western Norway. Local ingredients and regional food traditions meet international influences, while a focus on responsible operations brings a more conscious dimension to urban hospitality. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/images.webp",
+    "address": "",
+    "city": "",
+    "lat": 60.391323,
+    "lon": 5.3233467,
+    "geocode_query": "Hotel Norge by Scandic Norway",
+    "geocode_display_name": "Hotel Norge by Scandic, Krinkelkroken, Sentrum, Skuteviken, Bergenhus, Bergen, Vestland, 5015, Norge"
+  },
+  {
     "name": "Hotel Pilar",
     "country": "Belgium",
     "category": "Hotel",
@@ -1691,7 +1957,7 @@
     "lat": 33.2529651,
     "lon": -8.5024832,
     "geocode_query": "Hotel France",
-    "geocode_display_name": "Hotel France ( Ex Atlantis ), Avenue Suez, Place El Hansali, Place El Hansali ساحة الحنصلي, 2ème Arrondissement, pachalik d'El Jadida ⵍⵊⴰⴷⵉⴷⴰ الجديدة, Province d'El Jadida إقليم الجديدة, Casablanca-Settat ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ-ⵙⵟⵟⴰⵜ الدار البيضاء-سطات, 24010, Maroc ⵍⵎⵖⵔⵉⴱ المغرب"
+    "geocode_display_name": "Hotel France ( Ex Atlantis ), Avenue Moulay Abdelhafid, Port d'El Jadida, Place El Hansali ساحة الحنصلي, 2ème Arrondissement, pachalik d'El Jadida ⵍⵊⴰⴷⵉⴷⴰ الجديدة, Province d'El Jadida إقليم الجديدة, Casablanca-Settat ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ-ⵙⵟⵟⴰⵜ الدار البيضاء-سطات, 24010, Maroc ⵍⵎⵖⵔⵉⴱ المغرب"
   },
   {
     "name": "Hotel Rum",
@@ -1776,6 +2042,20 @@
     "lon": 2.1425262,
     "geocode_query": "Hotel Torre Spain",
     "geocode_display_name": "Nobu Hotel Barcelona, 2, Avinguda de Roma, la Nova Esquerra de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08014, España"
+  },
+  {
+    "name": "Hotel Victoria",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-victoria/",
+    "description": "A timeless Stavanger landmark where classic hospitality meets contemporary dining. Inspired by French brasserie culture and the city’s cosmopolitan character, Hotel Victoria celebrates the pleasure of good food while preserving an important piece of local architectural heritage. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/226_VictoriaSuite_v4_1.jpg.webp",
+    "address": "",
+    "city": "",
+    "lat": 60.3933313,
+    "lon": 5.330319,
+    "geocode_query": "Hotel Victoria Norway",
+    "geocode_display_name": "Hotel Victoria Bergen, Kong Oscars gate, Marken, Skuteviken, Bergenhus, Bergen, Vestland, 5017, Norge"
   },
   {
     "name": "Hotell Stallbacken",
@@ -1912,8 +2192,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/02/Skarmavbild-2026-09-16-kl.-11.32.41-765x1024.png",
     "address": "",
     "city": "",
-    "lat": 52.6179977,
-    "lon": 6.9797177,
+    "lat": 52.615587,
+    "lon": 6.9728177,
     "geocode_query": "Julius Ernst Germany",
     "geocode_display_name": "Ernst-Julius-Straße, Alexisdorf, Neugnadenfeld, Ringe, Samtgemeinde Emlichheim, Landkreis Grafschaft Bentheim, Niedersachsen, 49824, Deutschland"
   },
@@ -1960,6 +2240,48 @@
     "geocode_display_name": "Kle, 114, Zweierstrasse, Sihlfeld, Kreis 3, Zürich, Bezirk Zürich, Zürich, 8003, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
+    "name": "Kolonialen",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/kolonialenbislett/",
+    "description": "With more than 800 wines in its cellar, this neighbourhood favourite has a distinctly European soul. Its kitchen combines a thoughtful approach to sourcing with the pleasures of seasonal bistro cooking, while a serious appreciation for independent wine producers gives the experience its character. An expression of Oslo’s dining culture where culinary ambition and everyday conviviality comfortably coexist. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-04-kl.-10.34.13.png",
+    "address": "",
+    "city": "",
+    "lat": 60.38918,
+    "lon": 5.317265,
+    "geocode_query": "Kolonialen Norway",
+    "geocode_display_name": "Kolonialen, Dokkeveien, Sydnes, Skuteviken, Bergenhus, Bergen, Vestland, 5010, Norge"
+  },
+  {
+    "name": "Kolonihagen Frogner",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/kolonihagen-frogner/",
+    "description": "Less than 50 kilos of food waste a year, serving around 11,000 guests: an extraordinary figure that gives Kolonihagen Frogner a story beyond its organic credentials. Its approach, summed up as “organic or better”, extends from regenerative agriculture and animal welfare to the people behind the ingredients. A rare example of turning a philosophy into measurable everyday practice. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-11-kl.-09.10.55-853x1024.png",
+    "address": "",
+    "city": "",
+    "lat": 59.918924,
+    "lon": 10.709921,
+    "geocode_query": "Kolonihagen Frogner Norway",
+    "geocode_display_name": "Kolonihagen, Frognerveien, Schafteløkken, Frogner, Oslo, 0266, Norge"
+  },
+  {
+    "name": "Kontrast",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-oslo-kontrast/",
+    "description": "What others might discard often becomes the starting point for something extraordinary. Jerusalem artichoke skins are turned into ice cream, apple remnants into cider vinegar, and kitchen trimmings into garum, oils and compost. Working almost exclusively with organic or wild ingredients, Mikael Svensson’s kitchen pairs technical ambition with an uncompromising respect for the full potential of every ingredient. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/12/67e5bc7c4cc860604b2018ac_Kontrast_060225_0143.jpeg",
+    "address": "",
+    "city": "",
+    "lat": 59.9229058,
+    "lon": 10.7512391,
+    "geocode_query": "Kontrast Norway",
+    "geocode_display_name": "Restaurant Kontrast, Maridalsveien, Fredensborg, Grünerløkka, Oslo, 0178, Norge"
+  },
+  {
     "name": "Korek",
     "country": "Czech Republic",
     "category": "Restaurant",
@@ -1968,8 +2290,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-09-kl.-08.43.56-760x1024.png",
     "address": "",
     "city": "",
-    "lat": 50.1054681,
-    "lon": 14.3593556,
+    "lat": 50.1061223,
+    "lon": 14.3607212,
     "geocode_query": "Korek Czech Republic",
     "geocode_display_name": "Korek, V Šáreckém údolí, Jenerálka, Praha 6, obvod Praha 6, Praha, 162 00, Česko"
   },
@@ -2014,6 +2336,20 @@
     "lon": 27.7587984,
     "geocode_query": "Kuurna Finland",
     "geocode_display_name": "Kuurna, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87250, Suomi / Finland"
+  },
+  {
+    "name": "Kvitnes Gård",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-kvitnes-kvitnes-gard/",
+    "description": "A farm where the kitchen, fields, orchards and livestock are part of the same living system. Through traditional Norwegian preservation techniques, the abundance of summer is carried into the long northern winter. Here, the relationship between cultivation, animal husbandry and cooking is not an abstract philosophy but an everyday reality, with the surrounding landscape providing both sustenance and inspiration. What inspired you to become self-sufficient, and what are the biggest challenges? -Our main motivation was to create a truly sustainable and responsible food system, where we know exactly where everything comes from. We haven’t bought vegetables, herbs, flowers nor salads since June 2022. We raise our own meat here at the farm, and have wild sheep, cows, pigs, chickens, goats, and quails. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/12/kvitnes©eivind_natvig_008-1024x684.jpg",
+    "address": "",
+    "city": "",
+    "lat": 68.5718839,
+    "lon": 15.2256062,
+    "geocode_query": "Kvitnes Norway",
+    "geocode_display_name": "Kvitnes, Hadsel, Nordland, 8413, Norge"
   },
   {
     "name": "Kástu by Pajta",
@@ -2212,6 +2548,20 @@
     "geocode_display_name": "Das kleine Wirtshaus - Lilli & Jojo, 22, Sulztal an der Weinstraße, Sulztal, Katastralgemeinde Sulztal, Gamlitz, Bezirk Leibnitz, Steiermark, 8461, Österreich"
   },
   {
+    "name": "Liminal",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-oslo-liminal/",
+    "description": "Six tables, six bar seats and a kitchen that keeps its world deliberately small. Liminal draws on its own cultivation and a close network of growers, while fermentation and preservation allow the harvest to travel beyond its natural season. Even its Saturday lunch takes a different direction, celebrating the Scandinavian tradition of smørrebrød. Intimate, resourceful and quietly distinctive. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/12/Bilde-10.07.2024-17-01-58-1-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": 59.933186,
+    "lon": 10.766989,
+    "geocode_query": "Liminal Norway",
+    "geocode_display_name": "Liminal, Torshovgata, Torshov, Sagene, Oslo, 0474, Norge"
+  },
+  {
     "name": "Linou Soumpasis & Co",
     "country": "Greece",
     "category": "Restaurant",
@@ -2308,6 +2658,20 @@
     "lon": 5.3456123,
     "geocode_query": "Lutum Netherlands",
     "geocode_display_name": "Restaurant Lutum, 15, Markt, Binnenstad, Wijk bij Duurstede, Utrecht, Nederland, 3961 BC, Nederland"
+  },
+  {
+    "name": "Lysebu",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/lysebu/",
+    "description": "Surrounded by forest and mountain landscapes, Lysebu brings Norwegian food culture to the table through seasonal produce, its own gardens, greenhouse and beehives. Local sourcing, resource-conscious operations and a strong connection to nature make sustainability part of its everyday philosophy. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-12-kl.-14.24.18.png",
+    "address": "",
+    "city": "",
+    "lat": 59.9776685,
+    "lon": 10.6561685,
+    "geocode_query": "Lysebu Norway",
+    "geocode_display_name": "Lysebu, Voksen skog, Vestre Aker, Oslo, Norge"
   },
   {
     "name": "L’air du temps",
@@ -2420,6 +2784,20 @@
     "lon": 24.947383,
     "geocode_query": "Manna Greece",
     "geocode_display_name": "Μάννα, Δήμος Σύρου-Ερμούπολης, Περιφερειακή Ενότητα Σύρου, Περιφέρεια Νοτίου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, 841 00, Ελλάς"
+  },
+  {
+    "name": "Manshausen",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/manshausen/",
+    "description": "An island retreat where the landscape becomes both pantry and inspiration. Fresh seafood, wild ingredients and garden produce reflect the flavours of Northern Norway, while thoughtful architecture and a close relationship with nature create a compelling vision of low-impact hospitality. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/6d60b2_e9bb976f9b864a428b140c5930844bb9mv2.jpg",
+    "address": "",
+    "city": "",
+    "lat": 67.8357389,
+    "lon": 14.7738326,
+    "geocode_query": "Manshausen Norway",
+    "geocode_display_name": "Manshausen, Nordskotveien, Nordskot, Steigen, Nordland, Norge"
   },
   {
     "name": "Margot House",
@@ -2730,6 +3108,20 @@
     "geocode_display_name": "Neder-Betuwe, Gelderland, Nederland"
   },
   {
+    "name": "Nektar Vinbar",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/nektar-vinbar/",
+    "description": "Housed in a red wooden building dating back to 1814, Nektar brings the spirit of European wine bars to Oslo. Its cellar champions small growers who work with respect for their land, while the kitchen builds relationships with an impressive network of Norwegian farms and artisan producers. Biodynamic bottles, animal welfare and generous sharing plates make this a place where provenance extends well beyond the glass. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-11-kl.-10.18.21.png",
+    "address": "",
+    "city": "",
+    "lat": 59.92041,
+    "lon": 10.74914,
+    "geocode_query": "Nektar Vinbar Norway",
+    "geocode_display_name": "Nektar Vinbar, Fredensborgveien, Regjeringskvartalet, Hammersborg, St. Hanshaugen, Oslo, 0178, Norge"
+  },
+  {
     "name": "Neon",
     "country": "Belgium",
     "category": "Restaurant",
@@ -2842,6 +3234,20 @@
     "geocode_display_name": "Zeeman op de uitkijk, Sumatrakade, Java-eiland, Oostelijk Havengebied, Oost, Amsterdam, Noord-Holland, Nederland, 1021 PC, Nederland"
   },
   {
+    "name": "Osloslo",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/osloslo/",
+    "description": "One ingredient, an entire menu, a new perspective every month. At OSLOSLO, seasonal Norwegian vegetables take centre stage, reimagined through techniques and flavours borrowed from kitchens around the world. From leek to Jerusalem artichoke, the changing theme turns culinary limitation into creative freedom. Founded on the belief that eating well should be accessible, this intimate bistro makes vegetables the protagonists rather than the supporting act. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-11-kl.-10.22.15.png",
+    "address": "",
+    "city": "",
+    "lat": 59.9149262,
+    "lon": 10.7480315,
+    "geocode_query": "Osloslo Norway",
+    "geocode_display_name": "OSLOSLO, Youngstorget, Regjeringskvartalet, Hammersborg, St. Hanshaugen, Oslo, 0181, Norge"
+  },
+  {
     "name": "Otto",
     "country": "Germany",
     "category": "Restaurant",
@@ -2906,8 +3312,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-21-kl.-14.39.26-881x1024.png",
     "address": "",
     "city": "",
-    "lat": 48.8631928,
-    "lon": 2.3566053,
+    "lat": 48.8633016,
+    "lon": 2.3566354,
     "geocode_query": "Parcelles France",
     "geocode_display_name": "Parcelles, Rue Chapon, Quartier Sainte-Avoye, Paris 3e Arrondissement, Paris, Île-de-France, France métropolitaine, 75003, France"
   },
@@ -2979,7 +3385,7 @@
     "lat": 47.501958,
     "lon": 19.059009,
     "geocode_query": "Petit Hungary",
-    "geocode_display_name": "Le Petit Beefbar, Dalszínház utca, Terézváros, VI. kerület, Budapest, 1061, Magyarország"
+    "geocode_display_name": "Le Petit Beefbar, 25, Andrássy út, Terézváros, VI. kerület, Budapest, 1061, Magyarország"
   },
   {
     "name": "Pharao",
@@ -3206,6 +3612,20 @@
     "geocode_display_name": "Regain, Roudaret, Saignon, Apt, Vaucluse, Provence-Alpes-Côte d'Azur, France métropolitaine, 84400, France"
   },
   {
+    "name": "Restaurang Smak",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurant-smak/",
+    "description": "Founded by Eva-Linda and Espen Ramnestedt, Restaurant Smak offers a deeply personal interpretation of Arctic gastronomy. Game, seafood, herbs and produce from Northern Norway are transformed through techniques such as smoking, drying and fermentation. With just seven tables and room for 22 guests, the experience feels less like a restaurant visit and more like being welcomed into someone’s culinary world. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-11-kl.-10.12.07-1019x1024.png",
+    "address": "",
+    "city": "",
+    "lat": 69.6664952,
+    "lon": 18.9714574,
+    "geocode_query": "Restaurang Smak Norway",
+    "geocode_display_name": "Smak, Alfons veg, Guleng, Tromsø, Troms, 9010, Norge"
+  },
+  {
     "name": "Restaurant Bidlabu",
     "country": "Germany",
     "category": "Restaurant",
@@ -3218,6 +3638,20 @@
     "lon": 8.6742508,
     "geocode_query": "Restaurant Bidlabu Germany",
     "geocode_display_name": "Bidlabu, 14, Kleine Bockenheimer Straße, Innenstadt, Innenstadt 1, Frankfurt am Main, Hessen, 60313, Deutschland"
+  },
+  {
+    "name": "Restaurant K2",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-stavanger-k2/",
+    "description": "Eleventh-generation farmers, island-grown vegetables and whey from a neighbouring cheesemaker all find their way into one remarkably interconnected kitchen. Rooted in Rogaland, K2 builds its menus around the people who grow, raise and harvest its ingredients. Even the non-alcoholic pairing is made in-house, reflecting a culinary philosophy where close relationships and resourcefulness are as important as technique. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/12/360-4-Anna-Saatvedt-1024x837.png",
+    "address": "",
+    "city": "",
+    "lat": 58.9697336,
+    "lon": 5.746152,
+    "geocode_query": "Restaurant K2 Norway",
+    "geocode_display_name": "Restaurant K2, Pedersgata, Jammerdalen, Blåsenborg, Storhaug, Stavanger, Rogaland, 4013, Norge"
   },
   {
     "name": "Restaurant OZ",
@@ -3316,6 +3750,20 @@
     "lon": null,
     "geocode_query": null,
     "geocode_display_name": null
+  },
+  {
+    "name": "Sabotage",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/sabotage/",
+    "description": "It began around a bonfire in the forest. Three chefs, united by experience in some of the world’s most demanding kitchens, decided to build a restaurant on their own terms. Gathering and harvesting ingredients themselves, they bring together French finesse, Polish hospitality and Norwegian nature. Serious cooking without the ceremony: a kitchen where curiosity, independence and camaraderie are part of the recipe. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/01-forest-path_hu_a4eac68d4c171158.webp",
+    "address": "",
+    "city": "",
+    "lat": 59.9404959,
+    "lon": 10.500221,
+    "geocode_query": "Sabotage Norway",
+    "geocode_display_name": "SATYR SATYR SABOTAGE, Verksgata, Bærums Verk, Helset, Bærums Verk, Bærum, Akershus, 1354, Norge"
   },
   {
     "name": "Safo",
@@ -3458,6 +3906,34 @@
     "geocode_display_name": "Six Senses Ibiza, 71, Carrer de Camí de sa Torre, Portinatx, Sant Joan de Labritja, Eivissa, Illes Balears, 07810, España"
   },
   {
+    "name": "Skadir",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-skabo-skadir-skabu-fjellhotell/",
+    "description": "Set in the mountain landscape of Skåbu, Skadir at Skåbu Fjellhotell offers a dining experience shaped by its surroundings. Working closely with local farmers, hunters and fishers, the kitchen celebrates regional ingredients, traditions and flavours. Through storytelling and hands-on experiences, guests are invited to explore the connection between food, nature and local heritage. A warm, personal approach to hospitality completes the experience. High up in the Norwegian mountains enthrones the family-run Skåbu Fjellhotell and restaurant Skadir. Jannicke Haug Doksæter, owner and manager, and Lukasz Benedykt Socha, head chef, at Skadir entered the guide in 2023. How far have you come on your way to become self-sufficient? – Well, we’ve increased the number of pigs from ten to fifteen and begun growing vegetables for our own use. Another thing is that we’ve created a partnership with two local neighbours who grow vegetables, and milk and herbs are delivered directly from local farms. We’ve noticed that more and more producers in the area get in touch because they want to work with us. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/12/Skabuhotell__DSC3277_print-scaled.jpg",
+    "address": "",
+    "city": "",
+    "lat": null,
+    "lon": null,
+    "geocode_query": null,
+    "geocode_display_name": null
+  },
+  {
+    "name": "Smalhans",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/smalhans/",
+    "description": "At Smalhans, the Norwegian tradition of husmannskost meets a more contemporary, communal way of eating. Its daily-changing home-cooked dish brings the spirit of the neighbourhood to the table, while an entirely organic or biodynamic wine selection reveals a deeper commitment to thoughtful sourcing. Generosity, accessibility and a refreshingly unpretentious approach define its philosophy. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-11-kl.-08.35.54.png",
+    "address": "",
+    "city": "",
+    "lat": 59.923685,
+    "lon": 10.739759,
+    "geocode_query": "Smalhans Norway",
+    "geocode_display_name": "Smalhans, Ullevålsveien, Bolteløkka, St. Hanshaugen, Oslo, 0169, Norge"
+  },
+  {
     "name": "Soil",
     "country": "Greece",
     "category": "Restaurant",
@@ -3500,6 +3976,20 @@
     "geocode_display_name": "Srnky, Milevská, Pankrác, Praha 4, obvod Praha 4, Praha, 140 63, Česko"
   },
   {
+    "name": "Stallen",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-oslo-stallen/",
+    "description": "A former stable transformed into an intimate dining room, where a handful of guests are invited to follow the kitchen’s unfolding narrative. Vegetables, herbs, fruit and edible flowers are cultivated on carefully tended soil in Lier, complemented by a close network of Norwegian farmers and fishermen. With the entire team sharing the stories behind each creation, dining becomes a personal encounter with the people and land behind the food. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2024/12/IMG_1049.jpg",
+    "address": "",
+    "city": "",
+    "lat": 59.3213899,
+    "lon": 8.7307827,
+    "geocode_query": "Stallen Norway",
+    "geocode_display_name": "Stallen, Kviteseid, Telemark, Norge"
+  },
+  {
     "name": "Stilwerk Heimhude",
     "country": "Germany",
     "category": "Hotel",
@@ -3511,7 +4001,21 @@
     "lat": 53.5448133,
     "lon": 9.9491812,
     "geocode_query": "Stilwerk Germany",
-    "geocode_display_name": "stilwerk, Carsten-Rehder-Straße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
+    "geocode_display_name": "stilwerk, De-Voß-Straße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
+  },
+  {
+    "name": "Storfjord Hotel",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/storfjord-hotel/",
+    "description": "Inspired by the surrounding forests, fjords and farmland, the kitchen brings the flavours of Norway to life. Seasonal produce from nearby farms, honest cooking and local traditions shape a welcoming food experience, with a strong focus on good ingredients and a sense of place. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/a253d0b7b1ab979e3d7718ec4b23ff384c234e38-4160x6240-1.webp",
+    "address": "",
+    "city": "",
+    "lat": 62.4695492,
+    "lon": 6.6248524,
+    "geocode_query": "Storfjord Hotel Norway",
+    "geocode_display_name": "Storfjord Hotel, Glomsetvegen, Bakkeneset, Glomset, Rabben, Ålesund, Møre og Romsdal, 6260, Norge"
   },
   {
     "name": "Sublime",
@@ -3542,6 +4046,20 @@
     "geocode_display_name": "Suru Café & Alfajores Artesanales, 50, Calle de Máiquez, Ibiza, Retiro, Madrid, Comunidad de Madrid, 28009, España"
   },
   {
+    "name": "Søstrene Storaas",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/sostrene-storaas/",
+    "description": "A family-run countryside retreat where food begins close to home. Homegrown vegetables, herbs and flowers, alongside produce from local farms, inspire a seasonal kitchen that celebrates agricultural heritage, self-sufficiency and a genuine farm-to-table philosophy. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/OppdekkEdouardsfotoHelgeEek.jpg.webp",
+    "address": "",
+    "city": "",
+    "lat": 59.7292937,
+    "lon": 9.3518462,
+    "geocode_query": "Søstrene Storaas Norway",
+    "geocode_display_name": "Søstrene Storaas, Jondalsveien, Kongsberg, Telemark, Norge"
+  },
+  {
     "name": "Sůl & Řepa",
     "country": "Czech Republic",
     "category": "Restaurant",
@@ -3567,7 +4085,7 @@
     "lat": 47.4981214,
     "lon": 19.0691053,
     "geocode_query": "Tati Hungary",
-    "geocode_display_name": "TATI, Dohány utca, Erzsébetváros, VII. kerület, Budapest, 1072, Magyarország"
+    "geocode_display_name": "TATI, 58-62, Dohány utca, Erzsébetváros, VII. kerület, Budapest, 1074, Magyarország"
   },
   {
     "name": "Tati",
@@ -3718,10 +4236,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-12-kl.-16.38.39-1024x697.png",
     "address": "",
     "city": "",
-    "lat": 40.6691507,
-    "lon": 22.9105882,
+    "lat": 40.6114499,
+    "lon": 22.9855223,
     "geocode_query": "The Rooster Greece",
-    "geocode_display_name": "The Famous Rooster, Αγίου Αθανασίου, Νέα Πολιτεία, Εύοσμος, Κοινότητα Ευόσμου, Δημοτική Ενότητα Ευόσμου, Δήμος Κορδελιού - Ευόσμου, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 562 24, Ελλάς"
+    "geocode_display_name": "The Famous Rooster, 222, Γρηγορίου Λαμπράκη, Μαλακοπή, Άνω Τούμπα, Κοινότητα Πυλαίας, Δημοτική Ενότητα Πυλαίας, Δήμος Πυλαίας - Χορτιάτη, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 543 52, Ελλάς"
   },
   {
     "name": "The Usual",
@@ -3752,6 +4270,20 @@
     "geocode_display_name": "Sons of the Silent Age - Vintage, Calçada do Combro, Bairro Alto, Misericórdia, Lisboa, 1200-025, Portugal"
   },
   {
+    "name": "Thon Hotel Lofoten",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/thon-hotel-lofoten/",
+    "description": "A showcase of Lofoten’s rich food culture, where local seafood, stockfish, lamb and artisan producetake centre stage. Strong relationships with regional suppliers and a focus on traditional Norwegian ingredients bring a genuine sense of place to every meal. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/thon_hotel_lofoten_fasade.webp",
+    "address": "",
+    "city": "",
+    "lat": 68.2318228,
+    "lon": 14.5654366,
+    "geocode_query": "Thon Hotel Lofoten Norway",
+    "geocode_display_name": "Thon Hotel Lofoten, Torget, Svolvær, Vågan, Nordland, 8300, Norge"
+  },
+  {
     "name": "Tian Bistro",
     "country": "Austria",
     "category": "Restaurant",
@@ -3766,6 +4298,20 @@
     "geocode_display_name": "Tian Bistro, 4, Schrankgasse, Sankt Ulrich, Spittelberg, Katastralgemeinde Neubau, Neubau, Wien, 1070, Österreich"
   },
   {
+    "name": "Trasti & Trine",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/trasti-trine/",
+    "description": "A culinary love letter to Finnmark, where Arctic ingredients, wild berries, herbs and local produce shape an expressive and deeply personal food experience. Foraging, gardening, organic ingredients and a close connection to nature define this northern approach to sustainable gastronomy. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/TrastiOgTrine_Severin_Wohlleben_TT_SW_2097_L1610498_sw-1536x1097-1.jpg",
+    "address": "",
+    "city": "",
+    "lat": 69.8851918,
+    "lon": 23.2506162,
+    "geocode_query": "Trasti & Trine Norway",
+    "geocode_display_name": "Trasti & Trine Stengelsengården, Gargiaveien, Alta, Finnmark, 9518, Norge"
+  },
+  {
     "name": "U Kalendů",
     "country": "Czech Republic",
     "category": "Restaurant",
@@ -3778,6 +4324,34 @@
     "lon": 17.3165028,
     "geocode_query": "U Kalendů Czech Republic",
     "geocode_display_name": "U Kalendů, Veselská, Strážnice, okres Hodonín, Jihomoravský kraj, 696 62, Česko"
+  },
+  {
+    "name": "Under",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/under/",
+    "description": "Five and a half metres beneath the surface, Under offers more than a spectacular view of the seabed. Its architecture is designed to become part of the marine environment, eventually serving as an artificial reef. In the kitchen, foraging is guided by species conservation, with an emphasis on harvesting in ways that allow populations to thrive again. A restaurant that turns dining into an encounter with the living ocean. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/01/Skarmavbild-2026-01-30-kl.-23.06.48.png",
+    "address": "",
+    "city": "",
+    "lat": 58.0408052,
+    "lon": 7.1546864,
+    "geocode_query": "Under Norway",
+    "geocode_display_name": "Under, Bålyveien, Båly, Spangereid, Lindesnes, Agder, 4521, Norge"
+  },
+  {
+    "name": "Union Øye",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/union-oye/",
+    "description": "Steeped in history and surrounded by the dramatic beauty of Sunnmøre, Union Øye offers a dining experience shaped by tradition, elegance and a strong sense of place. Classic hospitality meets contemporary gastronomy in a setting where every meal becomes part of the story. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/124306f1cf55c93c9351a98a26008f333ed7b8f1-5036x3357-1-scaled.webp",
+    "address": "",
+    "city": "",
+    "lat": 62.1931115,
+    "lon": 6.6596645,
+    "geocode_query": "Union Øye Norway",
+    "geocode_display_name": "Hotel Union Øye, Norangdal, Øye, Ørsta, Møre og Romsdal, 6196, Norge"
   },
   {
     "name": "Vago",
@@ -3890,6 +4464,20 @@
     "lon": -1.8769392,
     "geocode_query": "Vereda Spain",
     "geocode_display_name": "Vereda, Distrito 2, Albacete, Castilla-La Mancha, 02006, España"
+  },
+  {
+    "name": "Vianvang",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/vianvang-norway/",
+    "description": "Arne Brimi’s Naturens Kjøken is rooted in a profound understanding of the mountain landscape and the knowledge carried through generations. At Vianvang, traditional Norwegian ingredients and culinary heritage are treated not as relics, but as living sources of inspiration. Here, preserving food culture is inseparable from preserving the relationship between people, nature and place. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/12/vianvang_04.jpg",
+    "address": "",
+    "city": "",
+    "lat": 61.829091,
+    "lon": 8.8784152,
+    "geocode_query": "Vianvang Norway",
+    "geocode_display_name": "Vianvang, Krosstjønnvegen, Vågå, Innlandet, 2685, Norge"
   },
   {
     "name": "Villa Florhof",
@@ -4060,6 +4648,20 @@
     "geocode_display_name": "Wils, 26, Stadionplein, Stadionbuurt, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1076 CM, Nederland"
   },
   {
+    "name": "Wood Hotel",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/wood-hotel/",
+    "description": "A striking blend of Nordic design, nature and contemporary gastronomy. At Restaurant ATTME, traditional flavours from Northern Norway meet fresh ideas and creative cooking, while the impressive wooden architecture brings warmth and a distinct identity to the experience. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/Skarmavbild-2026-11-12-kl.-20.30.49.png",
+    "address": "",
+    "city": "",
+    "lat": 60.8772741,
+    "lon": 10.930876,
+    "geocode_query": "Wood Hotel Norway",
+    "geocode_display_name": "Wood Hotel, E 6, Stelaområdet, Brumunddal, Ringsaker, Innlandet, 2383, Norge"
+  },
+  {
     "name": "Wöschi",
     "country": "Switzerland",
     "category": "Restaurant",
@@ -4100,6 +4702,20 @@
     "lon": 2.1568269,
     "geocode_query": "Yours Spain",
     "geocode_display_name": "all yours, 29, Carrer de Verdi, la Vila de Gràcia, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, 08012, España"
+  },
+  {
+    "name": "Ytri Island Retreat",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/ytri-island-retreat/",
+    "description": "Far out in the Norwegian Sea, Ytri offers a different pace of life. Gastronomy follows the seasons and the rhythm of the island, with simple, thoughtful cooking at its heart. A place where nature, community and a lighter way of living come together. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "image": "https://360eatguide.com/wp-content/uploads/2026/11/YTRI_photo_Einar_Aslaksen_3212_webcropped_2026-05-29-110903_vqgt.png.webp",
+    "address": "",
+    "city": "",
+    "lat": 61.5067282,
+    "lon": 7.6950122,
+    "geocode_query": "Ytri Norway",
+    "geocode_display_name": "Ytri, Luster, Vestland, 6877, Norge"
   },
   {
     "name": "Zeik",

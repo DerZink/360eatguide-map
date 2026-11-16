@@ -60,6 +60,12 @@
     "url": "https://360eatguide.com/restaurants/aoi/"
   },
   {
+    "name": "Arakataka",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-oslo-arakataka/"
+  },
+  {
     "name": "Arthotel Blaue Gans",
     "country": "Austria",
     "category": "Hotel",
@@ -106,6 +112,12 @@
     "country": "Spain",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/barro-restaurant-avila/"
+  },
+  {
+    "name": "Bekkjarvik Gjestgiveri",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/bekkjarvik-gjestgiveri/"
   },
   {
     "name": "Berbena",
@@ -162,10 +174,22 @@
     "url": "https://360eatguide.com/restaurants/restaurants-switzerland-brasserieuno/"
   },
   {
+    "name": "Brimibue Hotel",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/brimibue-hotel/"
+  },
+  {
     "name": "Brion",
     "country": "France",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/brion/"
+  },
+  {
+    "name": "Britannia",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/britannia/"
   },
   {
     "name": "Brody House",
@@ -384,6 +408,12 @@
     "url": "https://360eatguide.com/restaurants/eco-hotel-el-agua/"
   },
   {
+    "name": "Eilert Smith Hotel",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/eilertsmithhotel/"
+  },
+  {
     "name": "El Invernadero",
     "country": "Spain",
     "category": "Restaurant",
@@ -438,6 +468,12 @@
     "url": "https://360eatguide.com/restaurants/familjen/"
   },
   {
+    "name": "Farris Bad",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/farris-bad/"
+  },
+  {
     "name": "Faz Frio",
     "country": "Portugal",
     "category": "Restaurant",
@@ -448,6 +484,12 @@
     "country": "Spain",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/fishology-restaurant-barcelona/"
+  },
+  {
+    "name": "Fjærland Fjordstove Hotel",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/fjaerland-fjordstove-hotel/"
   },
   {
     "name": "Flocon",
@@ -474,6 +516,12 @@
     "url": "https://360eatguide.com/restaurants/franca/"
   },
   {
+    "name": "Funken Lodge",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/funken-lodge/"
+  },
+  {
     "name": "Gaia Hotel",
     "country": "Switzerland",
     "category": "Hotel",
@@ -484,6 +532,18 @@
     "country": "Switzerland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/restaurants-switzerland-gamper/"
+  },
+  {
+    "name": "Gaptrast",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/gaptrast/"
+  },
+  {
+    "name": "Gartneriet Spiseri",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/gartneriet-spiseri/"
   },
   {
     "name": "Genuíno",
@@ -522,6 +582,12 @@
     "url": "https://360eatguide.com/restaurants/restaurants-helsinki-gron/"
   },
   {
+    "name": "Hattvika Lodge",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hattvika-lodge/"
+  },
+  {
     "name": "Hearth",
     "country": "Netherlands",
     "category": "Restaurant",
@@ -552,10 +618,22 @@
     "url": "https://360eatguide.com/restaurants/henriette-stadthotel/"
   },
   {
+    "name": "Hermetikken",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/hermetikken/"
+  },
+  {
     "name": "Heunisch & Erben",
     "country": "Austria",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/heunisch-erben/"
+  },
+  {
+    "name": "Hindsæter Hotel",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hindsaeter-hotel/"
   },
   {
     "name": "Hobenköök",
@@ -570,6 +648,18 @@
     "url": "https://360eatguide.com/restaurants/hobo-hotel/"
   },
   {
+    "name": "Hoel Gård",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-gard/"
+  },
+  {
+    "name": "Holmen Lofoten",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/holmen-lofoten/"
+  },
+  {
     "name": "Horváth",
     "country": "Germany",
     "category": "Restaurant",
@@ -580,6 +670,12 @@
     "country": "Spain",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/hostal-grau/"
+  },
+  {
+    "name": "Hotel 1904",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-1904/"
   },
   {
     "name": "Hotel Albergaria do Calvário",
@@ -598,6 +694,12 @@
     "country": "Netherlands",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/hotel-bent/"
+  },
+  {
+    "name": "Hotel Brosundet",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-brosundet/"
   },
   {
     "name": "Hotel Casa Treviño",
@@ -640,6 +742,12 @@
     "country": "Belgium",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/hotel-franq/"
+  },
+  {
+    "name": "Hotel Frøya",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-froya/"
   },
   {
     "name": "Hotel Gilbert",
@@ -714,6 +822,12 @@
     "url": "https://360eatguide.com/restaurants/nestor/"
   },
   {
+    "name": "Hotel Norge by Scandic",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-norge-by-scandic/"
+  },
+  {
     "name": "Hotel Pilar",
     "country": "Belgium",
     "category": "Hotel",
@@ -760,6 +874,12 @@
     "country": "Spain",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/hotel-torre/"
+  },
+  {
+    "name": "Hotel Victoria",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/hotel-victoria/"
   },
   {
     "name": "Hotell Stallbacken",
@@ -840,6 +960,24 @@
     "url": "https://360eatguide.com/restaurants/restaurants-switzerland-kle/"
   },
   {
+    "name": "Kolonialen",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/kolonialenbislett/"
+  },
+  {
+    "name": "Kolonihagen Frogner",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/kolonihagen-frogner/"
+  },
+  {
+    "name": "Kontrast",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-oslo-kontrast/"
+  },
+  {
     "name": "Korek",
     "country": "Czech Republic",
     "category": "Restaurant",
@@ -862,6 +1000,12 @@
     "country": "Finland",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/kuurna/"
+  },
+  {
+    "name": "Kvitnes Gård",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-kvitnes-kvitnes-gard/"
   },
   {
     "name": "Kástu by Pajta",
@@ -948,6 +1092,12 @@
     "url": "https://360eatguide.com/restaurants/lillijojo/"
   },
   {
+    "name": "Liminal",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-oslo-liminal/"
+  },
+  {
     "name": "Linou Soumpasis & Co",
     "country": "Greece",
     "category": "Restaurant",
@@ -988,6 +1138,12 @@
     "country": "Netherlands",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/lutum/"
+  },
+  {
+    "name": "Lysebu",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/lysebu/"
   },
   {
     "name": "L’air du temps",
@@ -1036,6 +1192,12 @@
     "country": "Greece",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/manna/"
+  },
+  {
+    "name": "Manshausen",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/manshausen/"
   },
   {
     "name": "Margot House",
@@ -1170,6 +1332,12 @@
     "url": "https://360eatguide.com/restaurants/neder/"
   },
   {
+    "name": "Nektar Vinbar",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/nektar-vinbar/"
+  },
+  {
     "name": "Neon",
     "country": "Belgium",
     "category": "Restaurant",
@@ -1216,6 +1384,12 @@
     "country": "Netherlands",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/op-oost/"
+  },
+  {
+    "name": "Osloslo",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/osloslo/"
   },
   {
     "name": "Otto",
@@ -1374,10 +1548,22 @@
     "url": "https://360eatguide.com/restaurants/regain/"
   },
   {
+    "name": "Restaurang Smak",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurant-smak/"
+  },
+  {
     "name": "Restaurant Bidlabu",
     "country": "Germany",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/bidlabu-restaurant-frankfurt/"
+  },
+  {
+    "name": "Restaurant K2",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-stavanger-k2/"
   },
   {
     "name": "Restaurant OZ",
@@ -1420,6 +1606,12 @@
     "country": "Hungary",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/revcsarda/"
+  },
+  {
+    "name": "Sabotage",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/sabotage/"
   },
   {
     "name": "Safo",
@@ -1482,6 +1674,18 @@
     "url": "https://360eatguide.com/restaurants/six-senses/"
   },
   {
+    "name": "Skadir",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-skabo-skadir-skabu-fjellhotell/"
+  },
+  {
+    "name": "Smalhans",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/smalhans/"
+  },
+  {
     "name": "Soil",
     "country": "Greece",
     "category": "Restaurant",
@@ -1500,10 +1704,22 @@
     "url": "https://360eatguide.com/restaurants/srnky/"
   },
   {
+    "name": "Stallen",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/restaurants-oslo-stallen/"
+  },
+  {
     "name": "Stilwerk Heimhude",
     "country": "Germany",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/stilwerk-heimhude/"
+  },
+  {
+    "name": "Storfjord Hotel",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/storfjord-hotel/"
   },
   {
     "name": "Sublime",
@@ -1516,6 +1732,12 @@
     "country": "Spain",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/suru-restaurant-barcelona/"
+  },
+  {
+    "name": "Søstrene Storaas",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/sostrene-storaas/"
   },
   {
     "name": "Sůl & Řepa",
@@ -1608,16 +1830,40 @@
     "url": "https://360eatguide.com/restaurants/the-vintage/"
   },
   {
+    "name": "Thon Hotel Lofoten",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/thon-hotel-lofoten/"
+  },
+  {
     "name": "Tian Bistro",
     "country": "Austria",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/tian-bistro/"
   },
   {
+    "name": "Trasti & Trine",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/trasti-trine/"
+  },
+  {
     "name": "U Kalendů",
     "country": "Czech Republic",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/u-kalendu/"
+  },
+  {
+    "name": "Under",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/under/"
+  },
+  {
+    "name": "Union Øye",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/union-oye/"
   },
   {
     "name": "Vago",
@@ -1666,6 +1912,12 @@
     "country": "Spain",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/vereda-bar-restaurant-barcelona/"
+  },
+  {
+    "name": "Vianvang",
+    "country": "Norway",
+    "category": "Restaurant",
+    "url": "https://360eatguide.com/restaurants/vianvang-norway/"
   },
   {
     "name": "Villa Florhof",
@@ -1740,6 +1992,12 @@
     "url": "https://360eatguide.com/restaurants/wils-restaurant-amsterdam/"
   },
   {
+    "name": "Wood Hotel",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/wood-hotel/"
+  },
+  {
     "name": "Wöschi",
     "country": "Switzerland",
     "category": "Restaurant",
@@ -1756,6 +2014,12 @@
     "country": "Spain",
     "category": "Hotel",
     "url": "https://360eatguide.com/restaurants/yours/"
+  },
+  {
+    "name": "Ytri Island Retreat",
+    "country": "Norway",
+    "category": "Hotel",
+    "url": "https://360eatguide.com/restaurants/ytri-island-retreat/"
   },
   {
     "name": "Zeik",
