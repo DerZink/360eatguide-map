@@ -232,8 +232,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2025/07/platos_02.1800x0.jpg",
     "address": "",
     "city": "",
-    "lat": 42.8936855,
-    "lon": -2.1730032,
+    "lat": 42.8942471,
+    "lon": -2.1705785,
     "geocode_query": "Bakea Spain",
     "geocode_display_name": "Bakea, Altsasu / Alsasua, Sakana, Navarra, Navarra / Nafarroa, 31800, España"
   },
@@ -568,10 +568,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2025/05/24-03-Cafe-Frieda-2690.jpg",
     "address": "",
     "city": "",
-    "lat": 52.153461,
-    "lon": 9.9544957,
+    "lat": 51.4165985,
+    "lon": 6.6156712,
     "geocode_query": "Café Frieda Germany",
-    "geocode_display_name": "Café Frieda, Jakobistraße, Jakobiviertel, Stadtmitte, Stadtmitte/Neustadt, Hildesheim, Landkreis Hildesheim, Niedersachsen, 31134, Deutschland"
+    "geocode_display_name": "Café Frieda, 171, Holderberger Straße, Holderberg, Kapellen, Moers, Kreis Wesel, Nordrhein-Westfalen, 47447, Deutschland"
   },
   {
     "name": "Café Kandl",
@@ -610,10 +610,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-12-kl.-13.42.37-1024x529.png",
     "address": "",
     "city": "",
-    "lat": 37.9447785,
-    "lon": 23.6341173,
+    "lat": 37.9421222,
+    "lon": 23.6319992,
     "geocode_query": "Cantina Greece",
-    "geocode_display_name": "Cantina, Ηετιώνεια Ακτή, Άγιος Διονύσιος, 5η Κοινότητα Πειραιά, Πειραιάς, Δήμος Πειραιώς, Περιφερειακή Ενότητα Πειραιώς, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 185 10, Ελλάς"
+    "geocode_display_name": "Cantina, Ακτή Βασιλειάδη, Άγιος Φανούριος, Δημοτική Ενότητα Δραπετσώνας, 5η Κοινότητα Πειραιά, Δήμος Πειραιώς, Περιφερειακή Ενότητα Πειραιώς, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 186 48, Ελλάς"
   },
   {
     "name": "Caro",
@@ -641,7 +641,7 @@
     "lat": 39.7201826,
     "lon": 2.9119006,
     "geocode_query": "Celler Tonet Spain",
-    "geocode_display_name": "Celler Tonet, Carrer del Rector Rayó, Centre històric, Inca, Raiguer, Illes Balears, 07300, España"
+    "geocode_display_name": "Celler Can Tonet, Carrer del Rector Rayó, Centre històric, Inca, Raiguer, Illes Balears, 07300, España"
   },
   {
     "name": "CERVO Mountain Resort",
@@ -753,7 +753,7 @@
     "lat": 38.6014411,
     "lon": -7.8890927,
     "geocode_query": "Convento do Espinheiro Portugal",
-    "geocode_display_name": "Convento do Espinheiro, CM 1089, Espinheiro, Canaviais, Évora, 7002-502, Portugal"
+    "geocode_display_name": "Convento do Espinheiro, Estrada do Espinheiro, Espinheiro, Patão, Canaviais, Évora, 7002-502, Portugal"
   },
   {
     "name": "Culinarium Alpinum",
@@ -764,10 +764,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/Herbergszimmer_I-scaled-1.jpg",
     "address": "",
     "city": "",
-    "lat": 46.9554421,
-    "lon": 8.3693747,
+    "lat": 46.955503,
+    "lon": 8.3694364,
     "geocode_query": "Culinarium Alpinum Switzerland",
-    "geocode_display_name": "Culinarium Alpinum, Mürgstrasse, Stans, Nidwalden, 6371, Schweiz / Suisse / Svizzera / Svizra"
+    "geocode_display_name": "Culinarium Alpinum, 18, Mürgstrasse, Stans, Nidwalden, 6370, Schweiz / Suisse / Svizzera / Svizra"
   },
   {
     "name": "Culler de Pau",
@@ -1033,7 +1033,7 @@
     "lat": 37.9751876,
     "lon": 23.7315487,
     "geocode_query": "Ergon House Greece",
-    "geocode_display_name": "Ergon House, Μητροπόλεως, Monastiràki, Πλάκα, 1η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 56, Ελλάς"
+    "geocode_display_name": "Ergon House, 23, Μητροπόλεως, Monastiràki, Πλάκα, 1η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 105 56, Ελλάς"
   },
   {
     "name": "Esca",
@@ -1061,7 +1061,7 @@
     "lat": 49.2298179,
     "lon": 16.5913541,
     "geocode_query": "Etapa Czech Republic",
-    "geocode_display_name": "Etapa, Palackého třída, Královo Pole, Brno-Královo Pole, Brno, okres Brno-město, Jihomoravský kraj, 612 00, Česko"
+    "geocode_display_name": "Etapa, 148, Palackého třída, Královo Pole, Brno-Královo Pole, Brno, okres Brno-město, Jihomoravský kraj, 612 00, Česko"
   },
   {
     "name": "Fafleralp",
@@ -1103,7 +1103,7 @@
     "lat": 59.0494615,
     "lon": 10.020538,
     "geocode_query": "Farris Bad Norway",
-    "geocode_display_name": "Farris Bad, Stavernsveien, Batteritomta, Sanden, Larvik, Vestfold, 3264, Norge"
+    "geocode_display_name": "Farris Bad, Stavernsveien, Hammerdalen, Tenvik, Sanden, Larvik, Vestfold, 3264, Norge"
   },
   {
     "name": "Faz Frio",
@@ -1957,7 +1957,7 @@
     "lat": 33.2529651,
     "lon": -8.5024832,
     "geocode_query": "Hotel France",
-    "geocode_display_name": "Hotel France ( Ex Atlantis ), Avenue Moulay Abdelhafid, Port d'El Jadida, Place El Hansali ساحة الحنصلي, 2ème Arrondissement, pachalik d'El Jadida ⵍⵊⴰⴷⵉⴷⴰ الجديدة, Province d'El Jadida إقليم الجديدة, Casablanca-Settat ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ-ⵙⵟⵟⴰⵜ الدار البيضاء-سطات, 24010, Maroc ⵍⵎⵖⵔⵉⴱ المغرب"
+    "geocode_display_name": "Hotel France ( Ex Atlantis ), Avenue Suez, Place El Hansali, Place El Hansali ساحة الحنصلي, 2ème Arrondissement, pachalik d'El Jadida ⵍⵊⴰⴷⵉⴷⴰ الجديدة, Province d'El Jadida إقليم الجديدة, Casablanca-Settat ⵜⴰⴷⴷⴰⵔⵜ ⵜⵓⵎⵍⵉⵍⵜ-ⵙⵟⵟⴰⵜ الدار البيضاء-سطات, 24010, Maroc ⵍⵎⵖⵔⵉⴱ المغرب"
   },
   {
     "name": "Hotel Rum",
@@ -1982,10 +1982,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/hotel-schani-wien-lobby-sitzplaetze-fenster-3_006aca0138454663ac22be-2-2.jpg",
     "address": "",
     "city": "",
-    "lat": 48.2339868,
-    "lon": 16.4209462,
+    "lat": 48.2145212,
+    "lon": 16.2845866,
     "geocode_query": "Hotel Schani Austria",
-    "geocode_display_name": "Hotel Schani UNO City, 16, Wagramer Straße, Katastralgemeinde Kaisermühlen, Donaustadt, Wien, 1220, Österreich"
+    "geocode_display_name": "Bio-Hotel Schani Wienblick, 32, Johann-Staud-Straße, Katastralgemeinde Ottakring, Ottakring, Wien, 1160, Österreich"
   },
   {
     "name": "Hotel Schweizerhof",
@@ -2290,8 +2290,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-09-kl.-08.43.56-760x1024.png",
     "address": "",
     "city": "",
-    "lat": 50.1061223,
-    "lon": 14.3607212,
+    "lat": 50.1054681,
+    "lon": 14.3593556,
     "geocode_query": "Korek Czech Republic",
     "geocode_display_name": "Korek, V Šáreckém údolí, Jenerálka, Praha 6, obvod Praha 6, Praha, 162 00, Česko"
   },
@@ -2500,10 +2500,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/DSCF7399-Edit-2-Copy1_1290x978.jpg",
     "address": "",
     "city": "",
-    "lat": 48.8816252,
-    "lon": 2.3372503,
+    "lat": 48.8815956,
+    "lon": 2.3372621,
     "geocode_query": "Le Pigalle France",
-    "geocode_display_name": "Le Pigalle, Rue Frochot, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
+    "geocode_display_name": "Le Pigalle, 9, Rue Frochot, Quartier Saint-Georges, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
   },
   {
     "name": "Les Bords de Mer",
@@ -2685,7 +2685,7 @@
     "lat": 50.1308926,
     "lon": 5.7905861,
     "geocode_query": "L’air du temps Belgium",
-    "geocode_display_name": "L'air du temps, Rue Ville Basse, Fin de Ville, Houffalize, Bastogne, Luxembourg, Wallonie, 6660, België / Belgique / Belgien"
+    "geocode_display_name": "L'air du temps, 25, Rue Ville Basse, Fin de Ville, Houffalize, Bastogne, Luxembourg, Wallonie, 6660, België / Belgique / Belgien"
   },
   {
     "name": "Macot",
@@ -3228,10 +3228,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/P1132247-5d62aa62.webp",
     "address": "",
     "city": "",
-    "lat": 52.3795646,
-    "lon": 4.9179739,
+    "lat": 52.0964839,
+    "lon": 5.1476077,
     "geocode_query": "Op Oost Netherlands",
-    "geocode_display_name": "Zeeman op de uitkijk, Sumatrakade, Java-eiland, Oostelijk Havengebied, Oost, Amsterdam, Noord-Holland, Nederland, 1021 PC, Nederland"
+    "geocode_display_name": "Fort de Bilt, Waterlinieweg, Rijnsweerd, Wilhelminapark, Rijnsweerd, Oost, Utrecht, Nederland, 3584 BG, Nederland"
   },
   {
     "name": "Osloslo",
@@ -3399,7 +3399,7 @@
     "lat": 37.9904466,
     "lon": 23.7271959,
     "geocode_query": "Pharao Greece",
-    "geocode_display_name": "Φαραώ, Ηπείρου, Πλατεία Βάθης, 1η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 104 33, Ελλάς"
+    "geocode_display_name": "Φαραώ, 33, Ηπείρου, Πλατεία Βάθης, 1η Κοινότητα Αθηνών, Αθήνα, Δήμος Αθηναίων, Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών, Περιφέρεια Αττικής, Αποκεντρωμένη Διοίκηση Αττικής, 104 33, Ελλάς"
   },
   {
     "name": "Piedra",
@@ -3756,7 +3756,7 @@
     "country": "Norway",
     "category": "Restaurant",
     "url": "https://360eatguide.com/restaurants/sabotage/",
-    "description": "It began around a bonfire in the forest. Three chefs, united by experience in some of the world’s most demanding kitchens, decided to build a restaurant on their own terms. Gathering and harvesting ingredients themselves, they bring together French finesse, Polish hospitality and Norwegian nature. Serious cooking without the ceremony: a kitchen where curiosity, independence and camaraderie are part of the recipe. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
+    "description": "It began around a bonfire in the forest. Three women, bringing together expertise in gastronomy, wine and hospitality, decided to build a restaurant on their own terms. A Head Chef, a Head Sommelier and a General Manager, each contributing an essential part to the whole. Gathering and harvesting ingredients themselves, they bring together French finesse, Polish hospitality and Norwegian nature. Serious cooking without the ceremony: a restaurant where curiosity, independence and camaraderie are part of the recipe. 360°Eat Guide looks beyond the plate, highlighting restaurants and hotels with a distinct identity, a strong sense of place and the courage to do things their own way. Tel +46 (0)727 400 328 Mail zero@360eatguide.com Upphovsrätten för delar av detta innehåll tillhör 360°Eat Guide © 2024. Innehållet är tillgängligt under Creative Commons-licens.",
     "image": "https://360eatguide.com/wp-content/uploads/2026/11/01-forest-path_hu_a4eac68d4c171158.webp",
     "address": "",
     "city": "",
@@ -3788,10 +3788,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/09/DSC_2625.jpg",
     "address": "",
     "city": "",
-    "lat": 47.490378,
-    "lon": 19.0591724,
+    "lat": 47.5003472,
+    "lon": 19.0503576,
     "geocode_query": "Salt Hungary",
-    "geocode_display_name": "Salt, 4, Királyi Pál utca, Pest, Belváros, V. kerület, Budapest, 1053, Magyarország"
+    "geocode_display_name": "Salt, 9, Zrínyi utca, Lipótváros, V. kerület, Budapest, 1051, Magyarország"
   },
   {
     "name": "Santa Barbara Eco-Beach Resort",
@@ -4001,7 +4001,7 @@
     "lat": 53.5448133,
     "lon": 9.9491812,
     "geocode_query": "Stilwerk Germany",
-    "geocode_display_name": "stilwerk, De-Voß-Straße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
+    "geocode_display_name": "stilwerk, Carsten-Rehder-Straße, Altona, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland"
   },
   {
     "name": "Storfjord Hotel",
@@ -4057,7 +4057,7 @@
     "lat": 59.7292937,
     "lon": 9.3518462,
     "geocode_query": "Søstrene Storaas Norway",
-    "geocode_display_name": "Søstrene Storaas, Jondalsveien, Kongsberg, Telemark, Norge"
+    "geocode_display_name": "Søstrene Storaas, Jondalsveien, Kongsberg, Buskerud, Norge"
   },
   {
     "name": "Sůl & Řepa",
@@ -4085,7 +4085,7 @@
     "lat": 47.4981214,
     "lon": 19.0691053,
     "geocode_query": "Tati Hungary",
-    "geocode_display_name": "TATI, 58-62, Dohány utca, Erzsébetváros, VII. kerület, Budapest, 1074, Magyarország"
+    "geocode_display_name": "TATI, Dohány utca, Erzsébetváros, VII. kerület, Budapest, 1072, Magyarország"
   },
   {
     "name": "Tati",
@@ -4236,10 +4236,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/Skarmavbild-2026-10-12-kl.-16.38.39-1024x697.png",
     "address": "",
     "city": "",
-    "lat": 40.6114499,
-    "lon": 22.9855223,
+    "lat": 40.6691507,
+    "lon": 22.9105882,
     "geocode_query": "The Rooster Greece",
-    "geocode_display_name": "The Famous Rooster, 222, Γρηγορίου Λαμπράκη, Μαλακοπή, Άνω Τούμπα, Κοινότητα Πυλαίας, Δημοτική Ενότητα Πυλαίας, Δήμος Πυλαίας - Χορτιάτη, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 543 52, Ελλάς"
+    "geocode_display_name": "The Famous Rooster, Αγίου Αθανασίου, Νέα Πολιτεία, Εύοσμος, Κοινότητα Ευόσμου, Δημοτική Ενότητα Ευόσμου, Δήμος Κορδελιού - Ευόσμου, Μητροπολιτική Ενότητα Θεσσαλονίκης, Περιφέρεια Κεντρικής Μακεδονίας, Αποκεντρωμένη Διοίκηση Μακεδονίας - Θράκης, 562 24, Ελλάς"
   },
   {
     "name": "The Usual",
@@ -4278,8 +4278,8 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/11/thon_hotel_lofoten_fasade.webp",
     "address": "",
     "city": "",
-    "lat": 68.2318228,
-    "lon": 14.5654366,
+    "lat": 68.2316441,
+    "lon": 14.5654262,
     "geocode_query": "Thon Hotel Lofoten Norway",
     "geocode_display_name": "Thon Hotel Lofoten, Torget, Svolvær, Vågan, Nordland, 8300, Norge"
   },
@@ -4558,10 +4558,10 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/11/vlk-1260x1680-1.jpg",
     "address": "",
     "city": "",
-    "lat": 60.2463982,
-    "lon": 20.3509256,
+    "lat": 60.2422089,
+    "lon": 20.3286748,
     "geocode_query": "Vår Finland",
-    "geocode_display_name": "Vargata, Vårdö, Ålands skärgård, Åland, 22550, Suomi / Finland"
+    "geocode_display_name": "Vargata brygga, Vårdö, Ålands skärgård, Åland, 22550, Suomi / Finland"
   },
   {
     "name": "We Boutique Hotel",
@@ -4575,7 +4575,7 @@
     "lat": 41.6601014,
     "lon": -4.7345428,
     "geocode_query": "Boutique Hotel Spain",
-    "geocode_display_name": "Soho Boutique La Harinera, Carril Bici José Luis López Cerrón, Villa del Prado, Huerta del Rey, Valladolid, Castilla y León, 47009, España"
+    "geocode_display_name": "Soho Boutique La Harinera, Avenida de Salamanca, Villa del Prado, Huerta del Rey, Valladolid, Castilla y León, 47003, España"
   },
   {
     "name": "Wellamo",
@@ -4782,9 +4782,9 @@
     "image": "https://360eatguide.com/wp-content/uploads/2026/10/cf-i23age.jpeg",
     "address": "",
     "city": "",
-    "lat": null,
-    "lon": null,
-    "geocode_query": null,
-    "geocode_display_name": null
+    "lat": 50.091342,
+    "lon": 14.4542357,
+    "geocode_query": "Štangl Czech Republic",
+    "geocode_display_name": "Štangl, Pernerova, Karlín, Praha 8, obvod Praha 8, Praha, 186 00, Česko"
   }
 ]
